@@ -1,0 +1,10 @@
+**/.venv
+**/__marimo__
+**/__pycache__
+**/.idea
+**/.vscode
+**/.ruff
+**/.ruff_cache
+**/.DS_Store
+**/.git
+
