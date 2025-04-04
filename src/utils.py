@@ -1,8 +1,10 @@
+from typing import cast
 import polars as pl
-from datasets import DatasetDict, Dataset
+from datasets import DatasetDict, Dataset, load_from_disk
 import os
+import torch
 
-from main import Config
+from options import Config
 
 
 def dataset_to_df(dataset: DatasetDict) -> pl.DataFrame:
@@ -105,4 +107,36 @@ def get_dataset_name(config: Config) -> str:
 
 def save_dataset(dataset: DatasetDict, config: Config) -> None:
     """Save dataset to disk"""
+    print(dataset)
     dataset.save_to_disk(get_dataset_name(config))
+
+
+def load_dataset_from_disk(config: Config) -> DatasetDict:
+    print("Loading dataset from disk...")
+    dataset = cast(DatasetDict, load_from_disk(get_dataset_name(config)))
+    print("Dataset loaded")
+    return dataset
+
+
+def get_device() -> torch.device:
+    device = None
+
+    if torch.backends.mps.is_available():
+        device = torch.device("mps")
+        print("MPS is available!")
+    elif torch.cuda.is_available():
+        device = torch.device("cuda")
+        print("CUDA is available!")
+    else:
+        device = torch.device("cpu")
+        print("MPS and CUDA are not available. Using CPU.")
+
+    return device
+
+
+def get_results_directory_name(config: Config) -> str:
+    return os.path.join(config.results_directory, config.model.value)
+
+
+def get_model_directory_name(config: Config):
+    return os.path.join(config.model_directory, config.model.value)
