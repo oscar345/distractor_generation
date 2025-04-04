@@ -7,4 +7,5 @@
 **/.ruff_cache
 **/.DS_Store
 **/.git
-
+**/tmp_trainer
+**/*.zip
