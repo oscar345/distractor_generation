@@ -31,3 +31,13 @@ huggingface-cli login
 With all things in place, we are now able to run the code.
 
 ## Usage
+### Preprocessing data
+
+### Training
+
+### Evaluation
+
+### Inference
+
+## Disclaimer
+While this is roughly the same code as we used to train the model, it has been modified so the four actions (preprocess, train, evaluate and predict) can be run independently (so not as one script). To find the original code we used, you can open the [notebook directory](./notebooks). These are marimo notebooks, which can also be run as normal Python scripts.
