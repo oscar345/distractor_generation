@@ -1,3 +1,4 @@
+from datasets import Dataset, load_dataset
 from transformers import (
     BertModel,
     BertTokenizer,
@@ -8,9 +9,11 @@ from transformers import (
 )
 import torch.nn as nn
 import torch
-from typing import Dict
+from typing import Dict, cast
 from options import Config
 import utils
+from utils import Distractors
+from safetensors.torch import load_file
 
 DECODER_MAX_GEN_LENGTH = 8
 DECODER_N_HEADS = 8
@@ -57,6 +60,17 @@ class DecoderBert(PreTrainedModel):
         self.query_embeddings = nn.Parameter(
             torch.randn(self.config.max_generation_length, self.bert.config.hidden_size)
         )
+
+    @classmethod
+    def from_pretrained(cls, model_path, tokenizer):
+        """Custom method to load model with tokenizer"""
+        config = DecoderBertConfig.from_pretrained(model_path)
+        model = cls(config, tokenizer)  # Instantiate the model
+
+        state_dict = load_file(f"{model_path}/model.safetensors")
+        model.load_state_dict(state_dict)
+
+        return model
 
     def set_is_pretraining(self, value):
         self.is_pretraining = value
@@ -109,8 +123,31 @@ class DecoderBert(PreTrainedModel):
 
             return {"logits": logits, "loss": loss}
 
+        batch_size, seq_len, vocab_size = logits.size()
+        sampled_sequences = []
+
+        for _ in range(3):
+            # Get top-k logits and indices
+            top_k_logits, top_k_indices = torch.topk(
+                logits, 50, dim=-1
+            )  # [batch, seq_len, k]
+            top_k_probs = torch.softmax(top_k_logits, dim=-1)
+
+            # Sample from top-k for each token position
+            sampled = torch.distributions.Categorical(
+                top_k_probs
+            ).sample()  # [batch, seq_len]
+
+            # Gather actual token ids using sampled indices
+            sampled_tokens = torch.gather(
+                top_k_indices, dim=-1, index=sampled.unsqueeze(-1)
+            ).squeeze(-1)
+            sampled_sequences.append(sampled_tokens)
+
+        # Shape: [batch, num_samples, seq_len]
+        token_ids = torch.stack(sampled_sequences, dim=1)
         # maybe add a better way to generate the tokens, since now they are not random
-        return {"token_ids": logits.argmax(dim=-1)}
+        return {"token_ids": token_ids}
 
     def _generate_mask(self, size):
         return torch.triu(torch.ones(size, size) * float("-inf"), diagonal=1).to(
@@ -118,7 +155,9 @@ class DecoderBert(PreTrainedModel):
         )
 
 
-def tokenize_function_normal(tokenizer: BertTokenizer, examples: Dict):
+def tokenize_function_normal(
+    tokenizer: BertTokenizer, examples: Dict, with_labels=True
+):
     text = [
         f"[CLS] context: {c} [SEP] question: {q} [SEP] correct answer: {a} [SEP]"
         for c, q, a in zip(
@@ -136,18 +175,24 @@ def tokenize_function_normal(tokenizer: BertTokenizer, examples: Dict):
         max_length=512,
     )
 
-    decoder_input = tokenizer(
-        examples["distractor"],
-        padding="max_length",
-        truncation=True,
-        return_tensors="pt",
-        max_length=DECODER_MAX_GEN_LENGTH,
-    )
+    if with_labels:
+        decoder_input = tokenizer(
+            examples["distractor"],
+            padding="max_length",
+            truncation=True,
+            return_tensors="pt",
+            max_length=DECODER_MAX_GEN_LENGTH,
+        )
+
+        return {
+            "input_ids": encoder_input["input_ids"],
+            "attention_mask": encoder_input["attention_mask"],
+            "labels": decoder_input["input_ids"],
+        }
 
     return {
         "input_ids": encoder_input["input_ids"],
         "attention_mask": encoder_input["attention_mask"],
-        "labels": decoder_input["input_ids"],
     }
 
 
@@ -194,7 +239,7 @@ def train(config: Config):
     print("Model loaded")
     model.to(device)  # type: ignore
 
-    print(f"\n\nDevice of model is: {model.device}\n\n")
+    print(f"Device of model is: {model.device}")
 
     training_args = TrainingArguments(
         output_dir=utils.get_results_directory_name(config),
@@ -237,3 +282,43 @@ def train(config: Config):
     print("Saving model...")
     model.save_pretrained(utils.get_model_directory_name(config))
     print("Model saved")
+
+
+def predict(config: Config):
+    print("Loading dataset...")
+    test_dataset = cast(Dataset, load_dataset(config.dataset_name, split="test"))
+    print("Dataset loaded")
+
+    device = utils.get_device()
+    tokenizer = BertTokenizer.from_pretrained(config.bert_model_name)
+
+    dataset = test_dataset.map(
+        lambda examples: tokenize_function_normal(
+            tokenizer, examples, with_labels=False
+        ),
+        batched=True,
+    )
+
+    print("Loading model...")
+    model = DecoderBert.from_pretrained(
+        utils.get_model_directory_name(config), tokenizer=tokenizer
+    )
+    print("Model loaded")
+    model.to(device)  # type: ignore
+
+    print(f"\n\nDevice of model is: {model.device}\n\n")
+
+    trainer = Trainer(model=model)
+    predictions, _, _ = trainer.predict(dataset)  # type: ignore
+
+    tokens = [
+        Distractors(
+            distractor1=tokenizer.decode(t1, skip_special_tokens=True),
+            distractor2=tokenizer.decode(t2, skip_special_tokens=True),
+            distractor3=tokenizer.decode(t3, skip_special_tokens=True),
+        )
+        for t1, t2, t3 in predictions
+    ]
+
+    predictions_dataset = utils.replace_distractors_in_dataset(test_dataset, tokens)
+    predictions_dataset.save_to_disk(utils.get_predictions_directory_name(config))

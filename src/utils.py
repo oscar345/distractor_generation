@@ -1,10 +1,19 @@
-from typing import cast
+from typing import cast, List
 import polars as pl
 from datasets import DatasetDict, Dataset, load_from_disk
 import os
+from simple_parsing.helpers.serialization.serializable import D
 import torch
+from dataclasses import asdict, dataclass
 
 from options import Config
+
+
+@dataclass
+class Distractors:
+    distractor1: str
+    distractor2: str
+    distractor3: str
 
 
 def dataset_to_df(dataset: DatasetDict) -> pl.DataFrame:
@@ -28,77 +37,6 @@ def df_to_dataset(df: pl.DataFrame) -> DatasetDict:
             "test": Dataset.from_polars(df.filter(pl.col("split") == "test")),
         }
     )
-
-
-def preprocess_encoder_decoder(dataset: DatasetDict):
-    """
-    Preprocess encoder-decoder model
-
-    The dataset will be converted so there wont be three distractors per row, but a
-    single distractor. To keep all distractors, the original row will be split into
-    three rows. For the encoder decoder model we believe this to be beneficial, so it
-    can focus on generating small sequences of tokens that don't vary too much in length.
-    Those lengths may vary more when predicting multiple answer options at once.
-
-    So if the current dataset looks like this: `A B C1 C2 C3`, it will become like this:
-
-    ```
-    A B C1
-    A B C2
-    A B C3
-    ```
-    """
-    df = dataset_to_df(dataset)
-
-    df = df.unpivot(
-        index=["question", "correct_answer", "support", "split"],
-        on=["distractor1", "distractor2", "distractor3"],
-        variable_name="x",
-        value_name="distractor",
-    )
-
-    df = df.drop(["x"])
-
-    return df_to_dataset(df)
-
-
-def preprocess_decoder(dataset: DatasetDict) -> DatasetDict:
-    """Preprocess decoder model"""
-    df = dataset_to_df(dataset)
-
-    # We are creating two new columns: the text column with the input for the model such as the
-    # the support, question and answer. The target for the model will be the three distractors.
-    # With these transformations we can easily tokenize the data inside the tokenize function.
-    df = df.with_columns(
-        [
-            pl.format(
-                "Question: {}\nCorrect Answer: {}\nSupport: {}",
-                pl.col("question"),
-                pl.col("correct_answer"),
-                pl.col("support"),
-            ).alias("text"),
-            pl.format(
-                "Distractor 1: {}\nDistractor 2: {}\nDistractor 3: {}",
-                pl.col("distractor1"),
-                pl.col("distractor2"),
-                pl.col("distractor3"),
-            ).alias("target"),
-        ]
-    )
-
-    # the following columns are no longer needed since they are used in the creation of the new columns
-    df = df.drop(
-        [
-            "distractor1",
-            "distractor2",
-            "distractor3",
-            "question",
-            "correct_answer",
-            "support",
-        ]
-    )
-
-    return df_to_dataset(df)
 
 
 def get_dataset_name(config: Config) -> str:
@@ -140,3 +78,18 @@ def get_results_directory_name(config: Config) -> str:
 
 def get_model_directory_name(config: Config):
     return os.path.join(config.model_directory, config.model.value)
+
+
+def get_predictions_directory_name(config: Config):
+    return os.path.join(config.predictions_directory, config.model.value)
+
+
+def replace_distractors_in_dataset(
+    dataset: Dataset, distractors: List[Distractors]
+) -> Dataset:
+    df_dataset = cast(pl.DataFrame, dataset.to_polars())
+    df_tokens = pl.DataFrame([asdict(object) for object in distractors])
+
+    df = df_dataset.update(df_tokens)
+
+    return Dataset.from_polars(df)

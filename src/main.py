@@ -5,6 +5,7 @@ from simple_parsing import ArgumentParser
 from datasets import load_dataset
 from models import bert
 import utils
+import preprocessing
 
 
 def parse_arguments():
@@ -29,11 +30,13 @@ def run(config: Config):
 
     match (config.model, config.model_type, config.mode):
         case (_, ModelType.encoder_decoder, Mode.preprocess):
-            preprocess(utils.preprocess_encoder_decoder, config)
+            preprocess(preprocessing.preprocess_encoder_decoder, config)
         case (_, ModelType.decoder, Mode.preprocess):
-            preprocess(utils.preprocess_decoder, config)
+            preprocess(preprocessing.preprocess_decoder, config)
         case (Model.bert_decoder, _, Mode.train):
             bert.train(config)
+        case (Model.bert_decoder, _, Mode.predict):
+            bert.predict(config)
         case _:
             raise ValueError(
                 # this can happen for the "baseline" model, which is a regular llama model (not fine-tuned),
