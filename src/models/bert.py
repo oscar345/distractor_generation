@@ -304,7 +304,7 @@ def predict(config: Config):
         utils.get_model_directory_name(config), tokenizer=tokenizer
     )
     print("Model loaded")
-    model.to(device)  # type: ignore
+    model = model.to(device)  # type: ignore
 
     print(f"\n\nDevice of model is: {model.device}\n\n")
 
