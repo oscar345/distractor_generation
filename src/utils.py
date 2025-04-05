@@ -2,7 +2,6 @@ from typing import cast, List
 import polars as pl
 from datasets import DatasetDict, Dataset, load_from_disk
 import os
-from simple_parsing.helpers.serialization.serializable import D
 import torch
 from dataclasses import asdict, dataclass
 
@@ -90,6 +89,6 @@ def replace_distractors_in_dataset(
     df_dataset = cast(pl.DataFrame, dataset.to_polars())
     df_tokens = pl.DataFrame([asdict(object) for object in distractors])
 
-    df = df_dataset.update(df_tokens)
+    df = df_dataset.update(df_tokens, include_nulls=True)
 
     return Dataset.from_polars(df)
