@@ -42,14 +42,34 @@ def preprocess_decoder(dataset: DatasetDict) -> DatasetDict:
     # We are creating two new columns: the text column with the input for the model such as the
     # the support, question and answer. The target for the model will be the three distractors.
     # With these transformations we can easily tokenize the data inside the tokenize function.
+
+    def text(is_baseline):
+        text = (
+            "There will be a question, support and correct answer. Given those generate 3 false answer options in the following format:\n\nDistractor 1: <answer>\nDistractor 2: <answer>\nDistractor 3: <answer>\n\n"
+            if is_baseline
+            else ""
+        )
+
+        text += "Question: {}\nCorrect Answer: {}\nSupport: {}\n"
+
+        text += "" if is_baseline else "Generate 3 false answer options:\n"
+
+        return text
+
     df = df.with_columns(
         [
             pl.format(
-                "Question: {}\nCorrect Answer: {}\nSupport: {}",
+                text(False),
                 pl.col("question"),
                 pl.col("correct_answer"),
                 pl.col("support"),
             ).alias("text"),
+            pl.format(
+                text(True),
+                pl.col("question"),
+                pl.col("correct_answer"),
+                pl.col("support"),
+            ).alias("baseline"),
             pl.format(
                 "Distractor 1: {}\nDistractor 2: {}\nDistractor 3: {}",
                 pl.col("distractor1"),
