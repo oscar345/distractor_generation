@@ -3,7 +3,7 @@ from typing import Callable, cast
 from datasets.load import DatasetDict
 from simple_parsing import ArgumentParser
 from datasets import load_dataset
-from models import bert
+from models import baseline, bert, llama
 import utils
 import preprocessing
 
@@ -37,6 +37,10 @@ def run(config: Config):
             bert.train(config)
         case (Model.bert_decoder, _, Mode.predict):
             bert.predict(config)
+        case (Model.llama, _, Mode.predict):
+            llama.predict(config)
+        case (Model.baseline, _, Mode.predict):
+            baseline.predict(config)
         case _:
             raise ValueError(
                 # this can happen for the "baseline" model, which is a regular llama model (not fine-tuned),
