@@ -2,7 +2,7 @@ from typing import cast
 from datasets import Dataset, load_dataset
 from peft import LoraConfig, get_peft_model
 import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments
+from transformers import AutoModelForCausalLM, Trainer, TrainingArguments
 from models import decoder
 from options import Config
 import utils
@@ -10,7 +10,7 @@ import utils
 
 def train(config: Config):
     dataset = utils.load_dataset_from_disk(config)
-    tokenizer = AutoTokenizer.from_pretrained(config.llama_model_name)
+    tokenizer = decoder.load_tokenizer(config.llama_model_name)
     device = utils.get_device()
 
     dataset = dataset.map(
@@ -66,11 +66,12 @@ def train(config: Config):
 
 def predict(config: Config):
     print("Loading dataset...")
-    test_dataset = cast(Dataset, load_dataset(config.dataset_name, split="test"))
+    original_dataset = cast(Dataset, load_dataset(config.dataset_name, split="test"))
+    test_dataset = cast(Dataset, utils.load_dataset_from_disk(config).get("test"))
     print("Dataset loaded")
 
     device = utils.get_device()
-    tokenizer = AutoTokenizer.from_pretrained(config.llama_model_name)
+    tokenizer = decoder.load_tokenizer(config.llama_model_name)
 
     dataset = test_dataset.map(
         lambda examples: decoder.tokenize_function(
@@ -91,6 +92,6 @@ def predict(config: Config):
 
     distractors = decoder.generate_predictions(model, dataset, tokenizer, device)
     predictions_dataset = utils.replace_distractors_in_dataset(
-        test_dataset, distractors
+        original_dataset, distractors
     )
     predictions_dataset.save_to_disk(utils.get_predictions_directory_name(config))
