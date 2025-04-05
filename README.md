@@ -61,6 +61,12 @@ python src/main.py --model llama --mode preprocess
 
 ### Training
 
+You can train all the models except the `baseline` model, which will do zero-shot predictions. Both decoder models will be trained to predict all three predictions at once. The BERT model will train to predict one distractor at once. To generate the distractor for the BERT model, we use an additional not yet trained decoder model. This model will be pretrained on the support, question and correct answers, and then the entire model will be trained. Keep this is mind with the time to train the model. To train one of the models just run:
+
+```
+python src/main.py --model bert_decoder --mode train
+```
+
 ### Evaluation
 
 ### Predicting
