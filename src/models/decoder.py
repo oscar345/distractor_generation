@@ -2,6 +2,7 @@
 # is the tokenizer function. Since that code is shared, it is stored in a
 # separate file.
 
+from pprint import pprint
 from typing import Dict, List, Any
 from datasets import Dataset
 import torch
@@ -12,12 +13,17 @@ import re
 from utils import Distractors
 
 
-def tokenize_function(tokenizer: AutoTokenizer, examples: Dict, with_labels=True):
+def tokenize_function(
+    tokenizer: AutoTokenizer, examples: Dict, with_labels=True, text_column="text"
+):
     """"""
     text = (
-        [text + target for text, target in zip(examples["text"], examples["target"])]
+        [
+            text + target
+            for text, target in zip(examples[text_column], examples["target"])
+        ]
         if with_labels
-        else examples["text"]
+        else examples[text_column]
     )
 
     tokenized = tokenizer(
@@ -46,9 +52,9 @@ def load_in_4bit(device: torch.device) -> bool:
 
 
 def safe_get(list: List[Any], index: int) -> Any:
-    l = len(list)
+    length = len(list)
 
-    if index < l:
+    if index < length:
         return list[index]
     else:
         return None
@@ -59,10 +65,11 @@ def generate_predictions(
     dataset: Dataset,
     tokenizer: AutoTokenizer,
     device: torch.device,
+    is_baseline=False,
 ) -> List[Distractors]:
     dataloader = DataLoader(
         dataset,  # type:ignore
-        batch_size=4,
+        batch_size=8,
         shuffle=False,
         collate_fn=default_data_collator,
     )
@@ -85,6 +92,7 @@ def generate_predictions(
             )
 
         text = tokenizer.batch_decode(generated, skip_special_tokens=True)  # type:ignore
+
         outputs.extend(text)
 
     pattern = r"Distractor \d+: (.+)"
@@ -94,11 +102,20 @@ def generate_predictions(
         answers = re.findall(pattern, output)
 
         distractor = Distractors(
-            distractor1=safe_get(answers, 0),
-            distractor2=safe_get(answers, 1),
-            distractor3=safe_get(answers, 2),
+            # the index needs to be increased by 3 if it is the baseline,
+            # since in the prompt for the baseline model contains the pattern
+            # already three times
+            distractor1=safe_get(answers, 3 if is_baseline else 0),
+            distractor2=safe_get(answers, 4 if is_baseline else 1),
+            distractor3=safe_get(answers, 5 if is_baseline else 2),
         )
 
         distractors.append(distractor)
 
     return distractors
+
+
+def load_tokenizer(model_name: str) -> AutoTokenizer:
+    tokenizer = AutoTokenizer.from_pretrained(model_name, padding_side="left")
+    tokenizer.pad_token = tokenizer.eos_token
+    return tokenizer
