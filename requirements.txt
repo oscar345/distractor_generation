@@ -13,3 +13,4 @@ protobuf==6.30.2
 peft==0.15.0
 simple-parsing==0.1.7
 bitsandbytes==0.45.4
+tqdm==4.67.1

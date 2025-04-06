@@ -8,7 +8,9 @@ from datasets import Dataset
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, default_data_collator
 from torch.utils.data import DataLoader
+from tqdm import tqdm
 import re
+
 
 from utils import Distractors
 
@@ -78,7 +80,7 @@ def generate_predictions(
 
     outputs = []
 
-    for batch in dataloader:
+    for batch in tqdm(dataloader):
         # set input to the correct device
         batch = {k: v.to(device) for k, v in batch.items()}
 

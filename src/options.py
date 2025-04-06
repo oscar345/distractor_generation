@@ -11,7 +11,7 @@ class Model(enum.Enum):
     baseline = "baseline"
     bert_decoder = "bert_decoder"
     llama = "llama"
-    mistrall = "mistrall"
+    mistral = "mistral"
 
 
 class Mode(enum.Enum):
@@ -42,5 +42,5 @@ class Config(Options):
 
     dataset_name: str = field(default="allenai/sciq")
     llama_model_name: str = field(default="meta-llama/Llama-3.2-1B")
-    mistrall_model_name: str = field(default="")
+    mistral_model_name: str = field(default="mistralai/Mistral-7B-v0.3")
     bert_model_name: str = field(default="bert-base-uncased")

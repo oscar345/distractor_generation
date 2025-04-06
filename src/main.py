@@ -3,7 +3,7 @@ from typing import Callable, cast
 from datasets.load import DatasetDict
 from simple_parsing import ArgumentParser
 from datasets import load_dataset
-from models import baseline, bert, llama
+from models import baseline, bert, llama, mistral
 import utils
 import preprocessing
 
@@ -28,6 +28,11 @@ def preprocess(
 def run(config: Config):
     print("Running...")
 
+    # - predict: all models
+    # - preprocess: all models
+    # - train: bert, (baseline)
+    # - evaluation: ...
+
     match (config.model, config.model_type, config.mode):
         case (_, ModelType.encoder_decoder, Mode.preprocess):
             preprocess(preprocessing.preprocess_encoder_decoder, config)
@@ -41,6 +46,8 @@ def run(config: Config):
             llama.predict(config)
         case (Model.baseline, _, Mode.predict):
             baseline.predict(config)
+        case (Model.mistral, _, Mode.predict):
+            mistral.predict(config)
         case _:
             raise ValueError(
                 # this can happen for the "baseline" model, which is a regular llama model (not fine-tuned),
