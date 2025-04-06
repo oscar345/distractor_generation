@@ -1,0 +1,12 @@
+{
+  "__name__": "decoder-bert",
+  "architectures": [
+    "DecoderBert"
+  ],
+  "bert_model_name": "bert-base-uncased",
+  "hidden_dim": 768,
+  "max_generation_length": 8,
+  "torch_dtype": "float32",
+  "transformers_version": "4.49.0",
+  "vocab_size": 30522
+}
