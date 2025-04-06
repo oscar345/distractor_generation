@@ -10,3 +10,4 @@
 **/tmp_trainer
 **/*.zip
 **/cache*.arrow
+**/predictions/*_1
