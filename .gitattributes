@@ -1,1 +1,2 @@
-./project/models/bert_decoder/model.safetensors filter=lfs diff=lfs merge=lfs -text
+project/models/bert_decoder/model.safetensors filter=lfs diff=lfs merge=lfs -text
+project/models/bert_decoder/optimizer.pt filter=lfs diff=lfs merge=lfs -text
