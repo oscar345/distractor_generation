@@ -105,7 +105,7 @@ def predict(config: Config):
 
     distractors = decoder.generate_predictions(
         model,  # type:ignore
-        dataset.select(range(8)),
+        dataset,
         tokenizer,
         device,
     )

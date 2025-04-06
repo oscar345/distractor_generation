@@ -30,7 +30,7 @@ def run(config: Config):
 
     # - predict: all models
     # - preprocess: all models
-    # - train: bert, (baseline)
+    # - train: all models
     # - evaluation: ...
 
     match (config.model, config.model_type, config.mode):
@@ -40,6 +40,10 @@ def run(config: Config):
             preprocess(preprocessing.preprocess_decoder, config)
         case (Model.bert_decoder, _, Mode.train):
             bert.train(config)
+        case (Model.llama, _, Mode.train):
+            llama.train(config)
+        case (Model.mistral, _, Mode.train):
+            mistral.train(config)
         case (Model.bert_decoder, _, Mode.predict):
             bert.predict(config)
         case (Model.llama, _, Mode.predict):
