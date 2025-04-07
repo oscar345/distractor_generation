@@ -39,6 +39,7 @@ class Config(Options):
     results_directory: str = field(default="project/results")
     model_directory: str = field(default="project/models")
     predictions_directory: str = field(default="project/predictions")
+    evaluation_directory: str = field(default="project/evaluation")
 
     dataset_name: str = field(default="allenai/sciq")
     llama_model_name: str = field(default="meta-llama/Llama-3.2-1B")

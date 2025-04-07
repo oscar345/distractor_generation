@@ -1,3 +1,4 @@
+import evaluation
 from options import Options, Model, ModelType, Config, Mode
 from typing import Callable, cast
 from datasets.load import DatasetDict
@@ -52,6 +53,8 @@ def run(config: Config):
             baseline.predict(config)
         case (Model.mistral, _, Mode.predict):
             mistral.predict(config)
+        case (_, _, Mode.eval):
+            evaluation.evaluate(config)
         case _:
             raise ValueError(
                 # this can happen for the "baseline" model, which is a regular llama model (not fine-tuned),
