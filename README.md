@@ -70,8 +70,6 @@ You can train all the models except the `baseline` model, which will do zero-sho
 python src/main.py --model bert_decoder --mode train
 ```
 
-### Evaluation
-
 ### Predicting
 
 The model will be loaded from disk and the test split from the original `sciq` dataset is loaded. Then the model is run on this dataset and the distractors are created. Those generated distractors will **replace** the original distractors. This version of the dataset is then saved in the `project/predictions/<model>` directory. You can make predictions with a model like so:
@@ -79,6 +77,14 @@ The model will be loaded from disk and the test split from the original `sciq` d
 ```
 python src/main.py --model bert_decoder --mode predict
 ```
+
+### Evaluation
+The predictions that are generated previously were saved in `project/predictions/<model>` directory. Those predictions are used to evaluate the model and are loaded from disk. For each model mutliple evaluation plots and files are created and they are stored in the `project/predictions/<model>` directory. You can create evaluations with the following command:
+
+```
+python src/main.py --model mistral --mode eval
+```
+
 
 ## Disclaimer
 While this is roughly the same code as we used to train the model, it has been modified so the four actions (preprocess, train, evaluate and predict) can be run independently (so not as one script). To find the original code we used, you can open the [notebook directory](./notebooks). These are marimo notebooks, which can also be run as normal Python scripts.

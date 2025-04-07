@@ -36,7 +36,9 @@ def preprocess_encoder_decoder(dataset: DatasetDict):
 
 
 def preprocess_decoder(dataset: DatasetDict) -> DatasetDict:
-    """Preprocess decoder model"""
+    """
+    Preprocess decoder model
+    """
     df = dataset_to_df(dataset)
 
     # We are creating two new columns: the text column with the input for the model such as the

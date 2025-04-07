@@ -2,7 +2,7 @@
 # is the tokenizer function. Since that code is shared, it is stored in a
 # separate file.
 
-from pprint import pprint
+
 from typing import Dict, List, Any
 from datasets import Dataset
 import torch
@@ -18,7 +18,13 @@ from utils import Distractors
 def tokenize_function(
     tokenizer: AutoTokenizer, examples: Dict, with_labels=True, text_column="text"
 ):
-    """"""
+    """
+    The batched examples will be tokenized. The labels can be provided for training,
+    but for predicting the test dataset they can be excluded by setting `with_labels`
+    to `False`. For the baseline model the prompt is a little different to instruct
+    in which format we want the results. To use the text with the format prompt,
+    you can change the `text_column` value from "text" to "baseline".
+    """
     text = (
         [
             text + target
@@ -54,6 +60,14 @@ def load_in_4bit(device: torch.device) -> bool:
 
 
 def safe_get(list: List[Any], index: int) -> Any:
+    """
+    The list with distractors may not have an item at the given index. Since
+    we do not want the program to crash, we return None instead of the value.
+
+    The returned value is the same as the inner value in the list:
+
+    `[T](list: List[T], index: int) -> Optional[T]`
+    """
     length = len(list)
 
     if index < length:
@@ -69,6 +83,21 @@ def generate_predictions(
     device: torch.device,
     is_baseline=False,
 ) -> List[Distractors]:
+    """
+    In batches of 8, the model will run on the preprocessed and tokenized dataset
+    without the labels. The model uses top k sampling to generate (random) text.
+
+    The generated text should include the distractors in the following format:
+    Distractor 1: <answer>
+    Distractor 2: <answer>
+    Distractor 3: <answer>
+
+    So with regex we retrieve the generated answers from the text. For the baseline
+    model the index of the regex list of findings is increased with 3, because the
+    prompt of the baseline includes text with how to format the answers. So for
+    predicting with the baseline, the `is_baseline` parameter should be set to `True`
+    """
+
     dataloader = DataLoader(
         dataset,  # type:ignore
         batch_size=8,

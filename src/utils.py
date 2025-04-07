@@ -16,7 +16,9 @@ class Distractors:
 
 
 def dataset_to_df(dataset: DatasetDict) -> pl.DataFrame:
-    """Convert a DatasetDict to a Polars DataFrame while preserving the split information."""
+    """
+    Convert a DatasetDict to a Polars DataFrame while preserving the split information.
+    """
     return pl.concat(
         [
             dataset.to_polars().with_columns([pl.lit(split).alias("split")])
@@ -26,7 +28,9 @@ def dataset_to_df(dataset: DatasetDict) -> pl.DataFrame:
 
 
 def df_to_dataset(df: pl.DataFrame) -> DatasetDict:
-    """Convert a Dataframe back to a DatasetDict with the right split."""
+    """
+    Convert a Dataframe back to a DatasetDict with the right split.
+    """
     return DatasetDict(
         {
             "train": Dataset.from_polars(df.filter(pl.col("split") == "train")),
@@ -43,7 +47,9 @@ def get_dataset_name(config: Config) -> str:
 
 
 def save_dataset(dataset: DatasetDict, config: Config) -> None:
-    """Save dataset to disk"""
+    """
+    Save dataset to disk
+    """
     print(dataset)
     dataset.save_to_disk(get_dataset_name(config))
 
