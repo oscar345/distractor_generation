@@ -1,0 +1,1889 @@
+Outliers Detected:
+Context: But transgenic animals just have one novel gene. What about an animal with a whole new genome? Could a clone , a genetically exact copy of an organism, be developed using techniques associated with biotechnology? It could be argued that human cloning is one of the inevitable outcomes of modern biotechnology. It "simply" involves the removal of the nucleus from a somatic cell and its placement into an unfertilized egg cell whose nucleus has either been deactivated or removed. This new cell would mimic the zygote, the first diploid cell of a new organism. This new zygote is allowed to become established, and a few days later is placed into the uterus of a surrogate mother. Theoretically this would result in an individual genetically identical to the donor. Obviously, there are many ethical and legal issues associated with human cloning, and of course, it is not a "simple" procedure. But animal cloning is arguably a different story.
+Question: What term in biotechnology means a genetically exact copy of an organism?
+Correct Answer: clone
+Distractors: genetic engineering, transgenic, genetic modification
+  - genetic engineering: Similarity Score: 0.197557
+  - transgenic: Similarity Score: 0.314510
+  - genetic modification: Similarity Score: 0.182441
+
+  - clone: Probability Score (good answer): 0.021787
+  - genetic engineering: Probability Score: 0.269083
+  - transgenic: Probability Score: 0.169430
+  - genetic modification: Probability Score: 0.154072
+
+  - genetic engineering: Lexical Score: 0.000000
+  - transgenic: Lexical Score: 0.000000
+  - genetic modification: Lexical Score: 0.000000
+
+Context: Wings evolved in a bird ancestor that lived in trees. Thus, wings are modified arms that helped the animal glide from branch to branch.
+Question: The bird ancestor that lived in trees developed what feature commonly associated with birds?
+Correct Answer: wings
+Distractors: feathers, legs, wings
+  - feathers: Similarity Score: 0.462212
+  - legs: Similarity Score: 0.386676
+  - wings: Similarity Score: 1.000000
+
+  - wings: Probability Score (good answer): 0.189220
+  - feathers: Probability Score: 0.003205
+  - legs: Probability Score: 0.109419
+  - wings: Probability Score: 0.189220
+
+  - feathers: Lexical Score: 0.000000
+  - legs: Lexical Score: 0.000000
+  - wings: Lexical Score: 1.000000
+
+Context: Mammals raise their hair with tiny muscles in the skin. Even humans automatically contract these muscles when they are cold. They cause “goosebumps,” as shown here.
+Question: What happens when mammals raise their hair with tiny muscles in the skin?
+Correct Answer: goosebumps
+Distractors: goosebumps, fur, feathers
+  - goosebumps: Similarity Score: 1.000000
+  - fur: Similarity Score: 0.164307
+  - feathers: Similarity Score: 0.287541
+
+  - goosebumps: Probability Score (good answer): 0.000000
+  - goosebumps: Probability Score: 0.000000
+  - fur: Probability Score: 0.000000
+  - feathers: Probability Score: 0.000000
+
+  - goosebumps: Lexical Score: 1.000000
+  - fur: Lexical Score: 0.000000
+  - feathers: Lexical Score: 0.000000
+
+Context: Watch this Discovery Channel animation (http://openstaxcollege. org/l/adrenaline) describing the flight-or-flight response. Long-term Stress Response Long-term stress response differs from short-term stress response. The body cannot sustain the bursts of energy mediated by epinephrine and norepinephrine for long times. Instead, other hormones come into play. In a long-term stress response, the hypothalamus triggers the release of ACTH from the anterior pituitary gland. The adrenal cortex is stimulated by ACTH to release steroid hormones called corticosteroids. Corticosteroids turn on transcription of certain genes in the nuclei of target cells. They change enzyme concentrations in the cytoplasm and affect cellular metabolism. There are two main corticosteroids: glucocorticoids such as cortisol, and mineralocorticoids such as aldosterone. These hormones target the breakdown of fat into fatty acids in the adipose tissue. The fatty acids are released into the bloodstream for other tissues to use for ATP production. The glucocorticoids primarily affect glucose metabolism by stimulating glucose synthesis. Glucocorticoids also have anti-inflammatory properties through inhibition of the immune system. For example, cortisone is used as an anti-inflammatory medication; however, it cannot be used long term as it increases susceptibility to disease due to its immune-suppressing effects. Mineralocorticoids function to regulate ion and water balance of the body. The hormone aldosterone stimulates the reabsorption of water and sodium ions in the kidney, which results in increased blood pressure and volume. Hypersecretion of glucocorticoids can cause a condition known as Cushing’s disease, characterized by a shifting of fat storage areas of the body. This can cause the accumulation of adipose tissue in the face and neck, and excessive glucose in the blood. Hyposecretion of the corticosteroids can cause Addison’s disease, which may result in bronzing of the skin, hypoglycemia, and low electrolyte levels in the blood.
+Question: The body cannot sustain for very long the bursts of energy mediated by epinephrine and norepinephrine, hormones associated with what stress response?
+Correct Answer: fight-or-flight
+Distractors: fight-or-flight, fight-or-flight, fight-or-flight
+  - fight-or-flight: Similarity Score: 1.000000
+  - fight-or-flight: Similarity Score: 1.000000
+  - fight-or-flight: Similarity Score: 1.000000
+
+  - fight-or-flight: Probability Score (good answer): 0.000866
+  - fight-or-flight: Probability Score: 0.000866
+  - fight-or-flight: Probability Score: 0.000866
+  - fight-or-flight: Probability Score: 0.000866
+
+  - fight-or-flight: Lexical Score: 1.000000
+  - fight-or-flight: Lexical Score: 1.000000
+  - fight-or-flight: Lexical Score: 1.000000
+
+Context: 
+Question: Trees and shrubs are example of what type of plant?
+Correct Answer: perennials
+Distractors: annuals, biennials, perennials
+  - annuals: Similarity Score: 0.403860
+  - biennials: Similarity Score: 0.530972
+  - perennials: Similarity Score: 1.000000
+
+  - perennials: Probability Score (good answer): 0.023997
+  - annuals: Probability Score: 0.000000
+  - biennials: Probability Score: 0.063496
+  - perennials: Probability Score: 0.023997
+
+  - annuals: Lexical Score: 0.000000
+  - biennials: Lexical Score: 0.000000
+  - perennials: Lexical Score: 1.000000
+
+Context: 
+Question: Pairs of nitrogenous bases are attached to each other by?
+Correct Answer: hydrogen bonds
+Distractors: covalent bonds, hydrophobic interactions, hydrogen bonds
+  - covalent bonds: Similarity Score: 0.375303
+  - hydrophobic interactions: Similarity Score: 0.508811
+  - hydrogen bonds: Similarity Score: 1.000000
+
+  - hydrogen bonds: Probability Score (good answer): 0.001139
+  - covalent bonds: Probability Score: 0.000616
+  - hydrophobic interactions: Probability Score: 0.000020
+  - hydrogen bonds: Probability Score: 0.001139
+
+  - covalent bonds: Lexical Score: 0.333333
+  - hydrophobic interactions: Lexical Score: 0.000000
+  - hydrogen bonds: Lexical Score: 1.000000
+
+Context: 
+Question: Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?
+Correct Answer: plaque
+Distractors: bacteria, plaque, cancer
+  - bacteria: Similarity Score: 0.219392
+  - plaque: Similarity Score: 1.000000
+  - cancer: Similarity Score: 0.160897
+
+  - plaque: Probability Score (good answer): 0.000006
+  - bacteria: Probability Score: 0.000077
+  - plaque: Probability Score: 0.000006
+  - cancer: Probability Score: 0.000000
+
+  - bacteria: Lexical Score: 0.000000
+  - plaque: Lexical Score: 1.000000
+  - cancer: Lexical Score: 0.000000
+
+Context: 
+Question: What record shows that dinosaurs originated 200-250 million years ago?
+Correct Answer: fossil record
+Distractors: fossil record, fossil record, fossil record
+  - fossil record: Similarity Score: 1.000000
+  - fossil record: Similarity Score: 1.000000
+  - fossil record: Similarity Score: 1.000000
+
+  - fossil record: Probability Score (good answer): 0.003584
+  - fossil record: Probability Score: 0.003584
+  - fossil record: Probability Score: 0.003584
+  - fossil record: Probability Score: 0.003584
+
+  - fossil record: Lexical Score: 1.000000
+  - fossil record: Lexical Score: 1.000000
+  - fossil record: Lexical Score: 1.000000
+
+Context: Ecology is the study of ecosystems. That is, ecology is the study of how living organisms interact with each other and with the nonliving part of their environment. An ecosystem consists of all the nonliving factors and living organisms interacting in the same habitat . Recall that living organisms are biotic factors . The biotic factors of an ecosystem include all the populations in a habitat, such as all the species of plants, animals, and fungi, as well as all the micro-organisms. Also recall that the nonliving factors are called abiotic factors . Abiotic factors include temperature, water, soil, and air.
+Question: Temperature, water, soil, and air are examples of nonliving factors of an ecosystem, also termed what?
+Correct Answer: abiotic factors
+Distractors: nutrients, abiotic factors, nonliving factors
+  - nutrients: Similarity Score: 0.373141
+  - abiotic factors: Similarity Score: 1.000000
+  - nonliving factors: Similarity Score: 0.301431
+
+  - abiotic factors: Probability Score (good answer): 0.078958
+  - nutrients: Probability Score: 0.003303
+  - abiotic factors: Probability Score: 0.078958
+  - nonliving factors: Probability Score: 0.183604
+
+  - nutrients: Lexical Score: 0.000000
+  - abiotic factors: Lexical Score: 1.000000
+  - nonliving factors: Lexical Score: 0.333333
+
+Context: Smooth muscle regulates air flow in lungs.
+Question: Which kind of muscle regulates air flow in lungs?
+Correct Answer: smooth
+Distractors: smooth, skeletal, cardiac
+  - smooth: Similarity Score: 1.000000
+  - skeletal: Similarity Score: 0.229503
+  - cardiac: Similarity Score: 0.219128
+
+  - smooth: Probability Score (good answer): 0.000759
+  - smooth: Probability Score: 0.000759
+  - skeletal: Probability Score: 0.002002
+  - cardiac: Probability Score: 0.026932
+
+  - smooth: Lexical Score: 1.000000
+  - skeletal: Lexical Score: 0.000000
+  - cardiac: Lexical Score: 0.000000
+
+Context: 
+Question: Humans are among the most versatile of mammals with what type of diet?
+Correct Answer: omnivore
+Distractors: herbivore, carnivore, omnivore
+  - herbivore: Similarity Score: 0.332700
+  - carnivore: Similarity Score: 0.323056
+  - omnivore: Similarity Score: 1.000000
+
+  - omnivore: Probability Score (good answer): 0.000006
+  - herbivore: Probability Score: 0.000018
+  - carnivore: Probability Score: 0.000001
+  - omnivore: Probability Score: 0.000006
+
+  - herbivore: Lexical Score: 0.000000
+  - carnivore: Lexical Score: 0.000000
+  - omnivore: Lexical Score: 1.000000
+
+Context: With a few exceptions, all insect life begins as an egg. After leaving the egg, insects must grow and transform until reaching adulthood. Only the adult insect can mate and reproduce. The physical transformation of an insect from one stage of its life cycle to another is known as metamorphosis .
+Question: What is the physical transformation of an insect moving through stages of life?
+Correct Answer: metamorphosis
+Distractors: molting, hibernation, metamorphosis
+  - molting: Similarity Score: 0.303678
+  - hibernation: Similarity Score: 0.331873
+  - metamorphosis: Similarity Score: 1.000000
+
+  - metamorphosis: Probability Score (good answer): 0.811891
+  - molting: Probability Score: 0.027017
+  - hibernation: Probability Score: 0.105970
+  - metamorphosis: Probability Score: 0.811891
+
+  - molting: Lexical Score: 0.000000
+  - hibernation: Lexical Score: 0.000000
+  - metamorphosis: Lexical Score: 1.000000
+
+Context: The electrode at which oxidation occurs is called the anode . The zinc anode gradually diminishes as the cell operates due to the loss of zinc metal. The zinc ion concentration in the half-cell increases. Because of the production of electrons at the anode, it is labeled as the negative electrode.
+Question: The electrode at which oxidation occurs is called?
+Correct Answer: the anode
+Distractors: the cathode, the anode, the cathode
+  - the cathode: Similarity Score: 0.455846
+  - the anode: Similarity Score: 1.000000
+  - the cathode: Similarity Score: 0.455846
+
+  - the anode: Probability Score (good answer): 0.029225
+  - the cathode: Probability Score: 0.053390
+  - the anode: Probability Score: 0.029225
+  - the cathode: Probability Score: 0.053390
+
+  - the cathode: Lexical Score: 0.333333
+  - the anode: Lexical Score: 1.000000
+  - the cathode: Lexical Score: 0.333333
+
+Context: 
+Question: A food web can be broken up into what further subdivision that usually has a few links in it?
+Correct Answer: food chain
+Distractors: food web, food chain, food web
+  - food web: Similarity Score: 0.664164
+  - food chain: Similarity Score: 1.000000
+  - food web: Similarity Score: 0.664164
+
+  - food chain: Probability Score (good answer): 0.359771
+  - food web: Probability Score: 0.000837
+  - food chain: Probability Score: 0.359771
+  - food web: Probability Score: 0.000837
+
+  - food web: Lexical Score: 0.333333
+  - food chain: Lexical Score: 1.000000
+  - food web: Lexical Score: 0.333333
+
+Context: Chemistry in Everyday Life Decomposition of Water / Production of Hydrogen Water consists of the elements hydrogen and oxygen combined in a 2 to 1 ratio. Water can be broken down into hydrogen and oxygen gases by the addition of energy. One way to do this is with a battery or power supply, as shown in (Figure 1.15).
+Question: Water can be broken down into hydrogen and oxygen gases by the addition of what?
+Correct Answer: energy
+Distractors: energy, None, None
+  - energy: Similarity Score: 1.000000
+  - None: Similarity Score: 0.206620
+  - None: Similarity Score: 0.206620
+
+  - energy: Probability Score (good answer): 0.000059
+  - energy: Probability Score: 0.000059
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - energy: Lexical Score: 1.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: Where is the spinal trigeminal nucleus located?
+Correct Answer: medulla
+Distractors: medulla, pons, medulla
+  - medulla: Similarity Score: 1.000000
+  - pons: Similarity Score: -0.013851
+  - medulla: Similarity Score: 1.000000
+
+  - medulla: Probability Score (good answer): 0.006801
+  - medulla: Probability Score: 0.006801
+  - pons: Probability Score: 0.000000
+  - medulla: Probability Score: 0.006801
+
+  - medulla: Lexical Score: 1.000000
+  - pons: Lexical Score: 0.000000
+  - medulla: Lexical Score: 1.000000
+
+Context: 
+Question: Arthropods today have two unusual hox genes, both of which influence what?
+Correct Answer: segmentation
+Distractors: segmentation, cell division, cell migration
+  - segmentation: Similarity Score: 1.000000
+  - cell division: Similarity Score: 0.576975
+  - cell migration: Similarity Score: 0.389151
+
+  - segmentation: Probability Score (good answer): 0.000619
+  - segmentation: Probability Score: 0.000619
+  - cell division: Probability Score: 0.795997
+  - cell migration: Probability Score: 0.749450
+
+  - segmentation: Lexical Score: 1.000000
+  - cell division: Lexical Score: 0.000000
+  - cell migration: Lexical Score: 0.000000
+
+Context: The bronchioles lead to the alveoli. Alveoli are the little sacs at the end of the bronchioles ( Figure below ). They look like little bunches of grapes. Oxygen is exchanged for carbon dioxide in the alveoli. That means oxygen enters the blood, and carbon dioxide moves out of the blood. The gases are exchanged between the blood and alveoli by simple diffusion.
+Question: What are the little sacs at the end of the bronchioles called?
+Correct Answer: alveoli
+Distractors: alveoli, alveoli, alveoli
+  - alveoli: Similarity Score: 1.000000
+  - alveoli: Similarity Score: 1.000000
+  - alveoli: Similarity Score: 1.000000
+
+  - alveoli: Probability Score (good answer): 0.003152
+  - alveoli: Probability Score: 0.003152
+  - alveoli: Probability Score: 0.003152
+  - alveoli: Probability Score: 0.003152
+
+  - alveoli: Lexical Score: 1.000000
+  - alveoli: Lexical Score: 1.000000
+  - alveoli: Lexical Score: 1.000000
+
+Context: Hair is a fiber that is found only in mammals. Its main component is keratin. A hair shaft consists of dead, keratin-filled cells that overlap each other like the shingles on a roof (see Figure below ). Like roof shingles, the overlapping cells help shed water from the hair.
+Question: What is a fiber that is found only in mammals?
+Correct Answer: hair
+Distractors: hair, keratin, nails
+  - hair: Similarity Score: 1.000000
+  - keratin: Similarity Score: 0.118217
+  - nails: Similarity Score: 0.163129
+
+  - hair: Probability Score (good answer): 0.000217
+  - hair: Probability Score: 0.000217
+  - keratin: Probability Score: 0.002238
+  - nails: Probability Score: 0.000031
+
+  - hair: Lexical Score: 1.000000
+  - keratin: Lexical Score: 0.000000
+  - nails: Lexical Score: 0.000000
+
+Context: Prokaryotic cells are cells without a nucleus. They are found in single-celled organisms. Eukaryotic cells are cells with a nucleus and other organelles. They are found mainly in multicellular organisms.
+Question: What are cells without a nucleus called?
+Correct Answer: prokaryotic cells
+Distractors: prokaryotic cells, eukaryotic cells, multicellular organisms
+  - prokaryotic cells: Similarity Score: 1.000000
+  - eukaryotic cells: Similarity Score: 0.818346
+  - multicellular organisms: Similarity Score: 0.336035
+
+  - prokaryotic cells: Probability Score (good answer): 0.076907
+  - prokaryotic cells: Probability Score: 0.076907
+  - eukaryotic cells: Probability Score: 0.140267
+  - multicellular organisms: Probability Score: 0.025659
+
+  - prokaryotic cells: Lexical Score: 1.000000
+  - eukaryotic cells: Lexical Score: 0.333333
+  - multicellular organisms: Lexical Score: 0.000000
+
+Context: Acid rain forms when nitrogen and sulfur oxides in air dissolve in rain ( Figure below ). This forms nitric and sulfuric acids. Both are strong acids. Acid rain with a pH as low as 4.0 is now common in many areas. Acid fog may be even more acidic than acid rain. Fog with a pH as low as 1.7 has been recorded. That’s the same pH as toilet bowl cleaner!.
+Question: What forms when nitrogen and sulfur oxides in air dissolve in rain?
+Correct Answer: acid rain
+Distractors: acid rain, acid fog, acid mist
+  - acid rain: Similarity Score: 1.000000
+  - acid fog: Similarity Score: 0.711461
+  - acid mist: Similarity Score: 0.664751
+
+  - acid rain: Probability Score (good answer): 0.000008
+  - acid rain: Probability Score: 0.000008
+  - acid fog: Probability Score: 0.000017
+  - acid mist: Probability Score: 0.000073
+
+  - acid rain: Lexical Score: 1.000000
+  - acid fog: Lexical Score: 0.333333
+  - acid mist: Lexical Score: 0.333333
+
+Context: Nitrogen oxides include nitric oxide (NO) and nitrogen dioxide (NO 2 ). Nitrogen oxides form when nitrogen and oxygen combine at high temperatures. This occurs in hot exhausts from vehicles, factories, and power plants.
+Question: What forms when nitrogen and oxygen combine at high temperatures?
+Correct Answer: nitrogen oxides
+Distractors: nitrogen dioxide, nitric oxide, nitrogen oxide
+  - nitrogen dioxide: Similarity Score: 0.749574
+  - nitric oxide: Similarity Score: 0.728685
+  - nitrogen oxide: Similarity Score: 0.881370
+
+  - nitrogen oxides: Probability Score (good answer): 0.001836
+  - nitrogen dioxide: Probability Score: 0.000293
+  - nitric oxide: Probability Score: 0.000014
+  - nitrogen oxide: Probability Score: 0.000110
+
+  - nitrogen dioxide: Lexical Score: 0.333333
+  - nitric oxide: Lexical Score: 0.000000
+  - nitrogen oxide: Lexical Score: 0.333333
+
+Context: The Bohr model works only for the hydrogen atom.
+Question: The bohr model works only for which atom?
+Correct Answer: hydrogen
+Distractors: electron, hydrogen, electron
+  - electron: Similarity Score: 0.246291
+  - hydrogen: Similarity Score: 1.000000
+  - electron: Similarity Score: 0.246291
+
+  - hydrogen: Probability Score (good answer): 0.113967
+  - electron: Probability Score: 0.007473
+  - hydrogen: Probability Score: 0.113967
+  - electron: Probability Score: 0.007473
+
+  - electron: Lexical Score: 0.000000
+  - hydrogen: Lexical Score: 1.000000
+  - electron: Lexical Score: 0.000000
+
+Context: Asexual reproduction has the advantage of occurring quickly. Sexual reproduction has the advantage of creating genetic variation. This can help a species adapt to environmental change. The genetic variation arises due to crossing over, independent assortment, and the random union of gametes.
+Question: What arises due to crossing over, independent assortment, and the random union of gametes?
+Correct Answer: genetic variation
+Distractors: Genetic variation, Genetic drift, Genetic drift
+  - Genetic variation: Similarity Score: 1.000000
+  - Genetic drift: Similarity Score: 0.865021
+  - Genetic drift: Similarity Score: 0.865021
+
+  - genetic variation: Probability Score (good answer): 0.000025
+  - Genetic variation: Probability Score: 0.000020
+  - Genetic drift: Probability Score: 0.000013
+  - Genetic drift: Probability Score: 0.000013
+
+  - Genetic variation: Lexical Score: 0.333333
+  - Genetic drift: Lexical Score: 0.000000
+  - Genetic drift: Lexical Score: 0.000000
+
+Context: Figure 11.33 Detergents contain a nonpolar hydrocarbon end (blue) and an ionic end (red). The ionic end can be either a sulfate or a sulfonate. The length of the hydrocarbon end can vary from detergent to detergent.
+Question: The ionic end of a detergent can either be a sulfate or what?
+Correct Answer: sulfonate
+Distractors: Sulfate, Sulfonate, Sulfate
+  - Sulfate: Similarity Score: 0.853798
+  - Sulfonate: Similarity Score: 1.000000
+  - Sulfate: Similarity Score: 0.853798
+
+  - sulfonate: Probability Score (good answer): 0.506589
+  - Sulfate: Probability Score: 0.291663
+  - Sulfonate: Probability Score: 0.590579
+  - Sulfate: Probability Score: 0.291663
+
+  - Sulfate: Lexical Score: 0.000000
+  - Sulfonate: Lexical Score: 0.000000
+  - Sulfate: Lexical Score: 0.000000
+
+Context: The net force is found by subtracting the frictional force from the applied force.
+Question: In physics, when one subtracts the frictional force from the applied force what is the result?
+Correct Answer: net force
+Distractors: frictional force, applied force, net force
+  - frictional force: Similarity Score: 0.262222
+  - applied force: Similarity Score: 0.322681
+  - net force: Similarity Score: 1.000000
+
+  - net force: Probability Score (good answer): 0.000039
+  - frictional force: Probability Score: 0.000013
+  - applied force: Probability Score: 0.000000
+  - net force: Probability Score: 0.000039
+
+  - frictional force: Lexical Score: 0.333333
+  - applied force: Lexical Score: 0.333333
+  - net force: Lexical Score: 1.000000
+
+Context: 
+Question: When water is aerated it can provide a plant's roots with what gas for cellular respiration?
+Correct Answer: oxygen
+Distractors: carbon dioxide, nitrogen, oxygen
+  - carbon dioxide: Similarity Score: 0.495510
+  - nitrogen: Similarity Score: 0.391618
+  - oxygen: Similarity Score: 1.000000
+
+  - oxygen: Probability Score (good answer): 0.407726
+  - carbon dioxide: Probability Score: 0.432061
+  - nitrogen: Probability Score: 0.454043
+  - oxygen: Probability Score: 0.407726
+
+  - carbon dioxide: Lexical Score: 0.000000
+  - nitrogen: Lexical Score: 0.000000
+  - oxygen: Lexical Score: 1.000000
+
+Context: 
+Question: Non-human organisms that mainly consume plants/other primary producers are known as what?
+Correct Answer: herbivores
+Distractors: carnivores, omnivores, herbivores
+  - carnivores: Similarity Score: 0.565995
+  - omnivores: Similarity Score: 0.234013
+  - herbivores: Similarity Score: 1.000000
+
+  - herbivores: Probability Score (good answer): 0.049282
+  - carnivores: Probability Score: 0.051295
+  - omnivores: Probability Score: 0.056493
+  - herbivores: Probability Score: 0.049282
+
+  - carnivores: Lexical Score: 0.000000
+  - omnivores: Lexical Score: 0.000000
+  - herbivores: Lexical Score: 1.000000
+
+Context: All of the elements in group 9 have nine valence electrons.
+Question: All of the elements in group 9 have nine of which electrons?
+Correct Answer: valence
+Distractors: All of the elements in group 9 have nine valence electrons., All of the elements in group 9 have nine valence electrons., All of the elements in group 9 have nine valence electrons.
+  - All of the elements in group 9 have nine valence electrons.: Similarity Score: 0.424015
+  - All of the elements in group 9 have nine valence electrons.: Similarity Score: 0.424015
+  - All of the elements in group 9 have nine valence electrons.: Similarity Score: 0.424015
+
+  - valence: Probability Score (good answer): 0.000000
+  - All of the elements in group 9 have nine valence electrons.: Probability Score: 0.844947
+  - All of the elements in group 9 have nine valence electrons.: Probability Score: 0.844947
+  - All of the elements in group 9 have nine valence electrons.: Probability Score: 0.844947
+
+  - All of the elements in group 9 have nine valence electrons.: Lexical Score: 0.090909
+  - All of the elements in group 9 have nine valence electrons.: Lexical Score: 0.090909
+  - All of the elements in group 9 have nine valence electrons.: Lexical Score: 0.090909
+
+Context: The properties of a solution are different from those of either the pure solute(s) or solvent. Many solution properties are dependent upon the chemical identity of the solute. Compared to pure water, a solution of hydrogen chloride is more acidic, a solution of ammonia is more basic, a solution of sodium chloride is more dense, and a solution of sucrose is more viscous. There are a few solution properties, however, that depend only upon the total concentration of solute species, regardless of their identities. These colligative properties include vapor pressure lowering, boiling point elevation, freezing point depression, and osmotic pressure. This small set of properties is of central importance to many natural phenomena and technological applications, as will be described in this module.
+Question: What are the majority of solution properties dependent upon?
+Correct Answer: chemical state of solute
+Distractors: chemical state of solute, physical state of solute, physical state of solvent
+  - chemical state of solute: Similarity Score: 1.000000
+  - physical state of solute: Similarity Score: 0.745520
+  - physical state of solvent: Similarity Score: 0.496320
+
+  - chemical state of solute: Probability Score (good answer): 0.000016
+  - chemical state of solute: Probability Score: 0.000016
+  - physical state of solute: Probability Score: 0.000042
+  - physical state of solvent: Probability Score: 0.000049
+
+  - chemical state of solute: Lexical Score: 1.000000
+  - physical state of solute: Lexical Score: 0.600000
+  - physical state of solvent: Lexical Score: 0.333333
+
+Context: The force that a magnet exerts on certain materials is called magnetic force . Like electric force, magnetic force is exerted over a distance and includes forces of attraction and repulsion. North and south poles of two magnets attract each other, while two north poles or two south poles repel each other.
+Question: What is the term for the force that a magnet exerts on certain materials?
+Correct Answer: magnetic force
+Distractors: magnetic force, magnetic attraction, magnetic repulsion
+  - magnetic force: Similarity Score: 1.000000
+  - magnetic attraction: Similarity Score: 0.863027
+  - magnetic repulsion: Similarity Score: 0.707598
+
+  - magnetic force: Probability Score (good answer): 0.498087
+  - magnetic force: Probability Score: 0.498087
+  - magnetic attraction: Probability Score: 0.316375
+  - magnetic repulsion: Probability Score: 0.263223
+
+  - magnetic force: Lexical Score: 1.000000
+  - magnetic attraction: Lexical Score: 0.333333
+  - magnetic repulsion: Lexical Score: 0.333333
+
+Context: A solution forms when one substance dissolves in another. The substance that dissolves is called the solute. The substance that dissolves it is called the solvent.
+Question: What forms when one substances dissolves in another?
+Correct Answer: a solution
+Distractors: a mixture, a solution, a mixture
+  - a mixture: Similarity Score: 0.391226
+  - a solution: Similarity Score: 1.000000
+  - a mixture: Similarity Score: 0.391226
+
+  - a solution: Probability Score (good answer): 0.000000
+  - a mixture: Probability Score: 0.000128
+  - a solution: Probability Score: 0.000000
+  - a mixture: Probability Score: 0.000128
+
+  - a mixture: Lexical Score: 0.333333
+  - a solution: Lexical Score: 1.000000
+  - a mixture: Lexical Score: 0.333333
+
+Context: Deinonychus is the genus name of an extinct dinosaur that is considered to be one of the closest non-bird relatives of modern birds. It lived about 110 million years ago in what is now North America. Deinonychus was a predatory carnivore with many bird-like features. For example, it had feathers and wings. It also had strong legs with clawed feet, similar to modern raptors. Its respiratory, circulatory, and digestive systems were similar to those of birds as well. The location of fossilized eggs near Deinonychus fossils suggests that it may have brooded its eggs. This would mean that it was endothermic. (Can you explain why?) On the other hand, Deinonychus retained a number of reptile-like traits, such as jaws with teeth and hands with claws at the tips of its wings.
+Question: What is the dinosaur genus that's closest to modern birds?
+Correct Answer: deinonychus
+Distractors: Deinonychus, Gallimimus, Quetzalcoatlus
+  - Deinonychus: Similarity Score: 1.000000
+  - Gallimimus: Similarity Score: 0.406374
+  - Quetzalcoatlus: Similarity Score: 0.268947
+
+  - deinonychus: Probability Score (good answer): 0.284828
+  - Deinonychus: Probability Score: 0.255511
+  - Gallimimus: Probability Score: 0.187090
+  - Quetzalcoatlus: Probability Score: 0.158115
+
+  - Deinonychus: Lexical Score: 0.000000
+  - Gallimimus: Lexical Score: 0.000000
+  - Quetzalcoatlus: Lexical Score: 0.000000
+
+Context: 
+Question: What kind of a disorder is tay-sachs disease?
+Correct Answer: inherited disorder
+Distractors: Tay-sachs disease is an inherited disorder that is characterized by the inability to metabolize certain fatty acids, leading to progressive neurodegeneration. It is caused by mutations in the gene encoding the enzyme beta-hexosaminidase A (HEXA). The disorder is fatal in infants,, None, None
+  - Tay-sachs disease is an inherited disorder that is characterized by the inability to metabolize certain fatty acids, leading to progressive neurodegeneration. It is caused by mutations in the gene encoding the enzyme beta-hexosaminidase A (HEXA). The disorder is fatal in infants,: Similarity Score: 0.159327
+  - None: Similarity Score: 0.106732
+  - None: Similarity Score: 0.106732
+
+  - inherited disorder: Probability Score (good answer): 0.065147
+  - Tay-sachs disease is an inherited disorder that is characterized by the inability to metabolize certain fatty acids, leading to progressive neurodegeneration. It is caused by mutations in the gene encoding the enzyme beta-hexosaminidase A (HEXA). The disorder is fatal in infants,: Probability Score: 0.439966
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - Tay-sachs disease is an inherited disorder that is characterized by the inability to metabolize certain fatty acids, leading to progressive neurodegeneration. It is caused by mutations in the gene encoding the enzyme beta-hexosaminidase A (HEXA). The disorder is fatal in infants,: Lexical Score: 0.062500
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: An ore is a rock that contains important minerals.
+Question: A rock that contains important minerals is called what, a term associated with mining?
+Correct Answer: ore
+Distractors: rock, sediment, magma
+  - rock: Similarity Score: 0.158324
+  - sediment: Similarity Score: 0.325534
+  - magma: Similarity Score: 0.200413
+
+  - ore: Probability Score (good answer): 0.014131
+  - rock: Probability Score: 0.012100
+  - sediment: Probability Score: 0.224229
+  - magma: Probability Score: 0.410710
+
+  - rock: Lexical Score: 0.000000
+  - sediment: Lexical Score: 0.000000
+  - magma: Lexical Score: 0.000000
+
+Context: Hypersecretion by an endocrine gland is often caused by a tumor. For example, a tumor of the pituitary gland can cause hypersecretion of growth hormone. If this occurs in childhood, it results in very long arms and legs and abnormally tall stature by adulthood. The condition is commonly known as gigantism (see Figure below ). See Giants - Part 1 - Pituitary Gigantism and Acromegaly at http://www. youtube. com/watch?v=Ebhf1qKVA9A for information about pituitary giants.
+Question: Hypersection by an endocrine gland is often caused by what?
+Correct Answer: tumor
+Distractors: tumor, inflammation, infection
+  - tumor: Similarity Score: 1.000000
+  - inflammation: Similarity Score: 0.313420
+  - infection: Similarity Score: 0.336557
+
+  - tumor: Probability Score (good answer): 0.001801
+  - tumor: Probability Score: 0.001801
+  - inflammation: Probability Score: 0.006791
+  - infection: Probability Score: 0.000721
+
+  - tumor: Lexical Score: 1.000000
+  - inflammation: Lexical Score: 0.000000
+  - infection: Lexical Score: 0.000000
+
+Context: Communities are not usually static. The numbers and types of species that live in them generally change over time. This is called ecological succession . Important cases of succession are primary and secondary succession.
+Question: Ecological succession refers to the change in the numbers and types of species that live in what groups?
+Correct Answer: communities
+Distractors: Primary succession, Secondary succession, Community
+  - Primary succession: Similarity Score: 0.204282
+  - Secondary succession: Similarity Score: 0.154067
+  - Community: Similarity Score: 0.889248
+
+  - communities: Probability Score (good answer): 0.001464
+  - Primary succession: Probability Score: 0.000024
+  - Secondary succession: Probability Score: 0.000003
+  - Community: Probability Score: 0.000000
+
+  - Primary succession: Lexical Score: 0.000000
+  - Secondary succession: Lexical Score: 0.000000
+  - Community: Lexical Score: 0.000000
+
+Context: Cell division occurs not only as organisms grow. It also occurs when they reproduce.
+Question: What occurs not only as organisms grow, but as they reproduce.
+Correct Answer: cell division
+Distractors: cell division, cell division, cell division
+  - cell division: Similarity Score: 1.000000
+  - cell division: Similarity Score: 1.000000
+  - cell division: Similarity Score: 1.000000
+
+  - cell division: Probability Score (good answer): 0.007950
+  - cell division: Probability Score: 0.007950
+  - cell division: Probability Score: 0.007950
+  - cell division: Probability Score: 0.007950
+
+  - cell division: Lexical Score: 1.000000
+  - cell division: Lexical Score: 1.000000
+  - cell division: Lexical Score: 1.000000
+
+Context: Another important example of the combination of phase change and convection occurs when water evaporates from the oceans. Heat is removed from the ocean when water evaporates. If the water vapor condenses in liquid droplets as clouds form, heat is released in the atmosphere. Thus, there is an overall transfer of heat from the ocean to the atmosphere. This process is the driving power behind thunderheads, those great cumulus clouds that rise as much as 20.0 km into the stratosphere. Water vapor carried in by convection condenses, releasing tremendous amounts of energy. This energy causes the air to expand and rise, where it is colder. More condensation occurs in these colder regions, which in turn drives the cloud even higher. Such a mechanism is called positive feedback, since the process reinforces and accelerates itself. These systems sometimes produce violent storms, with lightning and hail, and constitute the mechanism driving hurricanes.
+Question: If the water vapor condenses in liquid droplets as clouds form, what is released in the atmosphere?
+Correct Answer: heat
+Distractors: heat, mass, light
+  - heat: Similarity Score: 1.000000
+  - mass: Similarity Score: 0.376393
+  - light: Similarity Score: 0.357540
+
+  - heat: Probability Score (good answer): 0.000118
+  - heat: Probability Score: 0.000118
+  - mass: Probability Score: 0.000091
+  - light: Probability Score: 0.000015
+
+  - heat: Lexical Score: 1.000000
+  - mass: Lexical Score: 0.000000
+  - light: Lexical Score: 0.000000
+
+Context: Salicylic acid is used in the synthesis of acetylsalicylic acid, or aspirin. One gram dissolves in 460 mL of water to create a saturated solution with a pH of 2.40.
+Question: Salicylic acid is used in the synthesis of acetylsalicylic acid, or more commonly called?
+Correct Answer: aspirin
+Distractors: acetylsalicylic acid, aspirin, salicylic acid
+  - acetylsalicylic acid: Similarity Score: 0.466378
+  - aspirin: Similarity Score: 1.000000
+  - salicylic acid: Similarity Score: 0.448299
+
+  - aspirin: Probability Score (good answer): 0.000374
+  - acetylsalicylic acid: Probability Score: 0.000375
+  - aspirin: Probability Score: 0.000374
+  - salicylic acid: Probability Score: 0.000011
+
+  - acetylsalicylic acid: Lexical Score: 0.000000
+  - aspirin: Lexical Score: 1.000000
+  - salicylic acid: Lexical Score: 0.000000
+
+Context: The cell cycle is a repeating series of events that cells go through. It includes growth, DNA synthesis, and cell division. In eukaryotic cells, there are two growth phases, and cell division includes mitosis.
+Question: What is a reptiles skin covered in to protect them from drying out?
+Correct Answer: scales
+Distractors: scales, feathers, hair
+  - scales: Similarity Score: 1.000000
+  - feathers: Similarity Score: 0.101347
+  - hair: Similarity Score: 0.188523
+
+  - scales: Probability Score (good answer): 0.001814
+  - scales: Probability Score: 0.001814
+  - feathers: Probability Score: 0.073077
+  - hair: Probability Score: 0.017191
+
+  - scales: Lexical Score: 1.000000
+  - feathers: Lexical Score: 0.000000
+  - hair: Lexical Score: 0.000000
+
+Context: 
+Question: In sexual reproduction, the fusion of haploid gametes forms a diploid cell called what?
+Correct Answer: zygote
+Distractors: sperm, egg, ovum
+  - sperm: Similarity Score: 0.090073
+  - egg: Similarity Score: 0.221708
+  - ovum: Similarity Score: 0.196725
+
+  - zygote: Probability Score (good answer): 0.305417
+  - sperm: Probability Score: 0.313328
+  - egg: Probability Score: 0.023962
+  - ovum: Probability Score: 0.083727
+
+  - sperm: Lexical Score: 0.000000
+  - egg: Lexical Score: 0.000000
+  - ovum: Lexical Score: 0.000000
+
+Context: 
+Question: What percentage of the field is tilled in traditional plowing?
+Correct Answer: 100%
+Distractors: 100%, 50%, 90%
+  - 100%: Similarity Score: 1.000000
+  - 50%: Similarity Score: 0.179549
+  - 90%: Similarity Score: 0.260020
+
+  - 100%: Probability Score (good answer): 0.000719
+  - 100%: Probability Score: 0.000719
+  - 50%: Probability Score: 0.000582
+  - 90%: Probability Score: 0.000185
+
+  - 100%: Lexical Score: 1.000000
+  - 50%: Lexical Score: 0.000000
+  - 90%: Lexical Score: 0.000000
+
+Context: The life cycle of all plants is complex because it is characterized by alternation of generations. Plants alternate between diploid sporophyte and haploid gametophyte generations, and between sexual and asexual reproduction. The ability to reproduce both sexually and asexually gives plants the flexibility to adapt to changing environments. Their complex life cycle allows for great variation.
+Question: Why is the life cycle of plants so complex?
+Correct Answer: alternation of generation
+Distractors: The life cycle of all plants is complex because they have a complex life cycle that includes alternation of generations. Plants alternate between diploid sporophyte and haploid gametophyte generations, and between sexual and asexual reproduction. The ability to reproduce both sexually and asexually gives, None, None
+  - The life cycle of all plants is complex because they have a complex life cycle that includes alternation of generations. Plants alternate between diploid sporophyte and haploid gametophyte generations, and between sexual and asexual reproduction. The ability to reproduce both sexually and asexually gives: Similarity Score: 0.377997
+  - None: Similarity Score: 0.126967
+  - None: Similarity Score: 0.126967
+
+  - alternation of generation: Probability Score (good answer): 0.000085
+  - The life cycle of all plants is complex because they have a complex life cycle that includes alternation of generations. Plants alternate between diploid sporophyte and haploid gametophyte generations, and between sexual and asexual reproduction. The ability to reproduce both sexually and asexually gives: Probability Score: 0.581165
+  - None: Probability Score: 0.000002
+  - None: Probability Score: 0.000002
+
+  - The life cycle of all plants is complex because they have a complex life cycle that includes alternation of generations. Plants alternate between diploid sporophyte and haploid gametophyte generations, and between sexual and asexual reproduction. The ability to reproduce both sexually and asexually gives: Lexical Score: 0.055556
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Radio telescopes collect and focus radio waves from distant objects.
+Question: What type of telescopes collect and focus radio waves from distant objects?
+Correct Answer: radio telescopes
+Distractors: laser telescopes, optical telescopes, radio telescopes
+  - laser telescopes: Similarity Score: 0.501357
+  - optical telescopes: Similarity Score: 0.486805
+  - radio telescopes: Similarity Score: 1.000000
+
+  - radio telescopes: Probability Score (good answer): 0.011089
+  - laser telescopes: Probability Score: 0.215582
+  - optical telescopes: Probability Score: 0.254687
+  - radio telescopes: Probability Score: 0.011089
+
+  - laser telescopes: Lexical Score: 0.333333
+  - optical telescopes: Lexical Score: 0.333333
+  - radio telescopes: Lexical Score: 1.000000
+
+Context: Matter undergoing chemical reactions and physical changes can release or absorb heat. A change that releases heat is called an exothermic process. For example, the combustion reaction that occurs when using an oxyacetylene torch is an exothermic process—this process also releases energy in the form of light as evidenced by the torch’s flame (Figure 5.7). A reaction or change that absorbs heat is an endothermic process. A cold pack used to treat muscle strains provides an example of an endothermic process. When the substances in the cold pack (water and a salt like ammonium nitrate) are brought together, the resulting process absorbs heat, leading to the sensation of cold.
+Question: Matter undergoing chemical reactions and physical changes can release or absorb heat. a change that releases heat is called what?
+Correct Answer: exothermic process
+Distractors: endothermic process, exothermic process, endothermic process
+  - endothermic process: Similarity Score: 0.679555
+  - exothermic process: Similarity Score: 1.000000
+  - endothermic process: Similarity Score: 0.679555
+
+  - exothermic process: Probability Score (good answer): 0.156382
+  - endothermic process: Probability Score: 0.111199
+  - exothermic process: Probability Score: 0.156382
+  - endothermic process: Probability Score: 0.111199
+
+  - endothermic process: Lexical Score: 0.333333
+  - exothermic process: Lexical Score: 1.000000
+  - endothermic process: Lexical Score: 0.333333
+
+Context: Organ : Structure composed of one or more types of tissues. The tissues of an organ work together to perfume a specific function. Human organs include the brain, stomach, kidney, and liver. Plant organs include roots, stems, and leaves.
+Question: What is a structure that is composed of one or more types of tissues?
+Correct Answer: organ
+Distractors: cell, tissue, organ
+  - cell: Similarity Score: 0.369443
+  - tissue: Similarity Score: 0.248581
+  - organ: Similarity Score: 1.000000
+
+  - organ: Probability Score (good answer): 0.002217
+  - cell: Probability Score: 0.000012
+  - tissue: Probability Score: 0.000771
+  - organ: Probability Score: 0.002217
+
+  - cell: Lexical Score: 0.000000
+  - tissue: Lexical Score: 0.000000
+  - organ: Lexical Score: 1.000000
+
+Context: Now look at the ship’s hull in the Figure above . Its shape causes the ship to displace much more water than the ball. In fact, the weight of the displaced water is greater than the weight of the ship. As a result, the buoyant force is greater than the force of gravity acting on the ship, so the ship floats.
+Question: If the buoyant force is greater than the force of gravity acting on a ship, what will happen to the ship?
+Correct Answer: it will float
+Distractors: the ship will sink, the ship will float, the ship will rise
+  - the ship will sink: Similarity Score: 0.579704
+  - the ship will float: Similarity Score: 0.856091
+  - the ship will rise: Similarity Score: 0.657258
+
+  - it will float: Probability Score (good answer): 0.406695
+  - the ship will sink: Probability Score: 0.449146
+  - the ship will float: Probability Score: 0.444572
+  - the ship will rise: Probability Score: 0.410284
+
+  - the ship will sink: Lexical Score: 0.166667
+  - the ship will float: Lexical Score: 0.400000
+  - the ship will rise: Lexical Score: 0.166667
+
+Context: For a long time, many people believed that a rocket wouldn’t work in space. There would be nothing for the rocket to push against. But they do work! Fuel is ignited in a chamber. The gases in the chamber explode. The explosion creates pressure that forces the gases out of one side of the rocket. The rocket moves in the opposite direction ( Figure below ). The force pushing the rocket is called thrust .
+Question: When explosion of gases creates pressure resulting in motion of a rocket, the force pushing the rocket is called what?
+Correct Answer: thrust
+Distractors: force, weight, gravity
+  - force: Similarity Score: 0.437755
+  - weight: Similarity Score: 0.355436
+  - gravity: Similarity Score: 0.150276
+
+  - thrust: Probability Score (good answer): 0.787112
+  - force: Probability Score: 0.291846
+  - weight: Probability Score: 0.078856
+  - gravity: Probability Score: 0.278895
+
+  - force: Lexical Score: 0.000000
+  - weight: Lexical Score: 0.000000
+  - gravity: Lexical Score: 0.000000
+
+Context: In a longitudinal wave, the medium moves back and forth in the same direction as the wave.
+Question: The medium moves back and forth in the same direction as the wave in what type of wave?
+Correct Answer: longitudinal wave
+Distractors: transverse wave, longitudinal wave, sound wave
+  - transverse wave: Similarity Score: 0.482759
+  - longitudinal wave: Similarity Score: 1.000000
+  - sound wave: Similarity Score: 0.497144
+
+  - longitudinal wave: Probability Score (good answer): 0.023515
+  - transverse wave: Probability Score: 0.017817
+  - longitudinal wave: Probability Score: 0.023515
+  - sound wave: Probability Score: 0.004141
+
+  - transverse wave: Lexical Score: 0.333333
+  - longitudinal wave: Lexical Score: 1.000000
+  - sound wave: Lexical Score: 0.333333
+
+Context: Opposites attract when it comes to charged molecules. In the case of water, the positive (hydrogen) end of one water molecule is attracted to the negative (oxygen) end of a nearby water molecule. Because of this attraction, weak bonds form between adjacent water molecules, as shown in Figure below . The type of bond that forms between molecules is called a hydrogen bond . Bonds between molecules are not as strong as bonds within molecules, but in water they are strong enough to hold together nearby molecules.
+Question: The type of bond that forms between molecules is called what?
+Correct Answer: hydrogen bond
+Distractors: a bond, a chemical bond, an ionic bond
+  - a bond: Similarity Score: 0.313150
+  - a chemical bond: Similarity Score: 0.257715
+  - an ionic bond: Similarity Score: 0.348083
+
+  - hydrogen bond: Probability Score (good answer): 0.478815
+  - a bond: Probability Score: 0.012408
+  - a chemical bond: Probability Score: 0.637042
+  - an ionic bond: Probability Score: 0.623292
+
+  - a bond: Lexical Score: 0.333333
+  - a chemical bond: Lexical Score: 0.250000
+  - an ionic bond: Lexical Score: 0.250000
+
+Context: Circular muscles control the anus. They relax to let the feces pass out of the body through the anus. After feces pass out of the body, they are called stool. Releasing the stool from the body is referred to as a bowel movement.
+Question: What shape are the muscles that control the anus?
+Correct Answer: circular
+Distractors: circular, spiral, spiral
+  - circular: Similarity Score: 1.000000
+  - spiral: Similarity Score: 0.472563
+  - spiral: Similarity Score: 0.472563
+
+  - circular: Probability Score (good answer): 0.012474
+  - circular: Probability Score: 0.012474
+  - spiral: Probability Score: 0.000097
+  - spiral: Probability Score: 0.000097
+
+  - circular: Lexical Score: 1.000000
+  - spiral: Lexical Score: 0.000000
+  - spiral: Lexical Score: 0.000000
+
+Context: Channel proteins form pores, or tiny holes, in the membrane. This allows water molecules and small ions to pass through the membrane without coming into contact with the hydrophobic tails of the lipid molecules in the interior of the membrane.
+Question: Channel proteins form what in the membrane?
+Correct Answer: pores
+Distractors: pores, channels, pores
+  - pores: Similarity Score: 1.000000
+  - channels: Similarity Score: 0.148222
+  - pores: Similarity Score: 1.000000
+
+  - pores: Probability Score (good answer): 0.000766
+  - pores: Probability Score: 0.000766
+  - channels: Probability Score: 0.000032
+  - pores: Probability Score: 0.000766
+
+  - pores: Lexical Score: 1.000000
+  - channels: Lexical Score: 0.000000
+  - pores: Lexical Score: 1.000000
+
+Context: Producers are living things that produce food for themselves and other organisms. They use energy and simple inorganic molecules to make organic compounds. Producers are vital to all ecosystems because all organisms need organic compounds for energy.
+Question: What are living things that produce food for themselves and other organisms called?
+Correct Answer: producers
+Distractors: consumers, consumers, consumers
+  - consumers: Similarity Score: 0.363242
+  - consumers: Similarity Score: 0.363242
+  - consumers: Similarity Score: 0.363242
+
+  - producers: Probability Score (good answer): 0.704197
+  - consumers: Probability Score: 0.285281
+  - consumers: Probability Score: 0.285281
+  - consumers: Probability Score: 0.285281
+
+  - consumers: Lexical Score: 0.000000
+  - consumers: Lexical Score: 0.000000
+  - consumers: Lexical Score: 0.000000
+
+Context: Micronutrients are nutrients the body needs in relatively small amounts. They include minerals and vitamins. These nutrients don’t provide the body with energy, but they are still essential for good health.
+Question: What is the term used to describe the minerals and vitamins that are not needed for providing the body with energy but are still essential for good health?
+Correct Answer: micronutrients
+Distractors: vitamins, minerals, antioxidants
+  - vitamins: Similarity Score: 0.365617
+  - minerals: Similarity Score: 0.270795
+  - antioxidants: Similarity Score: 0.308778
+
+  - micronutrients: Probability Score (good answer): 0.484919
+  - vitamins: Probability Score: 0.000198
+  - minerals: Probability Score: 0.234530
+  - antioxidants: Probability Score: 0.505127
+
+  - vitamins: Lexical Score: 0.000000
+  - minerals: Lexical Score: 0.000000
+  - antioxidants: Lexical Score: 0.000000
+
+Context: A cold front forms when a cold air mass runs into a warm air mass ( Figure below ). The cold air mass moves faster than the warm air mass. So the cold air mass lifts the warm air mass out of its way. As the warm air rises, its water vapor condenses. Clouds form, and precipitation falls. If the warm air is very humid, precipitation can be heavy. Temperature and pressure differences between the two air masses cause winds. Winds may be very strong along a cold front.
+Question: A cold front is formed when a cold air mass runs into what?
+Correct Answer: warm air mass
+Distractors: Warm air mass, Warm air mass, Warm air mass
+  - Warm air mass: Similarity Score: 1.000000
+  - Warm air mass: Similarity Score: 1.000000
+  - Warm air mass: Similarity Score: 1.000000
+
+  - warm air mass: Probability Score (good answer): 0.001393
+  - Warm air mass: Probability Score: 0.000004
+  - Warm air mass: Probability Score: 0.000004
+  - Warm air mass: Probability Score: 0.000004
+
+  - Warm air mass: Lexical Score: 0.500000
+  - Warm air mass: Lexical Score: 0.500000
+  - Warm air mass: Lexical Score: 0.500000
+
+Context: 
+Question: Light is a form of what kind of energy?
+Correct Answer: electromagnetic energy
+Distractors: electromagnetic energy, kinetic energy, gravitational energy
+  - electromagnetic energy: Similarity Score: 1.000000
+  - kinetic energy: Similarity Score: 0.541554
+  - gravitational energy: Similarity Score: 0.629878
+
+  - electromagnetic energy: Probability Score (good answer): 0.001353
+  - electromagnetic energy: Probability Score: 0.001353
+  - kinetic energy: Probability Score: 0.025604
+  - gravitational energy: Probability Score: 0.003931
+
+  - electromagnetic energy: Lexical Score: 1.000000
+  - kinetic energy: Lexical Score: 0.333333
+  - gravitational energy: Lexical Score: 0.333333
+
+Context: 
+Question: The evaporative loss of the most energetic water molecules does what to a surface?
+Correct Answer: cools it
+Distractors: heats it, warms it, cools it
+  - heats it: Similarity Score: 0.293220
+  - warms it: Similarity Score: 0.329203
+  - cools it: Similarity Score: 1.000000
+
+  - cools it: Probability Score (good answer): 0.002309
+  - heats it: Probability Score: 0.003151
+  - warms it: Probability Score: 0.260516
+  - cools it: Probability Score: 0.002309
+
+  - heats it: Lexical Score: 0.333333
+  - warms it: Lexical Score: 0.333333
+  - cools it: Lexical Score: 1.000000
+
+Context: All of the petals ( Figure below ) together are called the corolla . They are bright and colorful to attract a particular pollinator , an animal that carries pollen from one flower to another. Examples of pollinators include birds and insects.
+Question: All of the petals together are called what?
+Correct Answer: corolla
+Distractors: petals, sepals, petals
+  - petals: Similarity Score: 0.165399
+  - sepals: Similarity Score: 0.247445
+  - petals: Similarity Score: 0.165399
+
+  - corolla: Probability Score (good answer): 0.057665
+  - petals: Probability Score: 0.115151
+  - sepals: Probability Score: 0.336432
+  - petals: Probability Score: 0.115151
+
+  - petals: Lexical Score: 0.000000
+  - sepals: Lexical Score: 0.000000
+  - petals: Lexical Score: 0.000000
+
+Context: The arrow (→) shows the direction in which the reaction occurs. In many reactions, the reaction also occurs in the opposite direction. This is represented with another arrow pointing in the opposite direction (←).
+Question: What symbol is used to indicate directionality in chemical reactions?
+Correct Answer: arrow
+Distractors: arrow, arrow, arrow
+  - arrow: Similarity Score: 1.000000
+  - arrow: Similarity Score: 1.000000
+  - arrow: Similarity Score: 1.000000
+
+  - arrow: Probability Score (good answer): 0.001645
+  - arrow: Probability Score: 0.001645
+  - arrow: Probability Score: 0.001645
+  - arrow: Probability Score: 0.001645
+
+  - arrow: Lexical Score: 1.000000
+  - arrow: Lexical Score: 1.000000
+  - arrow: Lexical Score: 1.000000
+
+Context: Echidna. Like the platypus, the echnida is a monotreme. The only living monotreme species inhabit Australia and New Guinea.
+Question: Like the platypus, the echnida is a what?
+Correct Answer: monotreme
+Distractors: Echidna, Platypus, Monotreme
+  - Echidna: Similarity Score: 0.210964
+  - Platypus: Similarity Score: 0.397379
+  - Monotreme: Similarity Score: 1.000000
+
+  - monotreme: Probability Score (good answer): 0.000010
+  - Echidna: Probability Score: 0.001238
+  - Platypus: Probability Score: 0.000000
+  - Monotreme: Probability Score: 0.000007
+
+  - Echidna: Lexical Score: 0.000000
+  - Platypus: Lexical Score: 0.000000
+  - Monotreme: Lexical Score: 0.000000
+
+Context: In a downhill ski race, surprisingly, little advantage is gained by getting a running start. (This is because the initial kinetic energy is small compared with the gain in gravitational potential energy on even small hills. ) To demonstrate this, find the final speed and the time taken for a skier who skies 70.0 m along a 30º slope neglecting friction: (a) Starting from rest. (b) Starting with an initial speed of 2.50 m/s. (c) Does the answer surprise you? Discuss why it is still advantageous to get a running start in very competitive events.
+Question: Downhill skiiers gain little advantage from a running start because the initial kinetic energy is small compared with the gain in what other energy form?
+Correct Answer: gravitational potential energy
+Distractors: kinetic energy, gravitational potential energy, kinetic energy
+  - kinetic energy: Similarity Score: 0.492685
+  - gravitational potential energy: Similarity Score: 1.000000
+  - kinetic energy: Similarity Score: 0.492685
+
+  - gravitational potential energy: Probability Score (good answer): 0.006507
+  - kinetic energy: Probability Score: 0.003322
+  - gravitational potential energy: Probability Score: 0.006507
+  - kinetic energy: Probability Score: 0.003322
+
+  - kinetic energy: Lexical Score: 0.250000
+  - gravitational potential energy: Lexical Score: 1.000000
+  - kinetic energy: Lexical Score: 0.250000
+
+Context: Both predators and prey have adaptations to predation that evolve through natural selection. Predator adaptations help them capture prey. Prey adaptations help them avoid predators. A common adaptation in both predator and prey is camouflage . Several examples are shown in Figure below . Camouflage in prey helps them hide from predators. Camouflage in predators helps them sneak up on prey.
+Question: What adaptation helps prey hide and predators sneak up on prey?
+Correct Answer: camouflage
+Distractors: mimicry, camouflage, mimicry
+  - mimicry: Similarity Score: 0.152443
+  - camouflage: Similarity Score: 1.000000
+  - mimicry: Similarity Score: 0.152443
+
+  - camouflage: Probability Score (good answer): 0.000111
+  - mimicry: Probability Score: 0.000219
+  - camouflage: Probability Score: 0.000111
+  - mimicry: Probability Score: 0.000219
+
+  - mimicry: Lexical Score: 0.000000
+  - camouflage: Lexical Score: 1.000000
+  - mimicry: Lexical Score: 0.000000
+
+Context: 
+Question: What is one thing that cell membranes are permeable to?
+Correct Answer: specific ions
+Distractors: proteins, water, molecules
+  - proteins: Similarity Score: 0.278430
+  - water: Similarity Score: -0.008846
+  - molecules: Similarity Score: 0.260761
+
+  - specific ions: Probability Score (good answer): 0.027670
+  - proteins: Probability Score: 0.001583
+  - water: Probability Score: 0.281356
+  - molecules: Probability Score: 0.000084
+
+  - proteins: Lexical Score: 0.000000
+  - water: Lexical Score: 0.000000
+  - molecules: Lexical Score: 0.000000
+
+Context: 
+Question: Water is used by the plant to move materials up from the roots to make what?
+Correct Answer: food
+Distractors: food, water, seeds
+  - food: Similarity Score: 1.000000
+  - water: Similarity Score: 0.037970
+  - seeds: Similarity Score: 0.311512
+
+  - food: Probability Score (good answer): 0.000273
+  - food: Probability Score: 0.000273
+  - water: Probability Score: 0.000002
+  - seeds: Probability Score: 0.000659
+
+  - food: Lexical Score: 1.000000
+  - water: Lexical Score: 0.000000
+  - seeds: Lexical Score: 0.000000
+
+Context: Cones form on a mature sporophyte plant. Inside male cones, male spores develop into male gametophytes. Each male gametophyte consists of several cells enclosed within a grain of pollen . Inside female cones, female spores develop into female gametophytes. Each female gametophyte produces an egg inside an ovule.
+Question: Inside female cones, female spores develop into female what?
+Correct Answer: gametophytes
+Distractors: gametophytes, gametes, gametes
+  - gametophytes: Similarity Score: 1.000000
+  - gametes: Similarity Score: 0.776668
+  - gametes: Similarity Score: 0.776668
+
+  - gametophytes: Probability Score (good answer): 0.000010
+  - gametophytes: Probability Score: 0.000010
+  - gametes: Probability Score: 0.000528
+  - gametes: Probability Score: 0.000528
+
+  - gametophytes: Lexical Score: 1.000000
+  - gametes: Lexical Score: 0.000000
+  - gametes: Lexical Score: 0.000000
+
+Context: 
+Question: What causes cells to divide if cytokinins are added to it?
+Correct Answer: auxin
+Distractors: auxin, cytokinins, light
+  - auxin: Similarity Score: 1.000000
+  - cytokinins: Similarity Score: 0.143075
+  - light: Similarity Score: 0.299775
+
+  - auxin: Probability Score (good answer): 0.000000
+  - auxin: Probability Score: 0.000000
+  - cytokinins: Probability Score: 0.000000
+  - light: Probability Score: 0.000000
+
+  - auxin: Lexical Score: 1.000000
+  - cytokinins: Lexical Score: 0.000000
+  - light: Lexical Score: 0.000000
+
+Context: Work done on a system puts energy into it. Work done by a system removes energy from it. Give an example for each statement. When solving for speed in Example 7.4, we kept only the positive root. Why?.
+Question: What happens to energy when work is done by a system?
+Correct Answer: removed
+Distractors: When work is done on a system, energy is put into it. Work done by a system removes energy from it. When solving for speed in Example 7.4, we kept only the positive root. Why?., When work is done on a system, None
+  - When work is done on a system, energy is put into it. Work done by a system removes energy from it. When solving for speed in Example 7.4, we kept only the positive root. Why?.: Similarity Score: 0.115802
+  - When work is done on a system: Similarity Score: 0.199512
+  - None: Similarity Score: 0.403788
+
+  - removed: Probability Score (good answer): 0.000000
+  - When work is done on a system, energy is put into it. Work done by a system removes energy from it. When solving for speed in Example 7.4, we kept only the positive root. Why?.: Probability Score: 0.429395
+  - When work is done on a system: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - When work is done on a system, energy is put into it. Work done by a system removes energy from it. When solving for speed in Example 7.4, we kept only the positive root. Why?.: Lexical Score: 0.000000
+  - When work is done on a system: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: What are most cells surrounded by?
+Correct Answer: water
+Distractors: water, sand, air
+  - water: Similarity Score: 1.000000
+  - sand: Similarity Score: 0.276808
+  - air: Similarity Score: 0.164825
+
+  - water: Probability Score (good answer): 0.000385
+  - water: Probability Score: 0.000385
+  - sand: Probability Score: 0.000000
+  - air: Probability Score: 0.000193
+
+  - water: Lexical Score: 1.000000
+  - sand: Lexical Score: 0.000000
+  - air: Lexical Score: 0.000000
+
+Context: 
+Question: Proto-oncogenes can change into oncogenes that cause what?
+Correct Answer: cancer
+Distractors: cancer, cancer, cancer
+  - cancer: Similarity Score: 1.000000
+  - cancer: Similarity Score: 1.000000
+  - cancer: Similarity Score: 1.000000
+
+  - cancer: Probability Score (good answer): 0.026539
+  - cancer: Probability Score: 0.026539
+  - cancer: Probability Score: 0.026539
+  - cancer: Probability Score: 0.026539
+
+  - cancer: Lexical Score: 1.000000
+  - cancer: Lexical Score: 1.000000
+  - cancer: Lexical Score: 1.000000
+
+Context: 
+Question: The three-dimensional spaces with specific shapes that are components of electrons shells are known as what?
+Correct Answer: orbitals
+Distractors: orbit, orbitals, orbit
+  - orbit: Similarity Score: 0.901645
+  - orbitals: Similarity Score: 1.000000
+  - orbit: Similarity Score: 0.901645
+
+  - orbitals: Probability Score (good answer): 0.129941
+  - orbit: Probability Score: 0.038105
+  - orbitals: Probability Score: 0.129941
+  - orbit: Probability Score: 0.038105
+
+  - orbit: Lexical Score: 0.000000
+  - orbitals: Lexical Score: 1.000000
+  - orbit: Lexical Score: 0.000000
+
+Context: In the chest, the trachea divides as it enters the lungs to form the right and left bronchi. The bronchi contain cartilage, which prevents them from collapsing. Mucus in the bronchi traps any remaining particles in air. Tiny hairs called cilia line the bronchi and sweep the particles and mucus toward the throat so they can be expelled from the body.
+Question: What are tiny hairs that line the bronchi called?
+Correct Answer: cilia
+Distractors: cilia, cilia, cilia
+  - cilia: Similarity Score: 1.000000
+  - cilia: Similarity Score: 1.000000
+  - cilia: Similarity Score: 1.000000
+
+  - cilia: Probability Score (good answer): 0.001796
+  - cilia: Probability Score: 0.001796
+  - cilia: Probability Score: 0.001796
+  - cilia: Probability Score: 0.001796
+
+  - cilia: Lexical Score: 1.000000
+  - cilia: Lexical Score: 1.000000
+  - cilia: Lexical Score: 1.000000
+
+Context: Cytoskeleton. The cytoskeleton gives the cell an internal structure, like the frame of a house. In this photograph, filaments and tubules of the cytoskeleton are green and red, respectively. The blue dots are cell nuclei.
+Question: Like the frame of a house, what gives the cell an internal structure?
+Correct Answer: cytoskeleton
+Distractors: cytoskeleton, None, None
+  - cytoskeleton: Similarity Score: 1.000000
+  - None: Similarity Score: 0.156445
+  - None: Similarity Score: 0.156445
+
+  - cytoskeleton: Probability Score (good answer): 0.007648
+  - cytoskeleton: Probability Score: 0.007648
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - cytoskeleton: Lexical Score: 1.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: Chewing insects mechanically damage plants and lessen the surface area of leaves for what?
+Correct Answer: photosynthesis
+Distractors: pollination, photosynthesis, pollination
+  - pollination: Similarity Score: 0.455572
+  - photosynthesis: Similarity Score: 1.000000
+  - pollination: Similarity Score: 0.455572
+
+  - photosynthesis: Probability Score (good answer): 0.000129
+  - pollination: Probability Score: 0.001430
+  - photosynthesis: Probability Score: 0.000129
+  - pollination: Probability Score: 0.001430
+
+  - pollination: Lexical Score: 0.000000
+  - photosynthesis: Lexical Score: 1.000000
+  - pollination: Lexical Score: 0.000000
+
+Context: Telomerase is typically active in germ cells and adult stem cells. It is not active in adult somatic cells. For her discovery of telomerase and its action, Elizabeth Blackburn (Figure 14.16) received the Nobel Prize for Medicine and Physiology in 2009.
+Question: Telomerase is typically active in germ cells and adult what?
+Correct Answer: stem cells
+Distractors: telomerase is typically active in germ cells and adult stem cells., telomerase is typically active in germ cells and adult somatic cells., telomerase is typically active in germ cells and adult stem cells and adult somatic
+  - telomerase is typically active in germ cells and adult stem cells.: Similarity Score: 0.602505
+  - telomerase is typically active in germ cells and adult somatic cells.: Similarity Score: 0.538549
+  - telomerase is typically active in germ cells and adult stem cells and adult somatic: Similarity Score: 0.549714
+
+  - stem cells: Probability Score (good answer): 0.000011
+  - telomerase is typically active in germ cells and adult stem cells.: Probability Score: 0.948878
+  - telomerase is typically active in germ cells and adult somatic cells.: Probability Score: 0.968453
+  - telomerase is typically active in germ cells and adult stem cells and adult somatic: Probability Score: 0.384209
+
+  - telomerase is typically active in germ cells and adult stem cells.: Lexical Score: 0.181818
+  - telomerase is typically active in germ cells and adult somatic cells.: Lexical Score: 0.083333
+  - telomerase is typically active in germ cells and adult stem cells and adult somatic: Lexical Score: 0.181818
+
+Context: Mammalian lungs have millions of tiny air sacs called alveoli . They provide a very large surface area for gas exchange.
+Question: What are alveoli?
+Correct Answer: tiny air sacs in the lungs
+Distractors: tiny air sacs in the lungs, tiny air sacs in the lungs, tiny air sacs in the lungs
+  - tiny air sacs in the lungs: Similarity Score: 1.000000
+  - tiny air sacs in the lungs: Similarity Score: 1.000000
+  - tiny air sacs in the lungs: Similarity Score: 1.000000
+
+  - tiny air sacs in the lungs: Probability Score (good answer): 0.017182
+  - tiny air sacs in the lungs: Probability Score: 0.017182
+  - tiny air sacs in the lungs: Probability Score: 0.017182
+  - tiny air sacs in the lungs: Probability Score: 0.017182
+
+  - tiny air sacs in the lungs: Lexical Score: 1.000000
+  - tiny air sacs in the lungs: Lexical Score: 1.000000
+  - tiny air sacs in the lungs: Lexical Score: 1.000000
+
+Context: Forces and pressures created by thermal stress are typically as great as that in the example above. Railroad tracks and roadways can buckle on hot days if they lack sufficient expansion joints. (See Figure 13.14. ) Power lines sag more in the summer than in the winter, and will snap in cold weather if there is insufficient slack. Cracks open and close in plaster walls as a house warms and cools. Glass cooking pans will crack if cooled rapidly or unevenly, because of differential contraction and the.
+Question: Railroad tracks and roadways can buckle on hot days if they lack sufficient what?
+Correct Answer: expansion joints
+Distractors: expansion joints, expansion joints, expansion joints
+  - expansion joints: Similarity Score: 1.000000
+  - expansion joints: Similarity Score: 1.000000
+  - expansion joints: Similarity Score: 1.000000
+
+  - expansion joints: Probability Score (good answer): 0.008602
+  - expansion joints: Probability Score: 0.008602
+  - expansion joints: Probability Score: 0.008602
+  - expansion joints: Probability Score: 0.008602
+
+  - expansion joints: Lexical Score: 1.000000
+  - expansion joints: Lexical Score: 1.000000
+  - expansion joints: Lexical Score: 1.000000
+
+Context: 43.5 Human Pregnancy and Birth Human pregnancy begins with fertilization of an egg and proceeds through the three trimesters of gestation. The labor process has three stages (contractions, delivery of the fetus, expulsion of the placenta), each propelled by hormones. The first trimester lays down the basic structures of the body, including the limb buds, heart, eyes, and the liver. The second trimester continues the development of all of the organs and systems. The third trimester exhibits the greatest growth of the fetus and culminates in labor and delivery. Prevention of a pregnancy can be accomplished through a variety of methods including barriers, hormones, or other means. Assisted reproductive technologies may help individuals who have infertility problems.
+Question: During a human pregnancy, which trimester exhibits the greatest growth of the fetus and culminates in labor and delivery?
+Correct Answer: third trimester
+Distractors: second trimester, first trimester, third trimester
+  - second trimester: Similarity Score: 0.524063
+  - first trimester: Similarity Score: 0.718848
+  - third trimester: Similarity Score: 1.000000
+
+  - third trimester: Probability Score (good answer): 0.471384
+  - second trimester: Probability Score: 0.566633
+  - first trimester: Probability Score: 0.667138
+  - third trimester: Probability Score: 0.471384
+
+  - second trimester: Lexical Score: 0.333333
+  - first trimester: Lexical Score: 0.333333
+  - third trimester: Lexical Score: 1.000000
+
+Context: 
+Question: The main shaft of the penis is covered by relatively thick what?
+Correct Answer: skin
+Distractors: hair, skin, muscle
+  - hair: Similarity Score: 0.287186
+  - skin: Similarity Score: 1.000000
+  - muscle: Similarity Score: 0.298716
+
+  - skin: Probability Score (good answer): 0.082243
+  - hair: Probability Score: 0.034947
+  - skin: Probability Score: 0.082243
+  - muscle: Probability Score: 0.047188
+
+  - hair: Lexical Score: 0.000000
+  - skin: Lexical Score: 1.000000
+  - muscle: Lexical Score: 0.000000
+
+Context: 
+Question: What is the end product of glycolysis?
+Correct Answer: pyruvate
+Distractors: glucose + ATP = pyruvate + ADP, glucose + NADH + FAD = pyruvate + NAD+ + FADH2, glucose + NAD+ = pyruvate +
+  - glucose + ATP = pyruvate + ADP: Similarity Score: 0.510574
+  - glucose + NADH + FAD = pyruvate + NAD+ + FADH2: Similarity Score: 0.451887
+  - glucose + NAD+ = pyruvate +: Similarity Score: 0.641990
+
+  - pyruvate: Probability Score (good answer): 0.005733
+  - glucose + ATP = pyruvate + ADP: Probability Score: 0.205868
+  - glucose + NADH + FAD = pyruvate + NAD+ + FADH2: Probability Score: 0.273673
+  - glucose + NAD+ = pyruvate +: Probability Score: 0.151999
+
+  - glucose + ATP = pyruvate + ADP: Lexical Score: 0.166667
+  - glucose + NADH + FAD = pyruvate + NAD+ + FADH2: Lexical Score: 0.125000
+  - glucose + NAD+ = pyruvate +: Lexical Score: 0.200000
+
+Context: Ammeters and voltmeters are cleverly designed for the way they are used. Ammeters measure the current of a circuit, and voltmeters measure the voltage drop across a resistor. It is important in the design and use of these meters that they don't change the circuit in such a way as to influence the readings. While both types of meters are technically resistors, they are specifically designed to make their readings without changing the circuit itself.
+Question: What do voltmeters measure across a resistor?
+Correct Answer: the voltage drop
+Distractors: The voltage drop across a resistor., The voltage drop across a load., The voltage drop across a load.
+  - The voltage drop across a resistor.: Similarity Score: 0.860920
+  - The voltage drop across a load.: Similarity Score: 0.880462
+  - The voltage drop across a load.: Similarity Score: 0.880462
+
+  - the voltage drop: Probability Score (good answer): 0.001088
+  - The voltage drop across a resistor.: Probability Score: 0.050058
+  - The voltage drop across a load.: Probability Score: 0.000000
+  - The voltage drop across a load.: Probability Score: 0.000000
+
+  - The voltage drop across a resistor.: Lexical Score: 0.285714
+  - The voltage drop across a load.: Lexical Score: 0.285714
+  - The voltage drop across a load.: Lexical Score: 0.285714
+
+Context: Vascular plants also have roots, stems, and leaves.
+Question: Vascular plants all have roots, stems, and what?
+Correct Answer: leaves
+Distractors: leaves, leaves, leaves
+  - leaves: Similarity Score: 1.000000
+  - leaves: Similarity Score: 1.000000
+  - leaves: Similarity Score: 1.000000
+
+  - leaves: Probability Score (good answer): 0.000155
+  - leaves: Probability Score: 0.000155
+  - leaves: Probability Score: 0.000155
+  - leaves: Probability Score: 0.000155
+
+  - leaves: Lexical Score: 1.000000
+  - leaves: Lexical Score: 1.000000
+  - leaves: Lexical Score: 1.000000
+
+Context: Mediterranean climates are found on the western coasts of continents. The latitudes are between 30° and 45°. The coast of California has a Mediterranean climate. Temperatures are mild and rainfall is moderate. Most of the rain falls in the winter, and summers are dry. To make it through the dry summers, short woody plants are common.
+Question: What type of climate does the coast of california have?
+Correct Answer: mediterranean
+Distractors: desert, semi-arid, humid
+  - desert: Similarity Score: 0.300337
+  - semi-arid: Similarity Score: 0.235841
+  - humid: Similarity Score: 0.246969
+
+  - mediterranean: Probability Score (good answer): 0.325855
+  - desert: Probability Score: 0.184343
+  - semi-arid: Probability Score: 0.497283
+  - humid: Probability Score: 0.318354
+
+  - desert: Lexical Score: 0.000000
+  - semi-arid: Lexical Score: 0.000000
+  - humid: Lexical Score: 0.000000
+
+Context: 
+Question: Most diplomonads and parabasalids are found in what kind of environment?
+Correct Answer: anaerobic
+Distractors: aerobic, aerobic, anaerobic
+  - aerobic: Similarity Score: 0.596978
+  - aerobic: Similarity Score: 0.596978
+  - anaerobic: Similarity Score: 1.000000
+
+  - anaerobic: Probability Score (good answer): 0.003560
+  - aerobic: Probability Score: 0.170718
+  - aerobic: Probability Score: 0.170718
+  - anaerobic: Probability Score: 0.003560
+
+  - aerobic: Lexical Score: 0.000000
+  - aerobic: Lexical Score: 0.000000
+  - anaerobic: Lexical Score: 1.000000
+
+Context: 
+Question: What do experts estimate is the cause for the extinction of hundreds of species every year?
+Correct Answer: human activities
+Distractors: human activities, habitat loss, overfishing
+  - human activities: Similarity Score: 1.000000
+  - habitat loss: Similarity Score: 0.177981
+  - overfishing: Similarity Score: -0.105910
+
+  - human activities: Probability Score (good answer): 0.000032
+  - human activities: Probability Score: 0.000032
+  - habitat loss: Probability Score: 0.000240
+  - overfishing: Probability Score: 0.004310
+
+  - human activities: Lexical Score: 1.000000
+  - habitat loss: Lexical Score: 0.000000
+  - overfishing: Lexical Score: 0.000000
+
+Context: No charge is actually created or destroyed when charges are separated as we have been discussing. Rather, existing charges are moved about. In fact, in all situations the total amount of charge is always constant. This universally obeyed law of nature is called the law of conservation of charge. Law of Conservation of Charge Total charge is constant in any process.
+Question: No charge is actually created or destroyed when charges are separated as we have been discussing. rather, existing charges are moved about. in fact, in all situations the total amount of charge is always this?
+Correct Answer: constant
+Distractors: No charge is actually created or destroyed when charges are separated as we have been discussing. Rather, existing charges are moved about. In fact, in all situations the total amount of charge is always constant. This universally obeyed law of nature is called the law of conservation of charge. Law of, None, None
+  - No charge is actually created or destroyed when charges are separated as we have been discussing. Rather, existing charges are moved about. In fact, in all situations the total amount of charge is always constant. This universally obeyed law of nature is called the law of conservation of charge. Law of: Similarity Score: 0.311893
+  - None: Similarity Score: 0.086390
+  - None: Similarity Score: 0.086390
+
+  - constant: Probability Score (good answer): 0.000000
+  - No charge is actually created or destroyed when charges are separated as we have been discussing. Rather, existing charges are moved about. In fact, in all situations the total amount of charge is always constant. This universally obeyed law of nature is called the law of conservation of charge. Law of: Probability Score: 0.266237
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - No charge is actually created or destroyed when charges are separated as we have been discussing. Rather, existing charges are moved about. In fact, in all situations the total amount of charge is always constant. This universally obeyed law of nature is called the law of conservation of charge. Law of: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: What do methanogens act as in sewage treatment plants?
+Correct Answer: as decomposers
+Distractors: as decomposers, as decomposers, as decomposers
+  - as decomposers: Similarity Score: 1.000000
+  - as decomposers: Similarity Score: 1.000000
+  - as decomposers: Similarity Score: 1.000000
+
+  - as decomposers: Probability Score (good answer): 0.324050
+  - as decomposers: Probability Score: 0.324050
+  - as decomposers: Probability Score: 0.324050
+  - as decomposers: Probability Score: 0.324050
+
+  - as decomposers: Lexical Score: 1.000000
+  - as decomposers: Lexical Score: 1.000000
+  - as decomposers: Lexical Score: 1.000000
+
+Context: Figure 45.9 When resources are unlimited, populations exhibit exponential growth, resulting in a J-shaped curve. When resources are limited, populations exhibit logistic growth. In logistic growth, population expansion decreases as resources become scarce, and it levels off when the carrying capacity of the environment is reached, resulting in an S-shaped curve.
+Question: When resources are limited, populations exhibit what type of growth?
+Correct Answer: logistic growth
+Distractors: logistic growth, logistic growth, logistic growth
+  - logistic growth: Similarity Score: 1.000000
+  - logistic growth: Similarity Score: 1.000000
+  - logistic growth: Similarity Score: 1.000000
+
+  - logistic growth: Probability Score (good answer): 0.343464
+  - logistic growth: Probability Score: 0.343464
+  - logistic growth: Probability Score: 0.343464
+  - logistic growth: Probability Score: 0.343464
+
+  - logistic growth: Lexical Score: 1.000000
+  - logistic growth: Lexical Score: 1.000000
+  - logistic growth: Lexical Score: 1.000000
+
+Context: Some seed plants evolved another major adaptation. This was the formation of seeds in flowers. Flowers are plant structures that contain male and/or female reproductive organs.
+Question: What are plant structures that contain male and/or female reproductive organs?
+Correct Answer: flowers
+Distractors: roots, leaves, stems
+  - roots: Similarity Score: 0.226463
+  - leaves: Similarity Score: 0.271566
+  - stems: Similarity Score: 0.136865
+
+  - flowers: Probability Score (good answer): 0.494157
+  - roots: Probability Score: 0.241919
+  - leaves: Probability Score: 0.163964
+  - stems: Probability Score: 0.381950
+
+  - roots: Lexical Score: 0.000000
+  - leaves: Lexical Score: 0.000000
+  - stems: Lexical Score: 0.000000
+
+Context: Each species has a particular way of making a living. This is called its niche . You can see the niche of a lion in Figure below . A lion makes its living by hunting and eating other animals. Each species also has a certain place where it is best suited to live. This is called its habitat . The lion’s habitat is a grassland. Why is a lion better off in a grassland than in a forest?.
+Question: Each species has a particular way of making a living which is called its what?
+Correct Answer: niche
+Distractors: habitat, niche, habitat
+  - habitat: Similarity Score: 0.282083
+  - niche: Similarity Score: 1.000000
+  - habitat: Similarity Score: 0.282083
+
+  - niche: Probability Score (good answer): 0.003908
+  - habitat: Probability Score: 0.043887
+  - niche: Probability Score: 0.003908
+  - habitat: Probability Score: 0.043887
+
+  - habitat: Lexical Score: 0.000000
+  - niche: Lexical Score: 1.000000
+  - habitat: Lexical Score: 0.000000
+
+Context: Adult tunicates are barrel-shaped. They have two openings that siphon water into and out of the body. The flow of water provides food for filter feeding. Tunicates reproduce sexually. Each individual produces both male and female gametes. However, they avoid self-fertilization. Tunicates can also reproduce asexually by budding.
+Question: How many openings do adult tunicates have that siphon water in and out of the body?
+Correct Answer: two
+Distractors: one, none, two
+  - one: Similarity Score: 0.282031
+  - none: Similarity Score: 0.327615
+  - two: Similarity Score: 1.000000
+
+  - two: Probability Score (good answer): 0.029182
+  - one: Probability Score: 0.007460
+  - none: Probability Score: 0.000176
+  - two: Probability Score: 0.029182
+
+  - one: Lexical Score: 0.000000
+  - none: Lexical Score: 0.000000
+  - two: Lexical Score: 1.000000
+
+Context: Macronutrients are nutrients the body needs in relatively large amounts. They include carbohydrates, proteins, lipids, and water.
+Question: What do you call nutrients that your body needs in fairly large amounts?
+Correct Answer: macronutrients
+Distractors: minerals, None, None
+  - minerals: Similarity Score: 0.329082
+  - None: Similarity Score: 0.061106
+  - None: Similarity Score: 0.061106
+
+  - macronutrients: Probability Score (good answer): 0.826366
+  - minerals: Probability Score: 0.547298
+  - None: Probability Score: 0.000212
+  - None: Probability Score: 0.000212
+
+  - minerals: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Animals can detect environmental stimuli, such as light, sound, and touch. Stimuli are detected by sensory nerve cells. The information is transmitted and processed by the nervous system. The nervous system, in turn, may direct the body to respond.
+Question: What type of cells detect stimuli?
+Correct Answer: sensory nerve cells
+Distractors: sensory receptor, sensory neuron, sensory neuron
+  - sensory receptor: Similarity Score: 0.790680
+  - sensory neuron: Similarity Score: 0.895436
+  - sensory neuron: Similarity Score: 0.895436
+
+  - sensory nerve cells: Probability Score (good answer): 0.165746
+  - sensory receptor: Probability Score: 0.000290
+  - sensory neuron: Probability Score: 0.015982
+  - sensory neuron: Probability Score: 0.015982
+
+  - sensory receptor: Lexical Score: 0.250000
+  - sensory neuron: Lexical Score: 0.250000
+  - sensory neuron: Lexical Score: 0.250000
+
+Context: Skin Sweat glands remove water, salts, and other wastes. Integumentary system.
+Question: What glands remove water, salts and other wastes from skin?
+Correct Answer: sweat glands
+Distractors: sweat glands, sweat glands, sweat glands
+  - sweat glands: Similarity Score: 1.000000
+  - sweat glands: Similarity Score: 1.000000
+  - sweat glands: Similarity Score: 1.000000
+
+  - sweat glands: Probability Score (good answer): 0.012372
+  - sweat glands: Probability Score: 0.012372
+  - sweat glands: Probability Score: 0.012372
+  - sweat glands: Probability Score: 0.012372
+
+  - sweat glands: Lexical Score: 1.000000
+  - sweat glands: Lexical Score: 1.000000
+  - sweat glands: Lexical Score: 1.000000
+
+Context: The percent yield is determined by calculating the ratio of actual yield/theoretical yield.
+Question: The percent yield is determined by calculating the ratio of actual yield by what?
+Correct Answer: theoretical yield
+Distractors: The percent yield is determined by calculating the ratio of actual yield by the theoretical yield., The percent yield is determined by calculating the ratio of actual yield by the theoretical yield., None
+  - The percent yield is determined by calculating the ratio of actual yield by the theoretical yield.: Similarity Score: 0.644635
+  - The percent yield is determined by calculating the ratio of actual yield by the theoretical yield.: Similarity Score: 0.644635
+  - None: Similarity Score: 0.132987
+
+  - theoretical yield: Probability Score (good answer): 0.000240
+  - The percent yield is determined by calculating the ratio of actual yield by the theoretical yield.: Probability Score: 0.539483
+  - The percent yield is determined by calculating the ratio of actual yield by the theoretical yield.: Probability Score: 0.539483
+  - None: Probability Score: 0.000010
+
+  - The percent yield is determined by calculating the ratio of actual yield by the theoretical yield.: Lexical Score: 0.153846
+  - The percent yield is determined by calculating the ratio of actual yield by the theoretical yield.: Lexical Score: 0.153846
+  - None: Lexical Score: 0.000000
+
+Context: Hydrogen-based fuel cells were and are used to provide electricity for manned space vehicles, partly because their only chemical product is water, which could be used for drinking. However, there has been a recent resurgence in interest in fuel cells because of their potential use in electric cars. Most electric cars run on conventional batteries, which can be very heavy and expensive to replace. It is thought that fuel cells, rather than conventional batteries, might be better sources of electricity for automobiles. Several current barriers to fuel cell use in electric cars include capacity, cost, and overall energy efficiency. The 2008 Honda FCX, the first production model of a vehicle powered with a fuel cell, can hold 4.1 kg (just under 9 lb) of highly pressured H2 gas and has a range of 450 km (280 mi). It costs about $120,000–$140,000 to build, making the vehicle beyond the ability of most people to own. Finally, it always requires more energy to produce elemental hydrogen as a fuel than can be extracted from hydrogen as a fuel. As such, hydrogen is described as an energy carrier (like electricity) rather than an energy source (like oil and gas). This distinction points out a fundamental argument against fuel cells as a “better” power source.
+Question: Hydrogen-based fuel cells were and are used to provide what for manned space vehicles?
+Correct Answer: electricity
+Distractors: electricity, power, heat
+  - electricity: Similarity Score: 1.000000
+  - power: Similarity Score: 0.669022
+  - heat: Similarity Score: 0.314371
+
+  - electricity: Probability Score (good answer): 0.000000
+  - electricity: Probability Score: 0.000000
+  - power: Probability Score: 0.000095
+  - heat: Probability Score: 0.000000
+
+  - electricity: Lexical Score: 1.000000
+  - power: Lexical Score: 0.000000
+  - heat: Lexical Score: 0.000000
+
+Context: Heat can be transferred in three ways, through conduction, convection, and radiation. Conduction is the transfer of heat by physical contact. Heat flows form the hotter object to the cooler object. Convection is heat transfer by an intermediate substance (for example air or water). Your oven (often properly called the ‘convection oven’) works by heating up the air and then the air heats up your food. Radiation is the release of heat (and thus the lowering of its internal energy) by releasing electromagnetic waves. The hotter the object the higher the frequency of the light emitted. When you look at a fire the blue flames our hotter than the red flames because blue has a higher frequency than red.
+Question: What is the transfer of heat by physical contact?
+Correct Answer: conduction
+Distractors: convection, radiation, conduction
+  - convection: Similarity Score: 0.512332
+  - radiation: Similarity Score: 0.246386
+  - conduction: Similarity Score: 1.000000
+
+  - conduction: Probability Score (good answer): 0.007387
+  - convection: Probability Score: 0.000039
+  - radiation: Probability Score: 0.000098
+  - conduction: Probability Score: 0.007387
+
+  - convection: Lexical Score: 0.000000
+  - radiation: Lexical Score: 0.000000
+  - conduction: Lexical Score: 1.000000
+
+Context: Ionic compounds conduct electricity when dissolved in water.
+Question: What happens when ionic compounds are dissolved in water?
+Correct Answer: conduct electricity
+Distractors: Ionic compounds don't conduct electricity when dissolved in water., Ionic compounds conduct electricity when dissolved in water., Ionic compounds don't conduct electricity when dissolved in water.
+  - Ionic compounds don't conduct electricity when dissolved in water.: Similarity Score: 0.070367
+  - Ionic compounds conduct electricity when dissolved in water.: Similarity Score: 0.291758
+  - Ionic compounds don't conduct electricity when dissolved in water.: Similarity Score: 0.070367
+
+  - conduct electricity: Probability Score (good answer): 0.000001
+  - Ionic compounds don't conduct electricity when dissolved in water.: Probability Score: 0.640324
+  - Ionic compounds conduct electricity when dissolved in water.: Probability Score: 0.944143
+  - Ionic compounds don't conduct electricity when dissolved in water.: Probability Score: 0.640324
+
+  - Ionic compounds don't conduct electricity when dissolved in water.: Lexical Score: 0.222222
+  - Ionic compounds conduct electricity when dissolved in water.: Lexical Score: 0.250000
+  - Ionic compounds don't conduct electricity when dissolved in water.: Lexical Score: 0.222222
+
+Context: 
+Question: Toxins and poisons are ______ enzyme inhibitos
+Correct Answer: irreversible
+Distractors: reversible, reversible, irreversible
+  - reversible: Similarity Score: 0.593025
+  - reversible: Similarity Score: 0.593025
+  - irreversible: Similarity Score: 1.000000
+
+  - irreversible: Probability Score (good answer): 0.000001
+  - reversible: Probability Score: 0.000001
+  - reversible: Probability Score: 0.000001
+  - irreversible: Probability Score: 0.000001
+
+  - reversible: Lexical Score: 0.000000
+  - reversible: Lexical Score: 0.000000
+  - irreversible: Lexical Score: 1.000000
+
+Context: A vapor light produces visible light by electroluminescence. The bulb contains a small amount of solid sodium or mercury as well as a mixture of neon and argon gases. When an electric current passes through the gases, it causes the solid sodium or mercury to change to a gas and emit visible light. Sodium vapor lights, like these streetlights, produce yellowish light. Mercury vapor lights produce bluish light. Vapor lights are very bright and energy efficient. The bulbs are also long lasting.
+Question: A vapor light produces visible light by what process?
+Correct Answer: electroluminescence
+Distractors: electroluminescence, None, None
+  - electroluminescence: Similarity Score: 1.000000
+  - None: Similarity Score: 0.110628
+  - None: Similarity Score: 0.110628
+
+  - electroluminescence: Probability Score (good answer): 0.135408
+  - electroluminescence: Probability Score: 0.135408
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - electroluminescence: Lexical Score: 1.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Another example of sp 3 hybridization occurs in the ammonia (NH 3 ) molecule. The electron domain geometry of ammonia is also tetrahedral, meaning that there are four groups of electrons around the central nitrogen atom. Unlike methane, however, one of those electron groups is a lone pair. The resulting molecular geometry is trigonal pyramidal. Just as in the carbon atom, the hybridization process starts as a promotion of a 2s electron to a 2p orbital, followed by hybridization to form a set of four sp 3 hybrids. In this case, one of the hybrid orbitals already contains a pair of electrons, leaving only three half-filled orbitals available to form covalent bonds with three hydrogen atoms.
+Question: What is the electron domain geometry of ammonia?
+Correct Answer: tetrahedral
+Distractors: octahedral, trigonal bipyramidal, tetrahedral
+  - octahedral: Similarity Score: 0.513425
+  - trigonal bipyramidal: Similarity Score: 0.430494
+  - tetrahedral: Similarity Score: 1.000000
+
+  - tetrahedral: Probability Score (good answer): 0.000130
+  - octahedral: Probability Score: 0.000270
+  - trigonal bipyramidal: Probability Score: 0.000438
+  - tetrahedral: Probability Score: 0.000130
+
+  - octahedral: Lexical Score: 0.000000
+  - trigonal bipyramidal: Lexical Score: 0.000000
+  - tetrahedral: Lexical Score: 1.000000
+
+Context: 
+Question: What do ecosystems absorb on the earth?
+Correct Answer: energy
+Distractors: energy, water, food
+  - energy: Similarity Score: 1.000000
+  - water: Similarity Score: 0.177756
+  - food: Similarity Score: 0.166897
+
+  - energy: Probability Score (good answer): 0.000352
+  - energy: Probability Score: 0.000352
+  - water: Probability Score: 0.005021
+  - food: Probability Score: 0.000000
+
+  - energy: Lexical Score: 1.000000
+  - water: Lexical Score: 0.000000
+  - food: Lexical Score: 0.000000
+
+Context: Under ideal conditions, populations can grow exponentially. The growth rate increases as the population gets larger. Most populations do not live under ideal conditions and grow logistically instead. Density-dependent factors slow population growth as population size nears the carrying capacity.
+Question: Under what type of conditions can populations grow exponentially?
+Correct Answer: ideal
+Distractors: under ideal conditions, logistically, under density-dependent factors
+  - under ideal conditions: Similarity Score: 0.594994
+  - logistically: Similarity Score: 0.244580
+  - under density-dependent factors: Similarity Score: 0.185491
+
+  - ideal: Probability Score (good answer): 0.000002
+  - under ideal conditions: Probability Score: 0.476246
+  - logistically: Probability Score: 0.000003
+  - under density-dependent factors: Probability Score: 0.054531
+
+  - under ideal conditions: Lexical Score: 0.333333
+  - logistically: Lexical Score: 0.000000
+  - under density-dependent factors: Lexical Score: 0.000000
+
+Context: 
+Question: Malonate plays what negative role on the enzyme succinate dehydrogenase?
+Correct Answer: inhibitor
+Distractors: inhibitor, poison, poison
+  - inhibitor: Similarity Score: 1.000000
+  - poison: Similarity Score: 0.275584
+  - poison: Similarity Score: 0.275584
+
+  - inhibitor: Probability Score (good answer): 0.000011
+  - inhibitor: Probability Score: 0.000011
+  - poison: Probability Score: 0.000000
+  - poison: Probability Score: 0.000000
+
+  - inhibitor: Lexical Score: 1.000000
+  - poison: Lexical Score: 0.000000
+  - poison: Lexical Score: 0.000000
+
+Context: 
+Question: The ladybug and the frog both start as eggs and go through what process?
+Correct Answer: metamorphosis
+Distractors: hatching, molting, metamorphosis
+  - hatching: Similarity Score: 0.192726
+  - molting: Similarity Score: 0.303678
+  - metamorphosis: Similarity Score: 1.000000
+
+  - metamorphosis: Probability Score (good answer): 0.658858
+  - hatching: Probability Score: 0.600457
+  - molting: Probability Score: 0.002376
+  - metamorphosis: Probability Score: 0.658858
+
+  - hatching: Lexical Score: 0.000000
+  - molting: Lexical Score: 0.000000
+  - metamorphosis: Lexical Score: 1.000000
+
+Context: Asteroids are very small, irregularly shaped, rocky bodies. Asteroids orbit the Sun, but they are more like giant rocks than planets. Since they are small, they do not have enough gravity to become round. They are too small to have an atmosphere. With no internal heat, they are not geologically active. An asteroid can only change due to a collision. A collision may cause the asteroid to break up. It may create craters on the asteroid’s surface. An asteroid may strike a planet if it comes near enough to be pulled in by its gravity. Figure below shows a typical asteroid.
+Question: Asteroids are not geologically active. which is the only way they can change?
+Correct Answer: a collision
+Distractors: a collision, None, None
+  - a collision: Similarity Score: 1.000000
+  - None: Similarity Score: 0.087207
+  - None: Similarity Score: 0.087207
+
+  - a collision: Probability Score (good answer): 0.000006
+  - a collision: Probability Score: 0.000006
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - a collision: Lexical Score: 1.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: What term describes reproducing by external fertilization after the female sheds large numbers of small eggs?
+Correct Answer: oviparous
+Distractors: ovoviviparous, viviparous, ovoviviparous
+  - ovoviviparous: Similarity Score: 0.880723
+  - viviparous: Similarity Score: 0.792951
+  - ovoviviparous: Similarity Score: 0.880723
+
+  - oviparous: Probability Score (good answer): 0.001359
+  - ovoviviparous: Probability Score: 0.000159
+  - viviparous: Probability Score: 0.005919
+  - ovoviviparous: Probability Score: 0.000159
+
+  - ovoviviparous: Lexical Score: 0.000000
+  - viviparous: Lexical Score: 0.000000
+  - ovoviviparous: Lexical Score: 0.000000
+
+Context: 
+Question: What takes place where septa is found?
+Correct Answer: forming of reproductive cells
+Distractors: forming of reproductive cells, forming of reproductive cells, forming of reproductive cells
+  - forming of reproductive cells: Similarity Score: 1.000000
+  - forming of reproductive cells: Similarity Score: 1.000000
+  - forming of reproductive cells: Similarity Score: 1.000000
+
+  - forming of reproductive cells: Probability Score (good answer): 0.000000
+  - forming of reproductive cells: Probability Score: 0.000000
+  - forming of reproductive cells: Probability Score: 0.000000
+  - forming of reproductive cells: Probability Score: 0.000000
+
+  - forming of reproductive cells: Lexical Score: 1.000000
+  - forming of reproductive cells: Lexical Score: 1.000000
+  - forming of reproductive cells: Lexical Score: 1.000000
+
+Context: 
+Question: Carnivores that eat herbivores are what kind of consumers?
+Correct Answer: secondary
+Distractors: primary, tertiary, secondary
+  - primary: Similarity Score: 0.481383
+  - tertiary: Similarity Score: 0.175559
+  - secondary: Similarity Score: 1.000000
+
+  - secondary: Probability Score (good answer): 0.000007
+  - primary: Probability Score: 0.000000
+  - tertiary: Probability Score: 0.000000
+  - secondary: Probability Score: 0.000007
+
+  - primary: Lexical Score: 0.000000
+  - tertiary: Lexical Score: 0.000000
+  - secondary: Lexical Score: 1.000000
+
+Context: common name of a plant-like protist, which contains chloroplasts and makes food by photosynthesis.
+Question: Plant-like protists contains chloroplasts and make food by what process?
+Correct Answer: photosynthesis
+Distractors: chloroplasts, food by photosynthesis, chloroplasts
+  - chloroplasts: Similarity Score: 0.392678
+  - food by photosynthesis: Similarity Score: 0.648236
+  - chloroplasts: Similarity Score: 0.392678
+
+  - photosynthesis: Probability Score (good answer): 0.041365
+  - chloroplasts: Probability Score: 0.000000
+  - food by photosynthesis: Probability Score: 0.313398
+  - chloroplasts: Probability Score: 0.000000
+
+  - chloroplasts: Lexical Score: 0.000000
+  - food by photosynthesis: Lexical Score: 0.333333
+  - chloroplasts: Lexical Score: 0.000000
+
+Context: On land, sulfur is deposited in four major ways: precipitation, direct fallout from the atmosphere, rock weathering, and geothermal vents (Figure 20.17). Atmospheric sulfur is found in the form of sulfur dioxide (SO2), and as rain falls through the atmosphere, sulfur is dissolved in the form of weak sulfuric acid (H2SO4). Sulfur can also fall directly from the atmosphere in a process called fallout. Also, as sulfur-containing rocks weather, sulfur is released into the soil. These rocks originate from ocean sediments that are moved to land by the geologic uplifting of ocean sediments. Terrestrial ecosystems can then make use of these soil sulfates (SO42-), which enter the food web by being taken up by plant roots. When these plants decompose and die, sulfur is released back into the atmosphere as hydrogen sulfide (H2S) gas.
+Question: In what form is atmospheric sulfur found?
+Correct Answer: sulfur dioxide (so2)
+Distractors: sulfur dioxide (so2), hydrogen sulfide (h2s), sulfuric acid (h2so4)
+  - sulfur dioxide (so2): Similarity Score: 1.000000
+  - hydrogen sulfide (h2s): Similarity Score: 0.717915
+  - sulfuric acid (h2so4): Similarity Score: 0.800090
+
+  - sulfur dioxide (so2): Probability Score (good answer): 0.000028
+  - sulfur dioxide (so2): Probability Score: 0.000028
+  - hydrogen sulfide (h2s): Probability Score: 0.000002
+  - sulfuric acid (h2so4): Probability Score: 0.000002
+
+  - sulfur dioxide (so2): Lexical Score: 1.000000
+  - hydrogen sulfide (h2s): Lexical Score: 0.000000
+  - sulfuric acid (h2so4): Lexical Score: 0.000000
+
+Total count of outliers: 111

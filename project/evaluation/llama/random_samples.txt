@@ -1,0 +1,341 @@
+Random Samples:
+Context: 
+Question: What is it called when sound is reflected off an object?
+Correct Answer: echo
+Distractors: sound, reflection, vibration.
+  - sound: Similarity Score: 0.607966
+  - reflection: Similarity Score: 0.289977
+  - vibration.: Similarity Score: 0.328005
+
+  - echo: Probability Score (good answer): 0.002921
+  - sound: Probability Score: 0.000040
+  - reflection: Probability Score: 0.001798
+  - vibration.: Probability Score: 0.003207
+
+  - sound: Lexical Score: 0.000000
+  - reflection: Lexical Score: 0.000000
+  - vibration.: Lexical Score: 0.000000
+
+Context: Inheritance in humans is not as straight-forward as that in the pea plant. Though some traits are inherited in simple Mendelian fashion, many are not. To analyze simple Mendelian inheritance a pedigree is often utilized. This is especially helpful in tracking the inheritance of a specific trait, characteristic or disorder (or allele) through a family.
+Question: What is utilized to analyze simple mendelian inheritance?
+Correct Answer: pedigree
+Distractors: gene, mutation, phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type:
+  - gene: Similarity Score: 0.159101
+  - mutation: Similarity Score: 0.176020
+  - phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type:: Similarity Score: 0.203776
+
+  - pedigree: Probability Score (good answer): 0.000049
+  - gene: Probability Score: 0.000031
+  - mutation: Probability Score: 0.002672
+  - phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type:: Probability Score: 0.000562
+
+  - gene: Lexical Score: 0.000000
+  - mutation: Lexical Score: 0.000000
+  - phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type: phenotype type: genotype type:: Lexical Score: 0.000000
+
+Context: 
+Question: The main shaft of the penis is covered by relatively thick what?
+Correct Answer: skin
+Distractors: muscle, nerve, fat tissue.
+  - muscle: Similarity Score: 0.298715
+  - nerve: Similarity Score: 0.292841
+  - fat tissue.: Similarity Score: 0.318688
+
+  - skin: Probability Score (good answer): 0.082243
+  - muscle: Probability Score: 0.047188
+  - nerve: Probability Score: 0.000005
+  - fat tissue.: Probability Score: 0.281139
+
+  - muscle: Lexical Score: 0.000000
+  - nerve: Lexical Score: 0.000000
+  - fat tissue.: Lexical Score: 0.000000
+
+Context: The image below shows the role of the atmosphere in the water cycle ( Figure below ). Water vapor rises from Earth’s surface into the atmosphere. As it rises, it cools. The water vapor may then condense into water droplets and form clouds. If enough water droplets collect in clouds, they may come together to form droplets. The droplets will fall as rain. This how freshwater gets from the atmosphere back to Earth's surface.
+Question: What happens to water vapor as it rises?
+Correct Answer: it cools
+Distractors: it dries, it heats, it melts.
+  - it dries: Similarity Score: 0.463756
+  - it heats: Similarity Score: 0.122598
+  - it melts.: Similarity Score: 0.510612
+
+  - it cools: Probability Score (good answer): 0.000152
+  - it dries: Probability Score: 0.002376
+  - it heats: Probability Score: 0.014529
+  - it melts.: Probability Score: 0.001894
+
+  - it dries: Lexical Score: 0.333333
+  - it heats: Lexical Score: 0.333333
+  - it melts.: Lexical Score: 0.333333
+
+Context: Tree rings, ice cores, and varves indicate the environmental conditions at the time they were made.
+Question: Ice cores, varves and what else indicate the environmental conditions at the time of their creation?
+Correct Answer: tree rings
+Distractors: fossils, fossils, fossils and tree rings.
+  - fossils: Similarity Score: 0.244433
+  - fossils: Similarity Score: 0.244433
+  - fossils and tree rings.: Similarity Score: 0.710851
+
+  - tree rings: Probability Score (good answer): 0.000003
+  - fossils: Probability Score: 0.000001
+  - fossils: Probability Score: 0.000001
+  - fossils and tree rings.: Probability Score: 0.000280
+
+  - fossils: Lexical Score: 0.000000
+  - fossils: Lexical Score: 0.000000
+  - fossils and tree rings.: Lexical Score: 0.200000
+
+Context: Geneticists often use viruses as vectors to introduce genes into cells that they are studying. A viral vector is a tool commonly used by molecular biologists to place genetic material into cells. To be a useful viral vector, the virus is modified so that it will not cause disease, and it will infect only certain types of cells. Phages are often used as vectors to genetically modify bacteria.
+Question: What is the name for a tool commonly used by molecular biologists to place genetic material into cells?
+Correct Answer: a viral vector
+Distractors: a bacteriophage, a viral particle, a genetic virus particle.
+  - a bacteriophage: Similarity Score: 0.604202
+  - a viral particle: Similarity Score: 0.844996
+  - a genetic virus particle.: Similarity Score: 0.790011
+
+  - a viral vector: Probability Score (good answer): 0.078973
+  - a bacteriophage: Probability Score: 0.214713
+  - a viral particle: Probability Score: 0.003265
+  - a genetic virus particle.: Probability Score: 0.076089
+
+  - a bacteriophage: Lexical Score: 0.250000
+  - a viral particle: Lexical Score: 0.500000
+  - a genetic virus particle.: Lexical Score: 0.166667
+
+Context: Humidity is the amount of water vapor in the air. High humidity increases the chances of clouds and precipitation.
+Question: What term means the amount of water vapor in the air?
+Correct Answer: humidity
+Distractors: air pressure, density, temperature.
+  - air pressure: Similarity Score: 0.357540
+  - density: Similarity Score: 0.374673
+  - temperature.: Similarity Score: 0.391386
+
+  - humidity: Probability Score (good answer): 0.000087
+  - air pressure: Probability Score: 0.000065
+  - density: Probability Score: 0.001368
+  - temperature.: Probability Score: 0.000007
+
+  - air pressure: Lexical Score: 0.000000
+  - density: Lexical Score: 0.000000
+  - temperature.: Lexical Score: 0.000000
+
+Context: Geologists study earthquake waves to “see” Earth's interior. Waves of energy radiate out from an earthquake’s focus. These waves are called seismic waves ( Figure below ). Seismic waves go different speeds through different materials. They change speed when they go from one type of material to another. This causes them to bend. Some seismic waves do not travel through liquids or gases. They just stop. Scientists use information from seismic waves to understand what makes up the Earth’s interior.
+Question: What is the name for the energy waves that radiate out from the center of an earthquake?
+Correct Answer: seismic waves
+Distractors: electrical waves, tidal waves, electromagnetic waves.
+  - electrical waves: Similarity Score: 0.518834
+  - tidal waves: Similarity Score: 0.585786
+  - electromagnetic waves.: Similarity Score: 0.459066
+
+  - seismic waves: Probability Score (good answer): 0.409179
+  - electrical waves: Probability Score: 0.442638
+  - tidal waves: Probability Score: 0.438415
+  - electromagnetic waves.: Probability Score: 0.450859
+
+  - electrical waves: Lexical Score: 0.333333
+  - tidal waves: Lexical Score: 0.333333
+  - electromagnetic waves.: Lexical Score: 0.000000
+
+Context: 
+Question: Chewing insects mechanically damage plants and lessen the surface area of leaves for what?
+Correct Answer: photosynthesis
+Distractors: photosynthesis, pollination, respiration.
+  - photosynthesis: Similarity Score: 1.000000
+  - pollination: Similarity Score: 0.455572
+  - respiration.: Similarity Score: 0.346168
+
+  - photosynthesis: Probability Score (good answer): 0.000129
+  - photosynthesis: Probability Score: 0.000129
+  - pollination: Probability Score: 0.001430
+  - respiration.: Probability Score: 0.064930
+
+  - photosynthesis: Lexical Score: 1.000000
+  - pollination: Lexical Score: 0.000000
+  - respiration.: Lexical Score: 0.000000
+
+Context: As the membrane potential reaches +30 mV, other voltage-gated channels are opening in the membrane. These channels are specific for the potassium ion. A concentration gradient acts on K+, as well. As K+ starts to leave the cell, taking a positive charge with it, the membrane potential begins to move back toward its resting voltage. This is called repolarization, meaning that the membrane voltage moves back toward the -70 mV value of the resting membrane potential. Repolarization returns the membrane potential to the -70 mV value that indicates the resting potential, but it actually overshoots that value. Potassium ions reach equilibrium when the membrane voltage is below -70 mV, so a period of hyperpolarization occurs while the K+ channels are open. Those K+ channels are slightly delayed in closing, accounting for this short overshoot. What has been described here is the action potential, which is presented as a graph of voltage over time in Figure 12.23. It is the electrical signal that nervous tissue generates for communication. The change in the membrane voltage from -70 mV at rest to +30 mV at the end of depolarization is a 100-mV change. That can also be written as a 0.1-V change. To put that value in perspective, think about a battery. An AA battery that you might find in a television remote has a voltage of 1.5 V, or a 9-V battery (the rectangular battery with two posts on one end) is, obviously, 9 V. The change seen in the action potential is one or two orders of magnitude less than the charge in these batteries. In fact, the membrane potential can be described as a battery. A charge is stored across the membrane that can be released under the correct conditions. A battery in your remote has stored a charge that is “released” when you push a button.
+Question: Repolarization occurs when the membrane potential begins to move back toward its resting what?
+Correct Answer: voltage
+Distractors: pressure, temperature, speed of sound waves.
+  - pressure: Similarity Score: 0.430614
+  - temperature: Similarity Score: 0.281255
+  - speed of sound waves.: Similarity Score: 0.339953
+
+  - voltage: Probability Score (good answer): 0.000000
+  - pressure: Probability Score: 0.000000
+  - temperature: Probability Score: 0.000148
+  - speed of sound waves.: Probability Score: 0.000088
+
+  - pressure: Lexical Score: 0.000000
+  - temperature: Lexical Score: 0.000000
+  - speed of sound waves.: Lexical Score: 0.000000
+
+Context: An individual virus is called a virion. It is a tiny particle much smaller than a prokaryotic cell. Because viruses do not consist of cells, they also lack cell membranes, cytoplasm, ribosomes, and other cell organelles. Without these structures, they are unable to make proteins or even reproduce on their own. Instead, they must depend on a host cell to synthesize their proteins and to make copies of themselves. Viruses infect and live inside the cells of living organisms. When viruses infect the cells of their host, they may cause disease. For example, viruses cause AIDS, influenza (flu), chicken pox, and the common cold.
+Question: An individual virus is called what?
+Correct Answer: a virion
+Distractors: a virus, a microorganism, a cell membrane.
+  - a virus: Similarity Score: 0.637147
+  - a microorganism: Similarity Score: 0.384349
+  - a cell membrane.: Similarity Score: 0.405306
+
+  - a virion: Probability Score (good answer): 0.116185
+  - a virus: Probability Score: 0.000180
+  - a microorganism: Probability Score: 0.000647
+  - a cell membrane.: Probability Score: 0.000012
+
+  - a virus: Lexical Score: 0.333333
+  - a microorganism: Lexical Score: 0.333333
+  - a cell membrane.: Lexical Score: 0.250000
+
+Context: The actual removal of wastes from the blood occurs in tiny units inside the kidneys called nephrons. Nephrons are the structural and functional units of the kidneys. A single kidney may have more than a million nephrons! This is further discussed in the Urinary System concept.
+Question: What are the structural and functional units of the kidneys?
+Correct Answer: nephrons
+Distractors: cells, blood vessels, organs.
+  - cells: Similarity Score: 0.101579
+  - blood vessels: Similarity Score: 0.133617
+  - organs.: Similarity Score: 0.247672
+
+  - nephrons: Probability Score (good answer): 0.305276
+  - cells: Probability Score: 0.063331
+  - blood vessels: Probability Score: 0.556181
+  - organs.: Probability Score: 0.216532
+
+  - cells: Lexical Score: 0.000000
+  - blood vessels: Lexical Score: 0.000000
+  - organs.: Lexical Score: 0.000000
+
+Context: Another structure that supports the fetus is the amniotic sac. This is a membrane that surrounds and protects the fetus. It contains amniotic fluid, which consists of water and dissolved substances. The fluid allows the fetus to move freely until it grows to fill most of the available space. The fluid also cushions the fetus and helps protect it from injury.
+Question: What type of fluid cushions the fetus and helps protect it from injury?
+Correct Answer: amniotic
+Distractors: peritoneal, lymphatic, cardiac fluid.
+  - peritoneal: Similarity Score: 0.274941
+  - lymphatic: Similarity Score: 0.218506
+  - cardiac fluid.: Similarity Score: 0.256513
+
+  - amniotic: Probability Score (good answer): 0.003023
+  - peritoneal: Probability Score: 0.072529
+  - lymphatic: Probability Score: 0.029148
+  - cardiac fluid.: Probability Score: 0.148356
+
+  - peritoneal: Lexical Score: 0.000000
+  - lymphatic: Lexical Score: 0.000000
+  - cardiac fluid.: Lexical Score: 0.000000
+
+Context: 
+Question: Proto-oncogenes can change into oncogenes that cause what?
+Correct Answer: cancer
+Distractors: mutation, disease, virus.
+  - mutation: Similarity Score: 0.197194
+  - disease: Similarity Score: 0.370809
+  - virus.: Similarity Score: 0.465997
+
+  - cancer: Probability Score (good answer): 0.026539
+  - mutation: Probability Score: 0.046720
+  - disease: Probability Score: 0.256344
+  - virus.: Probability Score: 0.019518
+
+  - mutation: Lexical Score: 0.000000
+  - disease: Lexical Score: 0.000000
+  - virus.: Lexical Score: 0.000000
+
+Context: Isotopes can be very useful in scans to locate cancer cells. This patient has multiple tumors that have spread (metastasized) from the main tumor. A radioisotope has been attached to antibodies that bind to specific cancer cells. The very dark spots in the armpits, neck, and groin represent areas where tumor cells exist.
+Question: What term is used to describe a cancer that has spread?
+Correct Answer: metastasized
+Distractors: metastasized, metastasis, metastasized cancer cells are spread through the body of the patient.
+  - metastasized: Similarity Score: 1.000000
+  - metastasis: Similarity Score: 0.693991
+  - metastasized cancer cells are spread through the body of the patient.: Similarity Score: 0.402174
+
+  - metastasized: Probability Score (good answer): 0.028921
+  - metastasized: Probability Score: 0.028921
+  - metastasis: Probability Score: 0.071818
+  - metastasized cancer cells are spread through the body of the patient.: Probability Score: 0.433510
+
+  - metastasized: Lexical Score: 1.000000
+  - metastasis: Lexical Score: 0.000000
+  - metastasized cancer cells are spread through the body of the patient.: Lexical Score: 0.100000
+
+Context: Chelicerae are mostly used for feeding, but in spiders, these are often modified into fangs that inject venom into their prey before feeding (Figure 28.43). Members of this subphylum have an open circulatory system with a heart that pumps blood into the hemocoel. Aquatic species have gills, whereas terrestrial species have either trachea or book lungs for gaseous exchange.
+Question: Chelicerae in spiders are often modified into fangs that perform what function?
+Correct Answer: inject venom
+Distractors: inject water, eat, protect eggs from predators.
+  - inject water: Similarity Score: 0.369453
+  - eat: Similarity Score: 0.315787
+  - protect eggs from predators.: Similarity Score: 0.029238
+
+  - inject venom: Probability Score (good answer): 0.032305
+  - inject water: Probability Score: 0.000622
+  - eat: Probability Score: 0.000000
+  - protect eggs from predators.: Probability Score: 0.200588
+
+  - inject water: Lexical Score: 0.333333
+  - eat: Lexical Score: 0.000000
+  - protect eggs from predators.: Lexical Score: 0.000000
+
+Context: 
+Question: When water is aerated it can provide a plant's roots with what gas for cellular respiration?
+Correct Answer: oxygen
+Distractors: nitrogen, carbon, hydrogen.
+  - nitrogen: Similarity Score: 0.391618
+  - carbon: Similarity Score: 0.419792
+  - hydrogen.: Similarity Score: 0.420907
+
+  - oxygen: Probability Score (good answer): 0.407726
+  - nitrogen: Probability Score: 0.454043
+  - carbon: Probability Score: 0.064241
+  - hydrogen.: Probability Score: 0.692096
+
+  - nitrogen: Lexical Score: 0.000000
+  - carbon: Lexical Score: 0.000000
+  - hydrogen.: Lexical Score: 0.000000
+
+Context: In both eukaryotes and prokaryotes, ribosomes are the non-membrane bound organelles where proteins are made. Ribosomes are like the machines in the factory that produce the factory's main product. Proteins are the main product of the cell.
+Question: In both eukaryotes and prokaryotes, ribosomes are the non-membrane bound organelles where what main product of the cell is made?
+Correct Answer: proteins
+Distractors: carbohydrates, fats, acids.
+  - carbohydrates: Similarity Score: 0.079305
+  - fats: Similarity Score: 0.152569
+  - acids.: Similarity Score: 0.269881
+
+  - proteins: Probability Score (good answer): 0.001858
+  - carbohydrates: Probability Score: 0.002268
+  - fats: Probability Score: 0.000790
+  - acids.: Probability Score: 0.001240
+
+  - carbohydrates: Lexical Score: 0.000000
+  - fats: Lexical Score: 0.000000
+  - acids.: Lexical Score: 0.000000
+
+Context: Impulse is a vector quantity that has the same direction as the force.
+Question: What is a vector quantity with the same direction as the force called?
+Correct Answer: impulse
+Distractors: velocity, acceleration, momentum.
+  - velocity: Similarity Score: 0.315328
+  - acceleration: Similarity Score: 0.490104
+  - momentum.: Similarity Score: 0.511795
+
+  - impulse: Probability Score (good answer): 0.005573
+  - velocity: Probability Score: 0.050862
+  - acceleration: Probability Score: 0.001958
+  - momentum.: Probability Score: 0.002772
+
+  - velocity: Lexical Score: 0.000000
+  - acceleration: Lexical Score: 0.000000
+  - momentum.: Lexical Score: 0.000000
+
+Context: Batteries There are two basic kinds of batteries: disposable, or primary, batteries, in which the electrode reactions are effectively irreversible and which cannot be recharged; andrechargeable, or secondary, batteries, which form an insoluble product that adheres to the electrodes. These batteries can be recharged by applying an electrical potential in the reverse direction. The recharging process temporarily converts a rechargeable battery from a galvanic cell to an electrolytic cell. Batteries are cleverly engineered devices that are based on the same fundamental laws as galvanic cells. The major difference between batteries and the galvanic cells we have previously described is that commercial batteries use solids or pastes rather than solutions as reactants to maximize the electrical output per unit mass. The use of highly concentrated or solid reactants has another beneficial effect: the concentrations of the reactants and the products do not change greatly as the battery is discharged; consequently, the output voltage remains remarkably constant during the discharge process. This behavior is in contrast to that of the Zn/Cu cell, whose output decreases logarithmically as the reaction proceeds (Figure 19.11 "The Variation of "). When a battery consists of more than one galvanic cell, the cells are usually connected in series—that is, with the positive (+) terminal of one cell connected to the negative (−) terminal of the next, and so forth. The overall voltage of the battery is therefore the sum of the voltages of the individual cells.
+Question: The overall voltage of the battery is therefore the sum of ________ of the individual cells.
+Correct Answer: voltages
+Distractors: temperatures, currents, resistances.
+  - temperatures: Similarity Score: 0.246985
+  - currents: Similarity Score: 0.377014
+  - resistances.: Similarity Score: 0.230827
+
+  - voltages: Probability Score (good answer): 0.000369
+  - temperatures: Probability Score: 0.000008
+  - currents: Probability Score: 0.000014
+  - resistances.: Probability Score: 0.000092
+
+  - temperatures: Lexical Score: 0.000000
+  - currents: Lexical Score: 0.000000
+  - resistances.: Lexical Score: 0.000000
+

@@ -1,0 +1,341 @@
+Random Samples:
+Context: Very few of the transition metals are found in nature as free metals. Consequently, almost all metallic elements must be isolated from metal oxide or metal sulfide ores. Metallurgy is the set of processes by which metals are extracted from their ores and converted to more useful forms. Metallurgy consists of three general steps: (1) mining the ore, (2) separating and concentrating the metal or the metal-containing compound, and (3) reducing the ore to the metal. Additional processes are sometimes required to improve the mechanical properties of the metal or increase its purity. Many ores contain relatively low concentrations of the desired metal; for example, copper ores that contain even 1% Cu by mass are considered commercially useful. After an ore has been mined, the first step in processing is usually to crush it because the rate of chemical reactions increases dramatically with increased surface area. Next, one of three general strategies is used to separate and concentrate the compound(s) of interest: settling and flotation, which are based on differences in density between the desired compound and impurities; pyrometallurgy, which uses chemical reduction at high temperatures; and hydrometallurgy, which employs chemical or electrochemical reduction of an aqueous solution of the metal. Other methods that take advantage of unusual physical or chemical properties of a particular compound may also be used. For example, crystals of magnetite (Fe3O4) are tiny but rather powerful magnets; in fact, magnetite (also known as lodestone) was used to make the first compasses in China during the first century BC. If a crushed ore that contains magnetite is passed through a powerful magnet, the Fe3O4 particles are attracted to the poles of the magnet, allowing them to be easily separated from other minerals.
+Question: What term means the set of processes by which metals are extracted from their ores and converted to more useful forms?
+Correct Answer: metallurgy
+Distractors: naturalmicsodod, energyyna, therilodlei
+  - naturalmicsodod: Similarity Score: 0.294113
+  - energyyna: Similarity Score: 0.164438
+  - therilodlei: Similarity Score: 0.148236
+
+  - metallurgy: Probability Score (good answer): 0.068149
+  - naturalmicsodod: Probability Score: 0.006433
+  - energyyna: Probability Score: 0.012331
+  - therilodlei: Probability Score: 0.031573
+
+  - naturalmicsodod: Lexical Score: 0.000000
+  - energyyna: Lexical Score: 0.000000
+  - therilodlei: Lexical Score: 0.000000
+
+Context: In reality, most animal behaviors are not controlled by nature or nurture. Instead, they are influenced by both nature and nurture. In dogs, for example, the tendency to behave toward other dogs in a certain way is probably controlled by genes. However, the normal behaviors can’t develop in an environment that lacks other dogs. A puppy raised in isolation from other dogs may never develop the normal behaviors. It may always fear other dogs or act aggressively toward them.
+Question: Animal behavior can be said to be controlled by genetics and experiences, also known as nature and what?
+Correct Answer: nurture
+Distractors: recessive, mentality, purpose
+  - recessive: Similarity Score: 0.115188
+  - mentality: Similarity Score: 0.205207
+  - purpose: Similarity Score: 0.249412
+
+  - nurture: Probability Score (good answer): 0.000940
+  - recessive: Probability Score: 0.000012
+  - mentality: Probability Score: 0.000635
+  - purpose: Probability Score: 0.000002
+
+  - recessive: Lexical Score: 0.000000
+  - mentality: Lexical Score: 0.000000
+  - purpose: Lexical Score: 0.000000
+
+Context: Most wave media act like a series of connected oscillators. For instance, a rope can be thought of as a large number of masses (molecules) connected by springs (intermolecular forces). The speed of a wave through connected harmonic oscillators depends on the distance between them, the spring constant, and the mass. In this way, we can model wave media using the principles of simple harmonic motion.
+Question: The speed of a wave through connected harmonic oscillators depends on the distance between them, the spring constant, and the what?
+Correct Answer: mass
+Distractors: light, volume, direction energy
+  - light: Similarity Score: 0.194010
+  - volume: Similarity Score: 0.530859
+  - direction energy: Similarity Score: 0.205073
+
+  - mass: Probability Score (good answer): 0.000112
+  - light: Probability Score: 0.000317
+  - volume: Probability Score: 0.000931
+  - direction energy: Probability Score: 0.159614
+
+  - light: Lexical Score: 0.000000
+  - volume: Lexical Score: 0.000000
+  - direction energy: Lexical Score: 0.000000
+
+Context: The number of molecular orbitals produced is the same as the number of atomic orbitals used to create them (the law of conservation of orbitals). As the overlap between two atomic orbitals increases, the difference in energy between the resulting bonding and antibonding molecular orbitals increases. When two atomic orbitals combine to form a pair of molecular orbitals, the bonding molecular orbital is stabilized about as much as the antibonding molecular orbital is destabilized. The interaction between atomic orbitals is greatest when they have the same energy.
+Question: The interaction between atomic orbitals is greatest when they have the same what?
+Correct Answer: energy
+Distractors: light, water, pressure
+  - light: Similarity Score: 0.368523
+  - water: Similarity Score: 0.177756
+  - pressure: Similarity Score: 0.254131
+
+  - energy: Probability Score (good answer): 0.000050
+  - light: Probability Score: 0.000000
+  - water: Probability Score: 0.000003
+  - pressure: Probability Score: 0.000342
+
+  - light: Lexical Score: 0.000000
+  - water: Lexical Score: 0.000000
+  - pressure: Lexical Score: 0.000000
+
+Context: DNA polymerase starts adding nucleotides to the 3'-OH end of the primer. Elongation of both the lagging and the leading strand continues. RNA primers are removed by exonuclease activity. Gaps are filled by DNA pol by adding dNTPs. The gap between the two DNA fragments is sealed by DNA ligase, which helps in the formation of phosphodiester bonds. Table 14.1 summarizes the enzymes involved in prokaryotic DNA replication and the functions of each.
+Question: The gap between two dna fragments is sealed by what?
+Correct Answer: by dna ligase
+Distractors: between replication replicationization rna, by by rna, cellular replication reproduction
+  - between replication replicationization rna: Similarity Score: 0.376516
+  - by by rna: Similarity Score: 0.512992
+  - cellular replication reproduction: Similarity Score: 0.109973
+
+  - by dna ligase: Probability Score (good answer): 0.014860
+  - between replication replicationization rna: Probability Score: 0.000022
+  - by by rna: Probability Score: 0.000004
+  - cellular replication reproduction: Probability Score: 0.002857
+
+  - between replication replicationization rna: Lexical Score: 0.000000
+  - by by rna: Lexical Score: 0.250000
+  - cellular replication reproduction: Lexical Score: 0.000000
+
+Context: There are almost 120 known elements. As you can see from Figure below , the majority of elements are metals. Examples of metals are iron (Fe) and copper (Cu). Metals are shiny and good conductors of electricity and heat. Nonmetal elements are far fewer in number. They include hydrogen (H) and oxygen (O). They lack the properties of metals.
+Question: The majority of elements, including iron and copper, are of what type?
+Correct Answer: metals
+Distractors: acids, noble levelss, gases
+  - acids: Similarity Score: 0.119536
+  - noble levelss: Similarity Score: 0.309443
+  - gases: Similarity Score: 0.113328
+
+  - metals: Probability Score (good answer): 0.019043
+  - acids: Probability Score: 0.079642
+  - noble levelss: Probability Score: 0.000086
+  - gases: Probability Score: 0.003757
+
+  - acids: Lexical Score: 0.000000
+  - noble levelss: Lexical Score: 0.000000
+  - gases: Lexical Score: 0.000000
+
+Context: 
+Question: Arthropods today have two unusual hox genes, both of which influence what?
+Correct Answer: segmentation
+Distractors: movement, variation, vasculariot
+  - movement: Similarity Score: 0.349532
+  - variation: Similarity Score: 0.539709
+  - vasculariot: Similarity Score: 0.126209
+
+  - segmentation: Probability Score (good answer): 0.000619
+  - movement: Probability Score: 0.365971
+  - variation: Probability Score: 0.010105
+  - vasculariot: Probability Score: 0.003152
+
+  - movement: Lexical Score: 0.000000
+  - variation: Lexical Score: 0.000000
+  - vasculariot: Lexical Score: 0.000000
+
+Context: Volcanoes are located along convergent and divergent plate boundaries. They can be found in the middle of plates at hot spots.
+Question: What are located along convergent and divergent plate boundaries?
+Correct Answer: volcanoes
+Distractors: geyseors, earthquakes eruptionsrsrs, craters
+  - geyseors: Similarity Score: 0.363844
+  - earthquakes eruptionsrsrs: Similarity Score: 0.330046
+  - craters: Similarity Score: 0.289969
+
+  - volcanoes: Probability Score (good answer): 0.002152
+  - geyseors: Probability Score: 0.000020
+  - earthquakes eruptionsrsrs: Probability Score: 0.000000
+  - craters: Probability Score: 0.002933
+
+  - geyseors: Lexical Score: 0.000000
+  - earthquakes eruptionsrsrs: Lexical Score: 0.000000
+  - craters: Lexical Score: 0.000000
+
+Context: Ionic compounds are solids with high melting and boiling points. They are good conductors of electricity but only when dissolved in water. Their crystals are rigid and brittle.
+Question: What are solids with high melting and boiling points?
+Correct Answer: ionic compounds
+Distractors: magnetic compounds, static compounds, electric compounds
+  - magnetic compounds: Similarity Score: 0.294846
+  - static compounds: Similarity Score: 0.468366
+  - electric compounds: Similarity Score: 0.434499
+
+  - ionic compounds: Probability Score (good answer): 0.000411
+  - magnetic compounds: Probability Score: 0.000271
+  - static compounds: Probability Score: 0.000482
+  - electric compounds: Probability Score: 0.000311
+
+  - magnetic compounds: Lexical Score: 0.333333
+  - static compounds: Lexical Score: 0.333333
+  - electric compounds: Lexical Score: 0.333333
+
+Context: Snails are an example of invertebrates, animals without a backbone.
+Question: What does an invertebrate, like a snail, not have?
+Correct Answer: backbone
+Distractors: brainum, brain, brain tissue
+  - brainum: Similarity Score: 0.356603
+  - brain: Similarity Score: 0.399247
+  - brain tissue: Similarity Score: 0.293023
+
+  - backbone: Probability Score (good answer): 0.000000
+  - brainum: Probability Score: 0.000000
+  - brain: Probability Score: 0.000000
+  - brain tissue: Probability Score: 0.000000
+
+  - brainum: Lexical Score: 0.000000
+  - brain: Lexical Score: 0.000000
+  - brain tissue: Lexical Score: 0.000000
+
+Context: There are two kinds of crust. Oceanic crust is made of basalt lavas that flow onto the seafloor. It is relatively thin, between 5 to 12 kilometers thick (3 - 8 miles). The rocks of the oceanic crust are denser (3.0 g/cm 3 ) than the rocks that make up the continents. Thick layers of mud cover much of the ocean floor.
+Question: What type of crust is made of basalt lavas that flow onto the seafloor?
+Correct Answer: oceanic
+Distractors: continental, river, oceanic
+  - continental: Similarity Score: 0.402834
+  - river: Similarity Score: 0.178782
+  - oceanic: Similarity Score: 1.000000
+
+  - oceanic: Probability Score (good answer): 0.000005
+  - continental: Probability Score: 0.000002
+  - river: Probability Score: 0.000000
+  - oceanic: Probability Score: 0.000005
+
+  - continental: Lexical Score: 0.000000
+  - river: Lexical Score: 0.000000
+  - oceanic: Lexical Score: 1.000000
+
+Context: Endothermic reactions absorb heat from their surroundings.
+Question: What type of reactions absorb heat from their surroundings?
+Correct Answer: endothermic
+Distractors: exstaticermicmic, hydrostaticmic, exoth
+  - exstaticermicmic: Similarity Score: 0.649358
+  - hydrostaticmic: Similarity Score: 0.393816
+  - exoth: Similarity Score: 0.464342
+
+  - endothermic: Probability Score (good answer): 0.000015
+  - exstaticermicmic: Probability Score: 0.000000
+  - hydrostaticmic: Probability Score: 0.000013
+  - exoth: Probability Score: 0.000000
+
+  - exstaticermicmic: Lexical Score: 0.000000
+  - hydrostaticmic: Lexical Score: 0.000000
+  - exoth: Lexical Score: 0.000000
+
+Context: In gymnosperms, a seed develops on the scale of a cone. Only an angiosperm seed develops inside an ovary.
+Question: Angiosperm seed develops inside of what?
+Correct Answer: an ovary
+Distractors: an testl, a test, anerusm
+  - an testl: Similarity Score: 0.278587
+  - a test: Similarity Score: 0.167968
+  - anerusm: Similarity Score: 0.259453
+
+  - an ovary: Probability Score (good answer): 0.037998
+  - an testl: Probability Score: 0.002930
+  - a test: Probability Score: 0.000000
+  - anerusm: Probability Score: 0.000012
+
+  - an testl: Lexical Score: 0.333333
+  - a test: Lexical Score: 0.000000
+  - anerusm: Lexical Score: 0.000000
+
+Context: Exocytosis describes the process of vesicles fusing with the plasma membrane and releasing their contents to the outside of the cell, as shown in Figure below . Exocytosis occurs when a cell produces substances for export, such as a protein, or when the cell is getting rid of a waste product or a toxin. Newly made membrane proteins and membrane lipids are moved on top the plasma membrane by exocytosis. For a detailed animation of cellular secretion, see http://vcell. ndsu. edu/animations/constitutivesecretion/first. htm .
+Question: What term describes the process of vesicles fusing with the plasma membrane and releasing their contents to the outside of the cell?
+Correct Answer: exocytosis
+Distractors: endocsisysis, endrephis, naturalmbogenosis
+  - endocsisysis: Similarity Score: 0.502672
+  - endrephis: Similarity Score: 0.175826
+  - naturalmbogenosis: Similarity Score: 0.482108
+
+  - exocytosis: Probability Score (good answer): 0.003725
+  - endocsisysis: Probability Score: 0.006927
+  - endrephis: Probability Score: 0.000101
+  - naturalmbogenosis: Probability Score: 0.033330
+
+  - endocsisysis: Lexical Score: 0.000000
+  - endrephis: Lexical Score: 0.000000
+  - naturalmbogenosis: Lexical Score: 0.000000
+
+Context: Fuel Cells A fuel cell is a galvanic cell that requires a constant external supply of reactants because the products of the reaction are continuously removed. Unlike a battery, it does not store chemical or electrical energy; a fuel cell allows electrical energy to be extracted directly from a chemical reaction. In principle, this should be a more efficient process than, for example, burning the fuel to drive an internal combustion engine that turns a generator, which is typically less than 40% efficient, and in fact, the efficiency of a fuel cell is generally between 40% and 60%. Unfortunately, significant cost and reliability problems have hindered the wide-scale adoption of fuel cells. In practice, their use has been restricted to applications in which mass may be a significant cost factor, such as US manned space vehicles. These space vehicles use a hydrogen/oxygen fuel cell that requires a continuous input of H2(g) and O2(g), as illustrated in Figure 19.16 "A Hydrogen Fuel Cell Produces Electrical Energy Directly from a Chemical Reaction". The electrode reactions are as follows: Equation 19.93.
+Question: A fuel cell is a galvanic cell that requires a constant external supply of what?
+Correct Answer: reactants
+Distractors: particles, mutations, gas
+  - particles: Similarity Score: 0.114246
+  - mutations: Similarity Score: 0.134512
+  - gas: Similarity Score: 0.192735
+
+  - reactants: Probability Score (good answer): 0.012743
+  - particles: Probability Score: 0.003521
+  - mutations: Probability Score: 0.000245
+  - gas: Probability Score: 0.005086
+
+  - particles: Lexical Score: 0.000000
+  - mutations: Lexical Score: 0.000000
+  - gas: Lexical Score: 0.000000
+
+Context: Water pollution comes from many sources. One of the biggest sources is runoff. Runoff picks up chemicals such as fertilizer from agricultural fields, lawns, and golf courses. It carries the chemicals to bodies of water. The added nutrients from fertilizer often cause excessive growth of algae, creating algal blooms (see Figure below ). The algae use up oxygen in the water so that other aquatic organisms cannot survive. This has occurred over large areas of the ocean, creating dead zones , where low oxygen levels have killed all ocean life. A very large dead zone exists in the Gulf of Mexico. Measures that can help prevent these problems include cutting down on fertilizer use. Preserving wetlands also helps because wetlands filter runoff water.
+Question: The added nutrients from fertilizer often cause excessive growth of what organism?
+Correct Answer: algae
+Distractors: yeast, bacteria, moss
+  - yeast: Similarity Score: 0.444651
+  - bacteria: Similarity Score: 0.180363
+  - moss: Similarity Score: 0.318162
+
+  - algae: Probability Score (good answer): 0.091023
+  - yeast: Probability Score: 0.000078
+  - bacteria: Probability Score: 0.432011
+  - moss: Probability Score: 0.066575
+
+  - yeast: Lexical Score: 0.000000
+  - bacteria: Lexical Score: 0.000000
+  - moss: Lexical Score: 0.000000
+
+Context: Marsupials have a different way of reproducing that reduces the mother’s risks. A marsupial is a therian mammal in which the embryo is born at an early, immature stage. The embryo completes its development outside the mother’s body in a pouch on her belly. Only a minority of therian mammals are marsupials. They live mainly in Australia. Examples of marsupials are pictured in Figure below .
+Question: What is a therian mammal in which the embryo is born at an early, immature stage?
+Correct Answer: a marsupial
+Distractors: a poly, aniiseni, a gegi
+  - a poly: Similarity Score: 0.107835
+  - aniiseni: Similarity Score: 0.066569
+  - a gegi: Similarity Score: 0.017369
+
+  - a marsupial: Probability Score (good answer): 0.030362
+  - a poly: Probability Score: 0.005693
+  - aniiseni: Probability Score: 0.012081
+  - a gegi: Probability Score: 0.026575
+
+  - a poly: Lexical Score: 0.333333
+  - aniiseni: Lexical Score: 0.000000
+  - a gegi: Lexical Score: 0.333333
+
+Context: The lens focuses light on the retina , which covers the back of the inside of the eye. The retina has light-sensing photoreceptor cells called rods and cones. Rods let us see in dim light. Cones let us detect light of different colors.
+Question: The lens focuses light on the retina , which covers the back of the inside of the eye. the retina has light-sensing photoreceptor cells called?
+Correct Answer: rods and cones
+Distractors: gas and cones neurons, lightoch energys, light and cones
+  - gas and cones neurons: Similarity Score: 0.491466
+  - lightoch energys: Similarity Score: 0.183829
+  - light and cones: Similarity Score: 0.499452
+
+  - rods and cones: Probability Score (good answer): 0.000143
+  - gas and cones neurons: Probability Score: 0.000036
+  - lightoch energys: Probability Score: 0.004198
+  - light and cones: Probability Score: 0.001112
+
+  - gas and cones neurons: Lexical Score: 0.400000
+  - lightoch energys: Lexical Score: 0.000000
+  - light and cones: Lexical Score: 0.500000
+
+Context: When equal amounts of a strong acid such as hydrochloric acid are mixed with a strong base such as sodium hydroxide, the result is a neutral solution. The products of the reaction do not have the characteristics of either an acid or a base. Here is the balanced molecular equation.
+Question: When equal amounts of a strong acid such as hydrochloric acid are mixed with a strong base such as sodium hydroxide, the result is what kind of solution?
+Correct Answer: a neutral one
+Distractors: a linear, a linear, a liquid
+  - a linear: Similarity Score: 0.274120
+  - a linear: Similarity Score: 0.274120
+  - a liquid: Similarity Score: 0.259322
+
+  - a neutral one: Probability Score (good answer): 0.390002
+  - a linear: Probability Score: 0.126917
+  - a linear: Probability Score: 0.126917
+  - a liquid: Probability Score: 0.580495
+
+  - a linear: Lexical Score: 0.250000
+  - a linear: Lexical Score: 0.250000
+  - a liquid: Lexical Score: 0.250000
+
+Context: Nuclear fission reactions involve collision of a slow neuron with an element, usually uranium. The products of a fission reaction are two smaller isotopes, more neutrons, and heat energy.
+Question: Two smaller isotopes, more neutrons, and heat energy are the products of what type of reaction?
+Correct Answer: fission
+Distractors: fusionation, fusionpiration fusion, fusion fissionis
+  - fusionation: Similarity Score: 0.676160
+  - fusionpiration fusion: Similarity Score: 0.519543
+  - fusion fissionis: Similarity Score: 0.844633
+
+  - fission: Probability Score (good answer): 0.028236
+  - fusionation: Probability Score: 0.271362
+  - fusionpiration fusion: Probability Score: 0.036749
+  - fusion fissionis: Probability Score: 0.004962
+
+  - fusionation: Lexical Score: 0.000000
+  - fusionpiration fusion: Lexical Score: 0.000000
+  - fusion fissionis: Lexical Score: 0.000000
+

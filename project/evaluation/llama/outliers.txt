@@ -1,0 +1,2263 @@
+Outliers Detected:
+Context: But transgenic animals just have one novel gene. What about an animal with a whole new genome? Could a clone , a genetically exact copy of an organism, be developed using techniques associated with biotechnology? It could be argued that human cloning is one of the inevitable outcomes of modern biotechnology. It "simply" involves the removal of the nucleus from a somatic cell and its placement into an unfertilized egg cell whose nucleus has either been deactivated or removed. This new cell would mimic the zygote, the first diploid cell of a new organism. This new zygote is allowed to become established, and a few days later is placed into the uterus of a surrogate mother. Theoretically this would result in an individual genetically identical to the donor. Obviously, there are many ethical and legal issues associated with human cloning, and of course, it is not a "simple" procedure. But animal cloning is arguably a different story.
+Question: What term in biotechnology means a genetically exact copy of an organism?
+Correct Answer: clone
+Distractors: clone, clone, clone
+  - clone: Similarity Score: 1.000000
+  - clone: Similarity Score: 1.000000
+  - clone: Similarity Score: 1.000000
+
+  - clone: Probability Score (good answer): 0.021787
+  - clone: Probability Score: 0.021787
+  - clone: Probability Score: 0.021787
+  - clone: Probability Score: 0.021787
+
+  - clone: Lexical Score: 1.000000
+  - clone: Lexical Score: 1.000000
+  - clone: Lexical Score: 1.000000
+
+Context: Gametogenesis (Spermatogenesis and Oogenesis) Gametogenesis, the production of sperm and eggs, involves the process of meiosis. During meiosis, two nuclear divisions separate the paired chromosomes in the nucleus and then separate the chromatids that were made during an earlier stage of the cell’s life cycle. Meiosis and its associated cell divisions produces haploid cells with half of each pair of chromosomes normally found in diploid cells. The production of sperm is called spermatogenesis and the production of eggs is called oogenesis. Spermatogenesis Spermatogenesis occurs in the wall of the seminiferous tubules, with the most primitive cells at the periphery of the tube and the most mature sperm at the lumen of the tube (Figure 18.14). Immediately under the capsule of the tubule are diploid, undifferentiated cells. These stem cells, each called a spermatogonium (pl. spermatogonia), go through mitosis to produce one cell that remains as a stem cell and a second cell called a primary spermatocyte that will undergo meiosis to produce sperm. The diploid primary spermatocyte goes through meiosis I to produce two haploid cells called secondary spermatocytes. Each secondary spermatocyte divides after meiosis II to produce two cells called spermatids. The spermatids eventually reach the lumen of the tubule and grow a flagellum, becoming sperm cells. Four sperm result from each primary spermatocyte that goes through meiosis.
+Question: Meiosis is part of the process of gametogenesis, which is the production of what?
+Correct Answer: sperm and eggs
+Distractors: sperm and eggs, eggs and sperm, sperm and sperm
+  - sperm and eggs: Similarity Score: 1.000000
+  - eggs and sperm: Similarity Score: 0.788178
+  - sperm and sperm: Similarity Score: 0.680861
+
+  - sperm and eggs: Probability Score (good answer): 0.005583
+  - sperm and eggs: Probability Score: 0.005583
+  - eggs and sperm: Probability Score: 0.006213
+  - sperm and sperm: Probability Score: 0.001665
+
+  - sperm and eggs: Lexical Score: 1.000000
+  - eggs and sperm: Lexical Score: 1.000000
+  - sperm and sperm: Lexical Score: 0.666667
+
+Context: Male reproductive organs include the penis, testes, and epididymis.
+Question: Penis, testes, and epididymis are organs in what system?
+Correct Answer: male reproductive system
+Distractors: male respiratory system, male reproductive system, male digestive system.
+  - male respiratory system: Similarity Score: 0.442576
+  - male reproductive system: Similarity Score: 1.000000
+  - male digestive system.: Similarity Score: 0.408875
+
+  - male reproductive system: Probability Score (good answer): 0.523540
+  - male respiratory system: Probability Score: 0.021201
+  - male reproductive system: Probability Score: 0.523540
+  - male digestive system.: Probability Score: 0.527404
+
+  - male respiratory system: Lexical Score: 0.500000
+  - male reproductive system: Lexical Score: 1.000000
+  - male digestive system.: Lexical Score: 0.200000
+
+Context: Paracrine Signaling Signals that act locally between cells that are close together are called paracrine signals. Paracrine signals move by diffusion through the extracellular matrix. These types of signals usually elicit quick responses that last only a short amount of time. In order to keep the response localized, paracrine ligand molecules are normally quickly degraded by enzymes or removed by neighboring cells. Removing the signals will reestablish the concentration gradient for the signal, allowing them to quickly diffuse through the intracellular space if released again. One example of paracrine signaling is the transfer of signals across synapses between nerve cells. A nerve cell consists of a cell body, several short, branched extensions called dendrites that receive stimuli, and a long extension called an axon, which transmits signals to other nerve cells or muscle cells. The junction between nerve cells where signal transmission occurs is called a synapse. A synaptic signal is a chemical signal that travels between nerve cells. Signals within the nerve cells are propagated by fast-moving electrical impulses. When these impulses reach the end of the axon, the signal continues on to a dendrite of the next cell by the release of chemical ligands called neurotransmitters by the presynaptic cell (the cell emitting the signal). The neurotransmitters are transported across the very small distances between nerve cells, which are called chemical synapses (Figure 9.3). The small distance between nerve cells allows the signal to travel quickly; this enables an immediate response, such as, Take your hand off the stove! When the neurotransmitter binds the receptor on the surface of the postsynaptic cell, the electrochemical potential of the target cell changes, and the next electrical impulse is launched. The neurotransmitters that are released into the chemical synapse are degraded quickly or get reabsorbed by the presynaptic cell so that the recipient nerve cell can recover quickly and be prepared to respond rapidly to the next synaptic signal.
+Question: Paracrine signals move by what method through the extracellular matrix?
+Correct Answer: diffusion
+Distractors: diffusion, diffusion, osmosis.
+  - diffusion: Similarity Score: 1.000000
+  - diffusion: Similarity Score: 1.000000
+  - osmosis.: Similarity Score: 0.312791
+
+  - diffusion: Probability Score (good answer): 0.005269
+  - diffusion: Probability Score: 0.005269
+  - diffusion: Probability Score: 0.005269
+  - osmosis.: Probability Score: 0.000689
+
+  - diffusion: Lexical Score: 1.000000
+  - diffusion: Lexical Score: 1.000000
+  - osmosis.: Lexical Score: 0.000000
+
+Context: Cellular respiration and photosynthesis are like two sides of the same coin. This is clear from the diagram in Figure below . The products of photosynthesis are needed for cellular respiration. The products of cellular respiration are needed for photosynthesis. Together, the two processes store and release energy in virtually all living things.
+Question: The products of what process are needed for cellular respiration, and vice versa?
+Correct Answer: photosynthesis
+Distractors: digestion, fermentation, photosynthesis and respiration.
+  - digestion: Similarity Score: 0.123246
+  - fermentation: Similarity Score: 0.390936
+  - photosynthesis and respiration.: Similarity Score: 0.647864
+
+  - photosynthesis: Probability Score (good answer): 0.202707
+  - digestion: Probability Score: 0.002466
+  - fermentation: Probability Score: 0.009663
+  - photosynthesis and respiration.: Probability Score: 0.765173
+
+  - digestion: Lexical Score: 0.000000
+  - fermentation: Lexical Score: 0.000000
+  - photosynthesis and respiration.: Lexical Score: 0.333333
+
+Context: The central nervous system includes the brain and spinal cord. The brain serves as the control center of the nervous system and the body as a whole. It consists of three major parts: the cerebrum, cerebellum, and brain stem. The spinal cord carries nerve impulses back and forth between the body and brain.
+Question: Which system are the brain and spinal cord apart of?
+Correct Answer: central nervous system
+Distractors: peripheral nervous system, autonomic nervous system, autonomic nervous system and central nervous system.
+  - peripheral nervous system: Similarity Score: 0.473440
+  - autonomic nervous system: Similarity Score: 0.370381
+  - autonomic nervous system and central nervous system.: Similarity Score: 0.512343
+
+  - central nervous system: Probability Score (good answer): 0.710765
+  - peripheral nervous system: Probability Score: 0.577059
+  - autonomic nervous system: Probability Score: 0.527827
+  - autonomic nervous system and central nervous system.: Probability Score: 0.145395
+
+  - peripheral nervous system: Lexical Score: 0.500000
+  - autonomic nervous system: Lexical Score: 0.500000
+  - autonomic nervous system and central nervous system.: Lexical Score: 0.500000
+
+Context: Flowers Flowers are modified leaves, or sporophylls, organized around a central stalk. Although they vary greatly in appearance, all flowers contain the same structures: sepals, petals, carpels, and stamens. The peduncle attaches the flower to the plant. A whorl of sepals (collectively called the calyx) is located at the base of the peduncle and encloses the unopened floral bud. Sepals are usually photosynthetic organs, although there are some exceptions. For example, the corolla in lilies and tulips consists of three sepals and three petals that look virtually identical. Petals, collectively the corolla, are located inside the whorl of sepals and often display vivid colors to attract pollinators. Flowers pollinated by wind are usually small, feathery, and visually inconspicuous. Sepals and petals together form the perianth. The sexual organs (carpels and stamens) are located at the center of the flower. As illustrated in Figure 26.14, styles, stigmas, and ovules constitute the female organ: the gynoecium or carpel. Flower structure is very diverse, and carpels may be singular, multiple, or fused. Multiple fused carpels comprise a pistil. The megaspores and the female gametophytes are produced and protected by the thick tissues of the carpel. A long, thin structure called a style leads from the sticky stigma, where pollen is deposited, to the ovary, enclosed in the carpel. The ovary houses one or more ovules, each of which will develop into a seed upon fertilization. The male reproductive organs, the stamens (collectively called the androecium), surround the central carpel. Stamens are composed of a thin stalk called a filament and a sac-like structure called the anther. The filament supports the anther, where the microspores are produced by meiosis and develop into pollen grains.
+Question: What is the purpose of bright colors on a flower's petals?
+Correct Answer: to attract pollinators
+Distractors: to attract predators, to attract pollinators, to attract pollinators and predators at the same time.
+  - to attract predators: Similarity Score: 0.438483
+  - to attract pollinators: Similarity Score: 1.000000
+  - to attract pollinators and predators at the same time.: Similarity Score: 0.677781
+
+  - to attract pollinators: Probability Score (good answer): 0.723437
+  - to attract predators: Probability Score: 0.684651
+  - to attract pollinators: Probability Score: 0.723437
+  - to attract pollinators and predators at the same time.: Probability Score: 0.286112
+
+  - to attract predators: Lexical Score: 0.500000
+  - to attract pollinators: Lexical Score: 1.000000
+  - to attract pollinators and predators at the same time.: Lexical Score: 0.333333
+
+Context: 23.24 Nutrition Fungi are saprophytes. When they find a source of food (e. dead wood, orange peel) , they decompose it and digest it. The enzymes break down larger organic molecules in the substrate into smaller molecules. These smaller molecules diffuse into the fungus, where they are used to allow growth and repair. Fungi which feed on living cells are parasitic. For example, athlete's foot grows on the human foot. These kinds of fungi produce hyphae called haustoria, which can penetrate host cells without immediately killing them. However, they are friendlier species of fungi. Many fungi live symbiotically with plants or animals. For example, most trees have fungi living in close contact with their roots. In this relationship, known as a mycorrhiza, there are many benefits: • Growing around the plant roots and often entering plant cells, the hyphae absorb minerals from the soil and release them in the roots. The fungi gets its source of food (organic nutrients) while delivering food to the plant. • The mycelium here would increase the surface area, thus the absorptive surface, of the plant roots. • The fungal cells help to maintain air and water flow in the soil around the roots. • The fungi may prevent other potentially pathogenic fungi to attack the tree.
+Question: What are fungi which feed on living cells called?
+Correct Answer: parasitic
+Distractors: parasitic, pathogenic, symbiotic.
+  - parasitic: Similarity Score: 1.000000
+  - pathogenic: Similarity Score: 0.214797
+  - symbiotic.: Similarity Score: 0.109331
+
+  - parasitic: Probability Score (good answer): 0.024205
+  - parasitic: Probability Score: 0.024205
+  - pathogenic: Probability Score: 0.019147
+  - symbiotic.: Probability Score: 0.000612
+
+  - parasitic: Lexical Score: 1.000000
+  - pathogenic: Lexical Score: 0.000000
+  - symbiotic.: Lexical Score: 0.000000
+
+Context: Figure 3.7 Osmosis Osmosis is the diffusion of water through a semipermeable membrane down its concentration gradient. If a membrane is permeable to water, though not to a solute, water will equalize its own concentration by diffusing to the side of lower water concentration (and thus the side of higher solute concentration). In the beaker on the left, the solution on the right side of the membrane is hypertonic.
+Question: What is the diffusion of water through a semipermeable membrane down its concentration gradient
+Correct Answer: osmosis
+Distractors: osmosis, diffusion, evaporation.
+  - osmosis: Similarity Score: 1.000000
+  - diffusion: Similarity Score: 0.316760
+  - evaporation.: Similarity Score: 0.275957
+
+  - osmosis: Probability Score (good answer): 0.000045
+  - osmosis: Probability Score: 0.000045
+  - diffusion: Probability Score: 0.002565
+  - evaporation.: Probability Score: 0.005646
+
+  - osmosis: Lexical Score: 1.000000
+  - diffusion: Lexical Score: 0.000000
+  - evaporation.: Lexical Score: 0.000000
+
+Context: 
+Question: Movements in the mantle cause the plates to move over time in a process called what?
+Correct Answer: continental drift
+Distractors: volcanic drift, mantle drift, ocean drift.
+  - volcanic drift: Similarity Score: 0.564151
+  - mantle drift: Similarity Score: 0.481084
+  - ocean drift.: Similarity Score: 0.592646
+
+  - continental drift: Probability Score (good answer): 0.275753
+  - volcanic drift: Probability Score: 0.210869
+  - mantle drift: Probability Score: 0.593781
+  - ocean drift.: Probability Score: 0.243630
+
+  - volcanic drift: Lexical Score: 0.333333
+  - mantle drift: Lexical Score: 0.333333
+  - ocean drift.: Lexical Score: 0.000000
+
+Context: Skeletal muscles are attached to the skeleton by tough connective tissues called tendons (see Figure above ). Many skeletal muscles are attached to the ends of bones that meet at a joint . The muscles span the joint and connect the bones. When the muscles contract, they pull on the bones, causing them to move.
+Question: Skeletal muscles are attached to the skeleton by tough connective tissues called what?
+Correct Answer: tendons
+Distractors: ligaments, cartilage, muscles?
+  - ligaments: Similarity Score: 0.284002
+  - cartilage: Similarity Score: 0.193406
+  - muscles?: Similarity Score: 0.181194
+
+  - tendons: Probability Score (good answer): 0.380909
+  - ligaments: Probability Score: 0.583810
+  - cartilage: Probability Score: 0.415818
+  - muscles?: Probability Score: 0.123524
+
+  - ligaments: Lexical Score: 0.000000
+  - cartilage: Lexical Score: 0.000000
+  - muscles?: Lexical Score: 0.000000
+
+Context: CHAPTER SUMMARY 26.1 Evolution of Seed Plants Seed plants appeared about one million years ago, during the Carboniferous period. Two major innovations—seed and pollen—allowed seed plants to reproduce in the absence of water. The gametophytes of seed plants shrank, while the sporophytes became prominent structures and the diploid stage became the longest phase of the lifecycle. Gymnosperms became the dominant group during the Triassic. In these, pollen grains and seeds protect against desiccation. The seed, unlike a spore, is a diploid embryo surrounded by storage tissue and protective layers. It is equipped to delay germination until growth conditions are optimal. Angiosperms bear both flowers and fruit. The structures protect the gametes and the embryo during its development. Angiosperms appeared during the Mesozoic era and have become the dominant plant life in terrestrial habitats.
+Question: Which two major innovations allowed seed plants to reproduce in the absence of water?
+Correct Answer: seed and pollen
+Distractors: seed and pollen, seed and fruit, seed and water
+  - seed and pollen: Similarity Score: 1.000000
+  - seed and fruit: Similarity Score: 0.677703
+  - seed and water: Similarity Score: 0.586641
+
+  - seed and pollen: Probability Score (good answer): 0.867817
+  - seed and pollen: Probability Score: 0.867817
+  - seed and fruit: Probability Score: 0.505393
+  - seed and water: Probability Score: 0.006320
+
+  - seed and pollen: Lexical Score: 1.000000
+  - seed and fruit: Lexical Score: 0.500000
+  - seed and water: Lexical Score: 0.500000
+
+Context: The life cycle of a plant is very different from the life cycle of an animal. Humans are made entirely of diploid cells (cells with two sets of chromosomes, referred to as ''2n''). Our only cells that are haploid cells (cells with one set of chromosomes, ''n'') are sperm and egg cells. Plants, however, can live when they are are at the stage of having haploid cells or diploid cells. If a plant has a haploid chromosome number of 20, what is the diploid chromosome number? If the diploid chromosome number is 20, what is the haploid number?.
+Question: In humans, the only haploid cells are what reproductive cells?
+Correct Answer: sperm and egg
+Distractors: sperm and sperm, egg and sperm, egg and sperm and egg and egg cell.
+  - sperm and sperm: Similarity Score: 0.701538
+  - egg and sperm: Similarity Score: 0.789303
+  - egg and sperm and egg and egg cell.: Similarity Score: 0.797911
+
+  - sperm and egg: Probability Score (good answer): 0.102758
+  - sperm and sperm: Probability Score: 0.154182
+  - egg and sperm: Probability Score: 0.095030
+  - egg and sperm and egg and egg cell.: Probability Score: 0.128903
+
+  - sperm and sperm: Lexical Score: 0.666667
+  - egg and sperm: Lexical Score: 1.000000
+  - egg and sperm and egg and egg cell.: Lexical Score: 0.750000
+
+Context: viscosity. Using the equation of the previous problem, find the viscosity of motor oil in which a steel ball of radius 0.8 mm falls with a terminal speed of 4.32 cm/s. The densities of the ball and the oil are 7.86 and 0.88 g/mL, respectively. A skydiver will reach a terminal velocity when the air drag equals their weight. For a skydiver with high speed and a large body, turbulence is a factor. The drag force then is approximately proportional to the square of the velocity. Taking the drag force to be F D = 1 ρAv 2 and setting this 2 equal to the person’s weight, find the terminal speed for a person falling “spread eagle. ” Find both a formula and a number for v t , with assumptions as to size. A layer of oil 1.50 mm thick is placed between two microscope slides. Researchers find that a force of 5.50×10 −4 N is required to glide one over the other at a speed of 1.00 cm/s when their contact area is 6.00 cm 2 . What is the oil’s viscosity? What type of oil might it be? 42. (a) Verify that a 19.0% decrease in laminar flow through a tube is caused by a 5.00% decrease in radius, assuming that all other factors remain constant, as stated in the text. (b) What increase in flow is obtained from a 5.00% increase in radius, again assuming all other factors remain constant? 43. Example 12.8 dealt with the flow of saline solution in an IV system. (a) Verify that a pressure of 1.62×10 4 N/m 2 is created at a depth of 1.61 m in a saline solution, assuming its density to be that of sea water. (b) Calculate the new flow rate if the height of the saline solution is decreased to 1.50 m. (c) At what height would the direction of flow be reversed? (This reversal can be a problem when patients stand up. ) 44. When physicians diagnose arterial blockages, they quote the reduction in flow rate. If the flow rate in an artery has been reduced to 10.0% of its normal value by a blood clot and the.
+Question: A skydiver will reach what when the air drag equals their weight?
+Correct Answer: terminal velocity
+Distractors: terminal velocity, constant velocity, zero velocity
+  - terminal velocity: Similarity Score: 1.000000
+  - constant velocity: Similarity Score: 0.378125
+  - zero velocity: Similarity Score: 0.561890
+
+  - terminal velocity: Probability Score (good answer): 0.000041
+  - terminal velocity: Probability Score: 0.000041
+  - constant velocity: Probability Score: 0.000002
+  - zero velocity: Probability Score: 0.000171
+
+  - terminal velocity: Lexical Score: 1.000000
+  - constant velocity: Lexical Score: 0.333333
+  - zero velocity: Lexical Score: 0.333333
+
+Context: 
+Question: Arthropods today have two unusual hox genes, both of which influence what?
+Correct Answer: segmentation
+Distractors: locomotion, respiration, reproduction.
+  - locomotion: Similarity Score: 0.273906
+  - respiration: Similarity Score: 0.305965
+  - reproduction.: Similarity Score: 0.236836
+
+  - segmentation: Probability Score (good answer): 0.000619
+  - locomotion: Probability Score: 0.320875
+  - respiration: Probability Score: 0.648042
+  - reproduction.: Probability Score: 0.436270
+
+  - locomotion: Lexical Score: 0.000000
+  - respiration: Lexical Score: 0.000000
+  - reproduction.: Lexical Score: 0.000000
+
+Context: If you are a young woman, getting in the habit of performing a monthly breast self-exam is a good idea. Lumps or other subtle changes in the breasts may indicate breast cancer. The outcome is typically better if breast cancer is caught and treated early.
+Question: How often should women perform a breast self-exam?
+Correct Answer: monthly
+Distractors: twice a year, yearly, every three months.
+  - twice a year: Similarity Score: 0.205013
+  - yearly: Similarity Score: 0.467160
+  - every three months.: Similarity Score: 0.494472
+
+  - monthly: Probability Score (good answer): 0.096263
+  - twice a year: Probability Score: 0.585931
+  - yearly: Probability Score: 0.067520
+  - every three months.: Probability Score: 0.595514
+
+  - twice a year: Lexical Score: 0.000000
+  - yearly: Lexical Score: 0.000000
+  - every three months.: Lexical Score: 0.000000
+
+Context: Hair is a fiber that is found only in mammals. Its main component is keratin. A hair shaft consists of dead, keratin-filled cells that overlap each other like the shingles on a roof (see Figure below ). Like roof shingles, the overlapping cells help shed water from the hair.
+Question: What is a fiber that is found only in mammals?
+Correct Answer: hair
+Distractors: hair, feathers, woolly hair.
+  - hair: Similarity Score: 1.000000
+  - feathers: Similarity Score: 0.375591
+  - woolly hair.: Similarity Score: 0.497245
+
+  - hair: Probability Score (good answer): 0.000217
+  - hair: Probability Score: 0.000217
+  - feathers: Probability Score: 0.000175
+  - woolly hair.: Probability Score: 0.001860
+
+  - hair: Lexical Score: 1.000000
+  - feathers: Lexical Score: 0.000000
+  - woolly hair.: Lexical Score: 0.000000
+
+Context: Gibberellins are hormones that cause the plant to grow. When gibberellins are applied to plants by scientists, the stems grow longer. Some gardeners or horticulture scientists add gibberellins to increase the growth of plants. Dwarf plants (small plants), on the other hand, have low levels of gibberellins ( Figure below ). Another function of gibberellins is to stop dormancy (resting time) of seeds and buds. Gibberellins signal that it’s time for a seed to germinate (sprout) or for a bud to open.
+Question: What are the hormones that cause a plant to grow?
+Correct Answer: gibberellins
+Distractors: melatonin, pheromones, insulin growth factor 1 (IGF-1) and insulin growth factor 2 (IGF-2) are hormones that cause a plant to grow.
+  - melatonin: Similarity Score: 0.006233
+  - pheromones: Similarity Score: 0.172429
+  - insulin growth factor 1 (IGF-1) and insulin growth factor 2 (IGF-2) are hormones that cause a plant to grow.: Similarity Score: 0.056760
+
+  - gibberellins: Probability Score (good answer): 0.000506
+  - melatonin: Probability Score: 0.029228
+  - pheromones: Probability Score: 0.654104
+  - insulin growth factor 1 (IGF-1) and insulin growth factor 2 (IGF-2) are hormones that cause a plant to grow.: Probability Score: 0.006344
+
+  - melatonin: Lexical Score: 0.000000
+  - pheromones: Lexical Score: 0.000000
+  - insulin growth factor 1 (IGF-1) and insulin growth factor 2 (IGF-2) are hormones that cause a plant to grow.: Lexical Score: 0.000000
+
+Context: Microcontinents come together to create continents and supercontinents.
+Question: What come together to create continents and supercontinents?
+Correct Answer: microcontinents
+Distractors: microcontinents, continents, continents and supercontinents.
+  - microcontinents: Similarity Score: 1.000000
+  - continents: Similarity Score: 0.238941
+  - continents and supercontinents.: Similarity Score: 0.406550
+
+  - microcontinents: Probability Score (good answer): 0.000000
+  - microcontinents: Probability Score: 0.000000
+  - continents: Probability Score: 0.000000
+  - continents and supercontinents.: Probability Score: 0.000000
+
+  - microcontinents: Lexical Score: 1.000000
+  - continents: Lexical Score: 0.000000
+  - continents and supercontinents.: Lexical Score: 0.000000
+
+Context: The base-pairing nature of DNA. Adenine always pairs with thymine, and they are held together with two hydrogen bonds. The guanine-cytosine base pair is held together with three hydrogen bonds. Note that one sugar-phosphate backbone is in the 5’ → 3’ direction, with the other strand in the opposite 3’ → 5’ orientation. Notice that the 5'-end begins with a free (not attached to the sugar of another nucleotide) phosphate group, while the 3'-end has a free (not attached to the phosphate group of another nucleotide) deoxyribose sugar.
+Question: What holds together adenine and thymine?
+Correct Answer: hydrogen bonds
+Distractors: hydrogen bonds, ionic bonds, van der Waals bonds.
+  - hydrogen bonds: Similarity Score: 1.000000
+  - ionic bonds: Similarity Score: 0.496250
+  - van der Waals bonds.: Similarity Score: 0.311150
+
+  - hydrogen bonds: Probability Score (good answer): 0.000059
+  - hydrogen bonds: Probability Score: 0.000059
+  - ionic bonds: Probability Score: 0.000149
+  - van der Waals bonds.: Probability Score: 0.000001
+
+  - hydrogen bonds: Lexical Score: 1.000000
+  - ionic bonds: Lexical Score: 0.333333
+  - van der Waals bonds.: Lexical Score: 0.000000
+
+Context: Hydrogen atoms form only one covalent bond because they have only one valence electron to pair.
+Question: Hydrogen atoms form only one covalent bond because they have only one have one of what to pair with it?
+Correct Answer: valence electron
+Distractors: valence electron, valence orbitals, valence electrons orbitals.
+  - valence electron: Similarity Score: 1.000000
+  - valence orbitals: Similarity Score: 0.699841
+  - valence electrons orbitals.: Similarity Score: 0.800202
+
+  - valence electron: Probability Score (good answer): 0.000532
+  - valence electron: Probability Score: 0.000532
+  - valence orbitals: Probability Score: 0.000002
+  - valence electrons orbitals.: Probability Score: 0.000277
+
+  - valence electron: Lexical Score: 1.000000
+  - valence orbitals: Lexical Score: 0.333333
+  - valence electrons orbitals.: Lexical Score: 0.250000
+
+Context: What do you see when you look at this picture? Is it just a mass of tangled ribbons? Look closely. It’s actually a complex pattern of three-dimensional shapes. It represents the structure of a common chemical found inside living cells. The chemical is a protein called hemoglobin. It is the protein in red blood cells which transports oxygen around the body.
+Question: What is the protein in red blood cells which transports oxygen around the body?
+Correct Answer: hemoglobin
+Distractors: hemoglobin, hemocytes, hematozoa.
+  - hemoglobin: Similarity Score: 1.000000
+  - hemocytes: Similarity Score: 0.743632
+  - hematozoa.: Similarity Score: 0.650844
+
+  - hemoglobin: Probability Score (good answer): 0.230572
+  - hemoglobin: Probability Score: 0.230572
+  - hemocytes: Probability Score: 0.001924
+  - hematozoa.: Probability Score: 0.000294
+
+  - hemoglobin: Lexical Score: 1.000000
+  - hemocytes: Lexical Score: 0.000000
+  - hematozoa.: Lexical Score: 0.000000
+
+Context: Other organs involved in digestion include the liver, gall bladder, and pancreas. They are called accessory organs because food does not pass through them. Instead, they secrete or store substances needed for digestion.
+Question: Organs involved in digestion that do not have food pass through them are called?
+Correct Answer: accessory organs
+Distractors: digestive organs, digestive systems, digestive glands.
+  - digestive organs: Similarity Score: 0.340619
+  - digestive systems: Similarity Score: 0.241432
+  - digestive glands.: Similarity Score: 0.205102
+
+  - accessory organs: Probability Score (good answer): 0.142545
+  - digestive organs: Probability Score: 0.633980
+  - digestive systems: Probability Score: 0.460216
+  - digestive glands.: Probability Score: 0.486965
+
+  - digestive organs: Lexical Score: 0.333333
+  - digestive systems: Lexical Score: 0.000000
+  - digestive glands.: Lexical Score: 0.000000
+
+Context: Digestive Processes The processes of digestion include six activities: ingestion, propulsion, mechanical or physical digestion, chemical digestion, absorption, and defecation. The first of these processes, ingestion, refers to the entry of food into the alimentary canal through the mouth. There, the food is chewed and mixed with saliva, which contains enzymes that begin breaking down the carbohydrates in the food plus some lipid digestion via lingual lipase. Chewing increases the surface area of the food and allows an appropriately sized bolus to be produced. Food leaves the mouth when the tongue and pharyngeal muscles propel it into the esophagus. This act of swallowing, the last voluntary act until defecation, is an example of propulsion, which refers to the movement of food through the digestive tract. It includes both the voluntary process of swallowing and the involuntary process of peristalsis. Peristalsis consists of sequential, alternating waves of contraction and relaxation of alimentary wall smooth muscles, which act to propel food along (Figure 23.5). These waves also play a role in mixing food with digestive juices. Peristalsis is so powerful that foods and liquids you swallow enter your stomach even if you are standing on your head.
+Question: Ingestion and propulsion are the first two steps in which process that describes how humans process and consume food?
+Correct Answer: digestion
+Distractors: digestion, assimilation, excretion.
+  - digestion: Similarity Score: 1.000000
+  - assimilation: Similarity Score: 0.217545
+  - excretion.: Similarity Score: 0.282215
+
+  - digestion: Probability Score (good answer): 0.000013
+  - digestion: Probability Score: 0.000013
+  - assimilation: Probability Score: 0.030192
+  - excretion.: Probability Score: 0.053921
+
+  - digestion: Lexical Score: 1.000000
+  - assimilation: Lexical Score: 0.000000
+  - excretion.: Lexical Score: 0.000000
+
+Context: 
+Question: When water is aerated it can provide a plant's roots with what gas for cellular respiration?
+Correct Answer: oxygen
+Distractors: nitrogen, carbon, hydrogen.
+  - nitrogen: Similarity Score: 0.391618
+  - carbon: Similarity Score: 0.419792
+  - hydrogen.: Similarity Score: 0.420907
+
+  - oxygen: Probability Score (good answer): 0.407726
+  - nitrogen: Probability Score: 0.454043
+  - carbon: Probability Score: 0.064241
+  - hydrogen.: Probability Score: 0.692096
+
+  - nitrogen: Lexical Score: 0.000000
+  - carbon: Lexical Score: 0.000000
+  - hydrogen.: Lexical Score: 0.000000
+
+Context: and is part of the heart wall. The pericardial cavity, filled with lubricating serous fluid, lies between the epicardium and the pericardium. In most organs within the body, visceral serous membranes such as the epicardium are microscopic. However, in the case of the heart, it is not a microscopic layer but rather a macroscopic layer, consisting of a simple squamous epithelium called a mesothelium, reinforced with loose, irregular, or areolar connective tissue that attaches to the pericardium. This mesothelium secretes the lubricating serous fluid that fills the pericardial cavity and reduces friction as the heart contracts. Figure 19.5 illustrates the pericardial membrane and the layers of the heart.
+Question: Which cavity, filled with lubricating serous fluid, lies between the epicardium and the pericardium?
+Correct Answer: pericardial cavity
+Distractors: pericardial sac, pericardial sac, pericardial cavity
+  - pericardial sac: Similarity Score: 0.843518
+  - pericardial sac: Similarity Score: 0.843518
+  - pericardial cavity: Similarity Score: 1.000000
+
+  - pericardial cavity: Probability Score (good answer): 0.006425
+  - pericardial sac: Probability Score: 0.002087
+  - pericardial sac: Probability Score: 0.002087
+  - pericardial cavity: Probability Score: 0.006425
+
+  - pericardial sac: Lexical Score: 0.333333
+  - pericardial sac: Lexical Score: 0.333333
+  - pericardial cavity: Lexical Score: 1.000000
+
+Context: 
+Question: Water found on the surface of the earth is referred to as what?
+Correct Answer: surface water
+Distractors: ground water, subterranean water, underground water.
+  - ground water: Similarity Score: 0.324632
+  - subterranean water: Similarity Score: 0.273108
+  - underground water.: Similarity Score: 0.323880
+
+  - surface water: Probability Score (good answer): 0.343635
+  - ground water: Probability Score: 0.494909
+  - subterranean water: Probability Score: 0.359604
+  - underground water.: Probability Score: 0.263408
+
+  - ground water: Lexical Score: 0.333333
+  - subterranean water: Lexical Score: 0.333333
+  - underground water.: Lexical Score: 0.000000
+
+Context: Telomerase is not active in adult somatic cells. Adult somatic cells that undergo cell division continue to have their telomeres shortened. This essentially means that telomere shortening is associated with aging. In 2010, scientists found [1] that telomerase can reverse some age-related conditions in mice, and this may have potential in regenerative medicine. Mariella Jaskelioff, et al. , “Telomerase reactivation reverses tissue degeneration in aged telomerase-deficient mice,” Nature, 469 (2011):102–7.
+Question: What is telomere shortening associated with?
+Correct Answer: aging
+Distractors: aging, reproduction, cancer growth rate.
+  - aging: Similarity Score: 1.000000
+  - reproduction: Similarity Score: 0.244228
+  - cancer growth rate.: Similarity Score: 0.046894
+
+  - aging: Probability Score (good answer): 0.000366
+  - aging: Probability Score: 0.000366
+  - reproduction: Probability Score: 0.000042
+  - cancer growth rate.: Probability Score: 0.000106
+
+  - aging: Lexical Score: 1.000000
+  - reproduction: Lexical Score: 0.000000
+  - cancer growth rate.: Lexical Score: 0.000000
+
+Context: Stars form from clouds of gas and dust called nebulas. Nebulas collapse until nuclear fusion starts.
+Question: A collapsing nebula leads to what process?
+Correct Answer: nuclear fusion
+Distractors: nuclear decay, nuclear explosion, nuclear fusion explosion.
+  - nuclear decay: Similarity Score: 0.489552
+  - nuclear explosion: Similarity Score: 0.689809
+  - nuclear fusion explosion.: Similarity Score: 0.882762
+
+  - nuclear fusion: Probability Score (good answer): 0.032184
+  - nuclear decay: Probability Score: 0.019299
+  - nuclear explosion: Probability Score: 0.009729
+  - nuclear fusion explosion.: Probability Score: 0.026989
+
+  - nuclear decay: Lexical Score: 0.333333
+  - nuclear explosion: Lexical Score: 0.333333
+  - nuclear fusion explosion.: Lexical Score: 0.666667
+
+Context: Lenses , made from curved pieces of glass, focus or de-focus light as it passes through. Lenses that focus light are called converging lenses, and these are the ones used to make telescopes and cameras. Lenses that de-focus light are called diverging lenses.
+Question: Lenses that focus light are called what?
+Correct Answer: converging lenses
+Distractors: converging mirrors, diverging mirrors, diverging lenses.
+  - converging mirrors: Similarity Score: 0.758889
+  - diverging mirrors: Similarity Score: 0.420243
+  - diverging lenses.: Similarity Score: 0.478934
+
+  - converging lenses: Probability Score (good answer): 0.364877
+  - converging mirrors: Probability Score: 0.000931
+  - diverging mirrors: Probability Score: 0.001178
+  - diverging lenses.: Probability Score: 0.618263
+
+  - converging mirrors: Lexical Score: 0.333333
+  - diverging mirrors: Lexical Score: 0.000000
+  - diverging lenses.: Lexical Score: 0.000000
+
+Context: Animals can detect environmental stimuli, such as light, sound, and touch. Stimuli are detected by sensory nerve cells. The information is transmitted and processed by the nervous system. The nervous system, in turn, may direct the body to respond. Animal Eyes at http://www. surenmanvelyan. com/eyes/animal-eyes/ has 26 images of the eyes of various animals.
+Question: What system of the body is responsible for transmitting, processing, and responding to most of the sensory information that is created by various stimuli?
+Correct Answer: nervous system
+Distractors: circulatory system, endocrine system, immune system.
+  - circulatory system: Similarity Score: 0.202402
+  - endocrine system: Similarity Score: 0.104825
+  - immune system.: Similarity Score: 0.207936
+
+  - nervous system: Probability Score (good answer): 0.563948
+  - circulatory system: Probability Score: 0.497951
+  - endocrine system: Probability Score: 0.506583
+  - immune system.: Probability Score: 0.490628
+
+  - circulatory system: Lexical Score: 0.333333
+  - endocrine system: Lexical Score: 0.333333
+  - immune system.: Lexical Score: 0.000000
+
+Context: Astronomers are used to really big numbers. While the moon is only 406,697 km from earth at its maximum distance, the sun is much further away (150 million km). Proxima Centauri, the star nearest the earth, is 39, 900, 000, 000, 000 km away and we have just started on long distances. On the other end of the scale, some biologists deal with very small numbers: a typical fungus could be as small as 30 μmeters (0.000030 meters) in length and a virus might only be 0.03 μmeters (0.00000003 meters) long.
+Question: What is the star nearest the earth named?
+Correct Answer: proxima centauri
+Distractors: proxima centauri, proxima centuri, proxima centauri
+  - proxima centauri: Similarity Score: 1.000000
+  - proxima centuri: Similarity Score: 0.685214
+  - proxima centauri: Similarity Score: 1.000000
+
+  - proxima centauri: Probability Score (good answer): 0.003096
+  - proxima centauri: Probability Score: 0.003096
+  - proxima centuri: Probability Score: 0.000028
+  - proxima centauri: Probability Score: 0.003096
+
+  - proxima centauri: Lexical Score: 1.000000
+  - proxima centuri: Lexical Score: 0.333333
+  - proxima centauri: Lexical Score: 1.000000
+
+Context: The force that a magnet exerts on certain materials is called magnetic force . Like electric force, magnetic force is exerted over a distance and includes forces of attraction and repulsion. North and south poles of two magnets attract each other, while two north poles or two south poles repel each other.
+Question: What is the term for the force that a magnet exerts on certain materials?
+Correct Answer: magnetic force
+Distractors: magnetic force, electric force, magnetic field force.
+  - magnetic force: Similarity Score: 1.000000
+  - electric force: Similarity Score: 0.377104
+  - magnetic field force.: Similarity Score: 0.964464
+
+  - magnetic force: Probability Score (good answer): 0.498087
+  - magnetic force: Probability Score: 0.498087
+  - electric force: Probability Score: 0.259247
+  - magnetic field force.: Probability Score: 0.540547
+
+  - magnetic force: Lexical Score: 1.000000
+  - electric force: Lexical Score: 0.333333
+  - magnetic field force.: Lexical Score: 0.250000
+
+Context: Mitochondria, shown here as the green ovals in this animal cell, are membranous organelles which sequence enzyme and electron carrier molecules to make cellular respiration highly efficient. Mitochondria have both an inner and outer membrane, with a matrix inside the inner membrane. The inner membrane has many internal folds, increasing the surface area for proteins and molecules involved in cellular respiration.
+Question: Which membranous organelles in a cell sequence enzyme and electron molecules for efficient cellular respiration?
+Correct Answer: mitochondria
+Distractors: nucleotides, proteins, chloroplasts.
+  - nucleotides: Similarity Score: 0.274874
+  - proteins: Similarity Score: 0.177642
+  - chloroplasts.: Similarity Score: 0.244621
+
+  - mitochondria: Probability Score (good answer): 0.040887
+  - nucleotides: Probability Score: 0.324680
+  - proteins: Probability Score: 0.518087
+  - chloroplasts.: Probability Score: 0.488941
+
+  - nucleotides: Lexical Score: 0.000000
+  - proteins: Lexical Score: 0.000000
+  - chloroplasts.: Lexical Score: 0.000000
+
+Context: 
+Question: In a plant, the flower contains what?
+Correct Answer: pollen and eggs
+Distractors: seeds and eggs, pollen and eggs, seeds and petals.
+  - seeds and eggs: Similarity Score: 0.703538
+  - pollen and eggs: Similarity Score: 1.000000
+  - seeds and petals.: Similarity Score: 0.399790
+
+  - pollen and eggs: Probability Score (good answer): 0.207847
+  - seeds and eggs: Probability Score: 0.291204
+  - pollen and eggs: Probability Score: 0.207847
+  - seeds and petals.: Probability Score: 0.723968
+
+  - seeds and eggs: Lexical Score: 0.500000
+  - pollen and eggs: Lexical Score: 1.000000
+  - seeds and petals.: Lexical Score: 0.200000
+
+Context: The Linnaean system is based on similarities in obvious physical traits. It consists of a hierarchy of taxa, from the kingdom to the species.
+Question: What is the name of the system that consists of a hierarchy of taxa, from the kingdom to the species?
+Correct Answer: linnaean system
+Distractors: taxonomic system, phylogenetic system, classification system.
+  - taxonomic system: Similarity Score: 0.181381
+  - phylogenetic system: Similarity Score: 0.276081
+  - classification system.: Similarity Score: 0.237867
+
+  - linnaean system: Probability Score (good answer): 0.283109
+  - taxonomic system: Probability Score: 0.527345
+  - phylogenetic system: Probability Score: 0.191173
+  - classification system.: Probability Score: 0.079598
+
+  - taxonomic system: Lexical Score: 0.333333
+  - phylogenetic system: Lexical Score: 0.333333
+  - classification system.: Lexical Score: 0.000000
+
+Context: Eukaryotic Chromosomal Structure and Compaction If the DNA from all 46 chromosomes in a human cell nucleus was laid out end to end, it would measure approximately two meters; however, its diameter would be only 2 nm. Considering that the size of a typical human cell is about 10 µm (100,000 cells lined up to equal one meter), DNA must be tightly packaged to fit in the cell’s nucleus. At the same time, it must also be readily accessible for the genes to be expressed. During some stages of the cell cycle, the long strands of DNA are condensed into compact chromosomes. There are a number of ways that chromosomes are compacted. In the first level of compaction, short stretches of the DNA double helix wrap around a core of eight histone proteins at regular intervals along the entire length of the chromosome (Figure 10.4). The DNA-histone complex is called chromatin. The beadlike, histone DNA complex is called a nucleosome, and DNA connecting the nucleosomes is called linker DNA. A DNA molecule in this form is about seven times shorter than the double helix without the histones, and the beads are about 10 nm in diameter, in contrast with the 2-nm diameter of a DNA double helix. The next level of compaction occurs as the nucleosomes and the linker DNA between them are coiled into a 30-nm chromatin fiber. This coiling further shortens the chromosome so that it is now about 50 times shorter than the extended form. In the third level of packing, a variety of fibrous proteins is used to pack the chromatin. These fibrous proteins also ensure that each chromosome in a non-dividing cell occupies a particular area of the nucleus that does not overlap with that of any other chromosome (see the top image in Figure 10.3).
+Question: If the dna from all 46 chromosomes in a human cell nucleus was laid out end to end, it would measure approximately how long?
+Correct Answer: two meters
+Distractors: 0.5 meters, 1 meter, 0.2 meters
+  - 0.5 meters: Similarity Score: 0.320655
+  - 1 meter: Similarity Score: 0.344451
+  - 0.2 meters: Similarity Score: 0.876426
+
+  - two meters: Probability Score (good answer): 0.632552
+  - 0.5 meters: Probability Score: 0.161155
+  - 1 meter: Probability Score: 0.500245
+  - 0.2 meters: Probability Score: 0.152877
+
+  - 0.5 meters: Lexical Score: 0.333333
+  - 1 meter: Lexical Score: 0.000000
+  - 0.2 meters: Lexical Score: 0.333333
+
+Context: Mollusks have a true coelom and complete digestive system. They also have circulatory and excretory systems. They have a heart that pumps blood, and organs that filter out wastes from the blood.
+Question: Mollusks have a true coelom and a complete what?
+Correct Answer: digestive system
+Distractors: digestive system, circulatory system, excretory system.
+  - digestive system: Similarity Score: 1.000000
+  - circulatory system: Similarity Score: 0.284225
+  - excretory system.: Similarity Score: 0.387870
+
+  - digestive system: Probability Score (good answer): 0.000011
+  - digestive system: Probability Score: 0.000011
+  - circulatory system: Probability Score: 0.000020
+  - excretory system.: Probability Score: 0.000013
+
+  - digestive system: Lexical Score: 1.000000
+  - circulatory system: Lexical Score: 0.333333
+  - excretory system.: Lexical Score: 0.000000
+
+Context: The study of biology is the study of life. Concept Biology Advanced is the CK-12 Foundation's most extensive material describing the study of life. Concept Biology Advanced presents biology as a set of 18 concepts, with each concept centered around a specific category, such as cell biology or plants. Each concept is comprised of a series of lessons, with each lesson focusing on one specific topic. The complete Concept Biology Advanced is comprised of over 550 lessons. This material has been developed to complement the most advanced secondary-level biology course.
+Question: What is the official name for the study of life?
+Correct Answer: biology
+Distractors: chemistry, physics, chemistry and physics: the study of life.
+  - chemistry: Similarity Score: 0.263666
+  - physics: Similarity Score: 0.324338
+  - chemistry and physics: the study of life.: Similarity Score: 0.359206
+
+  - biology: Probability Score (good answer): 0.000561
+  - chemistry: Probability Score: 0.001271
+  - physics: Probability Score: 0.004994
+  - chemistry and physics: the study of life.: Probability Score: 0.919732
+
+  - chemistry: Lexical Score: 0.000000
+  - physics: Lexical Score: 0.000000
+  - chemistry and physics: the study of life.: Lexical Score: 0.000000
+
+Context: It is interesting that the widths of the resonance curves shown in Figure 16.27 depend on damping: the less the damping, the narrower the resonance. The message is that if you want a driven oscillator to resonate at a very specific frequency, you need as little damping as possible. Little damping is the case for piano strings and many other musical instruments. Conversely, if you want small-amplitude oscillations, such as in a car’s suspension system, then you want heavy damping. Heavy damping reduces the amplitude, but the tradeoff is that the system responds at more frequencies. These features of driven harmonic oscillators apply to a huge variety of systems. When you tune a radio, for example, you are adjusting its resonant frequency so that it only oscillates to the desired station’s broadcast (driving) frequency. The more selective the radio is in discriminating between stations, the smaller its damping. Magnetic resonance imaging (MRI) is a widely used medical diagnostic tool in which atomic nuclei (mostly hydrogen nuclei) are made to resonate by incoming radio waves (on the order of 100 MHz). A child on a swing is driven by a parent at the swing’s natural frequency to achieve maximum amplitude. In all of these cases, the efficiency of energy transfer from the driving force into the oscillator is best at resonance. Speed bumps and gravel roads prove that even a car’s suspension system is not immune to resonance. In spite of finely engineered shock absorbers, which ordinarily convert mechanical energy to thermal energy almost as fast as it comes in, speed bumps still cause a large-amplitude oscillation. On gravel roads that are corrugated, you may have noticed that if you travel at the “wrong” speed, the bumps are very noticeable whereas at other speeds you may hardly feel the bumps at all. Figure 16.28 shows a photograph of a famous example (the Tacoma Narrows Bridge) of the destructive effects of a driven harmonic oscillation. The Millennium Bridge in London was closed for a short period of time for the same reason while inspections were carried out. In our bodies, the chest cavity is a clear example of a system at resonance. The diaphragm and chest wall drive the oscillations of the chest cavity which result in the lungs inflating and deflating. The system is critically damped and the muscular diaphragm oscillates at the resonant value for the system, making it highly efficient.
+Question: In our bodies, the chest cavity is a clear example of a system at what?
+Correct Answer: resonance
+Distractors: resonance, resonance, resonance
+  - resonance: Similarity Score: 1.000000
+  - resonance: Similarity Score: 1.000000
+  - resonance: Similarity Score: 1.000000
+
+  - resonance: Probability Score (good answer): 0.003947
+  - resonance: Probability Score: 0.003947
+  - resonance: Probability Score: 0.003947
+  - resonance: Probability Score: 0.003947
+
+  - resonance: Lexical Score: 1.000000
+  - resonance: Lexical Score: 1.000000
+  - resonance: Lexical Score: 1.000000
+
+Context: The vagina is a muscular tube that serves several purposes. It allows menstrual flow to leave the body. It is the receptacle for the penis during intercourse and the vessel for the delivery of offspring. It is lined by stratified squamous epithelial cells to protect the underlying tissue. Sexual Response during Intercourse The sexual response in humans is both psychological and physiological. Both sexes experience sexual arousal through psychological and physical stimulation. There are four phases of the sexual response. During phase one, called excitement, vasodilation leads to vasocongestion in erectile tissues in both men and women. The nipples, clitoris, labia, and penis engorge with blood and become enlarged. Vaginal secretions are released to lubricate the vagina to facilitate intercourse. During the second phase, called the plateau, stimulation continues, the outer third of the vaginal wall enlarges with blood, and breathing and heart rate increase. During phase three, or orgasm, rhythmic, involuntary contractions of muscles occur in both sexes. In the male, the reproductive accessory glands and tubules constrict placing semen in the urethra, then the urethra contracts expelling the semen through the penis. In women, the uterus and vaginal muscles contract in waves that may last slightly less than a second each. During phase four, or resolution, the processes described in the first three phases reverse themselves and return to their normal state. Men experience a refractory period in which they cannot maintain an erection or ejaculate for a period of time ranging from minutes to hours.
+Question: What is released to lubricate the vagina to facilitate intercourse?
+Correct Answer: vaginal secretions
+Distractors: vaginal secretions, vaginal mucus, vaginal discharge
+  - vaginal secretions: Similarity Score: 1.000000
+  - vaginal mucus: Similarity Score: 0.767533
+  - vaginal discharge: Similarity Score: 0.742883
+
+  - vaginal secretions: Probability Score (good answer): 0.018767
+  - vaginal secretions: Probability Score: 0.018767
+  - vaginal mucus: Probability Score: 0.076762
+  - vaginal discharge: Probability Score: 0.003093
+
+  - vaginal secretions: Lexical Score: 1.000000
+  - vaginal mucus: Lexical Score: 0.333333
+  - vaginal discharge: Lexical Score: 0.333333
+
+Context: Biodiversity refers to the variety of life and its processes, including the variety of living organisms, the genetic differences among them, and the communities and ecosystems in which they occur. Scientists have identified about 1.9 million species alive today. They are divided into the six kingdoms of life shown in Figure below . Scientists are still discovering new species. Thus, they do not know for sure how many species really exist today. Most estimates range from 5 to 30 million species.
+Question: What term is used to describe  the variety of life and its processes, including the variety of living organisms, the genetic differences among them, and the communities and ecosystems in which they occur?
+Correct Answer: biodiversity
+Distractors: diversity, extinction, evolution.
+  - diversity: Similarity Score: 0.543647
+  - extinction: Similarity Score: 0.225518
+  - evolution.: Similarity Score: 0.233576
+
+  - biodiversity: Probability Score (good answer): 0.612869
+  - diversity: Probability Score: 0.586462
+  - extinction: Probability Score: 0.077520
+  - evolution.: Probability Score: 0.067606
+
+  - diversity: Lexical Score: 0.000000
+  - extinction: Lexical Score: 0.000000
+  - evolution.: Lexical Score: 0.000000
+
+Context: Igneous rocks are grouped by the size of their crystals and the minerals they contain. The minerals in igneous rocks are grouped into families. Some contain mostly lighter colored minerals, some have a combination of light and dark minerals, and some have mostly darker minerals. The combination of minerals is determined by the composition of the magma. Magmas that produce lighter colored minerals are higher in silica. These create rocks such as granite and rhyolite. Darker colored minerals are found in rocks such as gabbro and basalt.
+Question: Besides the size of their crystals, how are igneous rocks grouped?
+Correct Answer: minerals they contain
+Distractors: minerals they contain, size of their crystals, minerals they contain and size of their crystals.
+  - minerals they contain: Similarity Score: 1.000000
+  - size of their crystals: Similarity Score: 0.418129
+  - minerals they contain and size of their crystals.: Similarity Score: 0.781738
+
+  - minerals they contain: Probability Score (good answer): 0.000052
+  - minerals they contain: Probability Score: 0.000052
+  - size of their crystals: Probability Score: 0.000000
+  - minerals they contain and size of their crystals.: Probability Score: 0.383105
+
+  - minerals they contain: Lexical Score: 1.000000
+  - size of their crystals: Lexical Score: 0.000000
+  - minerals they contain and size of their crystals.: Lexical Score: 0.375000
+
+Context: Calculating Formal Charge The formal charge of an atom in a molecule is the hypothetical charge the atom would have if we could redistribute the electrons in the bonds evenly between the atoms. Another way of saying this is that formal charge results when we take the number of valence electrons of a neutral atom, subtract the nonbonding electrons, and then subtract the number of bonds connected to that atom in the Lewis structure. Thus, we calculate formal charge as follows: formal charge = # valence shell electrons (free atom) − # lone pair electrons − 1 # bonding electrons 2 We can double-check formal charge calculations by determining the sum of the formal charges for the whole structure. The sum of the formal charges of all atoms in a molecule must be zero; the sum of the formal charges in an ion should equal the charge of the ion. We must remember that the formal charge calculated for an atom is not the actual charge of the atom in the molecule. Formal charge is only a useful bookkeeping procedure; it does not indicate the presence of actual charges.
+Question: We must remember that the formal charge calculated for an atom is not the actual charge of the atom in the molecule. formal charge is only a useful bookkeeping procedure; it does not indicate the presence of these?
+Correct Answer: actual charges
+Distractors: actual charges, bonds, valence electrons.
+  - actual charges: Similarity Score: 1.000000
+  - bonds: Similarity Score: 0.226374
+  - valence electrons.: Similarity Score: 0.378387
+
+  - actual charges: Probability Score (good answer): 0.000017
+  - actual charges: Probability Score: 0.000017
+  - bonds: Probability Score: 0.000006
+  - valence electrons.: Probability Score: 0.000240
+
+  - actual charges: Lexical Score: 1.000000
+  - bonds: Lexical Score: 0.000000
+  - valence electrons.: Lexical Score: 0.000000
+
+Context: All protons are identical. For example, hydrogen protons are exactly the same as protons of helium and all other elements, or pure substances. However, atoms of different elements have different numbers of protons. In fact, atoms of any given element have a unique number of protons that is different from the numbers of protons of all other elements. For example, a hydrogen atom has just one proton, whereas a helium atom has two protons. The number of protons in an atom determines the electrical charge of the nucleus. The nucleus also contains neutrons, but they are neutral in charge. The one proton in a hydrogen nucleus, for example, gives it a charge of +1, and the two protons in a helium nucleus give it a charge of +2. To learn more about the relationship between protons and elements, go to this URL:.
+Question: Atoms of different elements have different numbers of what?
+Correct Answer: protons
+Distractors: electrons, neutrons, atoms of different elements have different numbers of neutrons.
+  - electrons: Similarity Score: 0.318124
+  - neutrons: Similarity Score: 0.413850
+  - atoms of different elements have different numbers of neutrons.: Similarity Score: 0.381216
+
+  - protons: Probability Score (good answer): 0.000007
+  - electrons: Probability Score: 0.000046
+  - neutrons: Probability Score: 0.000008
+  - atoms of different elements have different numbers of neutrons.: Probability Score: 0.896717
+
+  - electrons: Lexical Score: 0.000000
+  - neutrons: Lexical Score: 0.000000
+  - atoms of different elements have different numbers of neutrons.: Lexical Score: 0.000000
+
+Context: The cell cycle is a repeating series of events that cells go through. It includes growth, DNA synthesis, and cell division. In eukaryotic cells, there are two growth phases, and cell division includes mitosis.
+Question: What is a reptiles skin covered in to protect them from drying out?
+Correct Answer: scales
+Distractors: scales, hair, feathers and scales.
+  - scales: Similarity Score: 1.000000
+  - hair: Similarity Score: 0.188523
+  - feathers and scales.: Similarity Score: 0.399631
+
+  - scales: Probability Score (good answer): 0.001814
+  - scales: Probability Score: 0.001814
+  - hair: Probability Score: 0.017191
+  - feathers and scales.: Probability Score: 0.164569
+
+  - scales: Lexical Score: 1.000000
+  - hair: Lexical Score: 0.000000
+  - feathers and scales.: Lexical Score: 0.000000
+
+Context: Traits controlled by genes on the sex chromosomes are called sex-linked traits . One gene on the Y chromosome determines male sex. There are very few other genes on the Y chromosome, which is the smallest human chromosome. There are hundreds of genes on the much larger X chromosome. None is related to sex. Traits controlled by genes on the X chromosome are called X-linked traits.
+Question: Traits controlled by genes on the sex chromosomes are called what?
+Correct Answer: sex-linked traits
+Distractors: recessive traits, dominant traits, hereditary traits.
+  - recessive traits: Similarity Score: 0.277705
+  - dominant traits: Similarity Score: 0.256360
+  - hereditary traits.: Similarity Score: 0.262810
+
+  - sex-linked traits: Probability Score (good answer): 0.884718
+  - recessive traits: Probability Score: 0.731751
+  - dominant traits: Probability Score: 0.686802
+  - hereditary traits.: Probability Score: 0.774708
+
+  - recessive traits: Lexical Score: 0.333333
+  - dominant traits: Lexical Score: 0.333333
+  - hereditary traits.: Lexical Score: 0.000000
+
+Context: Consumers get their food in different ways Figure below . Grazers feed on living organisms without killing them. A rabbit nibbles on leaves and a mosquito sucks a drop of blood. Predators , like lions, capture and kill animals for food. The animals they eat are called prey . Even some plants are consumers. Pitcher plants trap insects in their sticky fluid in their “pitchers. ” The insects are their prey. Scavengers eat animals that are already dead. This hyena is eating the remains of a lion’s prey. Decomposers break down dead organisms and the wastes of living things. This dung beetle is rolling a ball of dung (animal waste) back to its nest. The beetle will use the dung to feed its young. The mushrooms pictured are growing on a dead log. They will slowly break it down. This releases its nutrients to the soil.
+Question: In an ecosystem, what do you call organisms like lions that capture and kill other animals for food?
+Correct Answer: predators
+Distractors: parasites, predators, prey species.
+  - parasites: Similarity Score: 0.317181
+  - predators: Similarity Score: 1.000000
+  - prey species.: Similarity Score: 0.545577
+
+  - predators: Probability Score (good answer): 0.518809
+  - parasites: Probability Score: 0.277649
+  - predators: Probability Score: 0.518809
+  - prey species.: Probability Score: 0.526429
+
+  - parasites: Lexical Score: 0.000000
+  - predators: Lexical Score: 1.000000
+  - prey species.: Lexical Score: 0.000000
+
+Context: In the U. S. , the majority of electricity is produced by burning coal or other fossil fuels. This causes air pollution that harms the health of living things. The air pollution also causes acid rain and contributes to global warming. In addition, fossil fuels are nonrenewable resources, so if we keep using them, they will eventually run out. The main advantage of nuclear energy is that it doesn’t release air pollution or cause the other environmental problems associated with the burning of fossil fuels. On the other other hand, radioactive elements are nonrenewable like fossil fuels and could eventually be used up.
+Question: In the u. s. , the majority of electricity is produced by burning coal or what else?
+Correct Answer: fossil fuels
+Distractors: fossil fuels, fossil fuels, renewable fuels.
+  - fossil fuels: Similarity Score: 1.000000
+  - fossil fuels: Similarity Score: 1.000000
+  - renewable fuels.: Similarity Score: 0.488245
+
+  - fossil fuels: Probability Score (good answer): 0.000018
+  - fossil fuels: Probability Score: 0.000018
+  - fossil fuels: Probability Score: 0.000018
+  - renewable fuels.: Probability Score: 0.000051
+
+  - fossil fuels: Lexical Score: 1.000000
+  - fossil fuels: Lexical Score: 1.000000
+  - renewable fuels.: Lexical Score: 0.000000
+
+Context: If you look at living matter with a microscope—even a simple light microscope—you will see that it consists of cells. Cells are the basic units of the structure and function of living things. They are the smallest units that can carry out the processes of life. All organisms are made up of one or more cells, and all cells have many of the same structures and carry out the same basic life processes. Knowing the structures of cells and the processes they carry out is necessary to understanding life itself.
+Question: What do you call the basic units of the structure and function of living things?
+Correct Answer: cells
+Distractors: atoms, genes, protons and neutrons.
+  - atoms: Similarity Score: 0.431964
+  - genes: Similarity Score: 0.327785
+  - protons and neutrons.: Similarity Score: 0.351094
+
+  - cells: Probability Score (good answer): 0.286687
+  - atoms: Probability Score: 0.414136
+  - genes: Probability Score: 0.566600
+  - protons and neutrons.: Probability Score: 0.811998
+
+  - atoms: Lexical Score: 0.000000
+  - genes: Lexical Score: 0.000000
+  - protons and neutrons.: Lexical Score: 0.000000
+
+Context: The Gallbladder The gallbladder is 8–10 cm (~3–4 in) long and is nested in a shallow area on the posterior aspect of the right lobe of the liver. This muscular sac stores, concentrates, and, when stimulated, propels the bile into the duodenum via the common bile duct. It is divided into three regions. The fundus is the widest portion and tapers medially into the body, which in turn narrows to become the neck. The neck angles slightly superiorly as it approaches the hepatic duct. The cystic duct is 1–2 cm (less than 1 in) long and turns inferiorly as it bridges the neck and hepatic duct. The simple columnar epithelium of the gallbladder mucosa is organized in rugae, similar to those of the stomach. There is no submucosa in the gallbladder wall. The wall’s middle, muscular coat is made of smooth muscle fibers. When these fibers contract, the gallbladder’s contents are ejected through the cystic duct and into the bile duct (Figure 23.27). Visceral peritoneum reflected from the liver capsule holds the gallbladder against the liver and forms the outer coat of the gallbladder. The gallbladder's mucosa absorbs water and ions from bile, concentrating it by up to 10-fold.
+Question: On what lobe of the liver is the gallbladder near?
+Correct Answer: right lobe
+Distractors: left lobe, left lobe, right lobe
+  - left lobe: Similarity Score: 0.393498
+  - left lobe: Similarity Score: 0.393498
+  - right lobe: Similarity Score: 1.000000
+
+  - right lobe: Probability Score (good answer): 0.026311
+  - left lobe: Probability Score: 0.070684
+  - left lobe: Probability Score: 0.070684
+  - right lobe: Probability Score: 0.026311
+
+  - left lobe: Lexical Score: 0.333333
+  - left lobe: Lexical Score: 0.333333
+  - right lobe: Lexical Score: 1.000000
+
+Context: An inflating balloon is not exactly like the expanding Universe. The surface of a balloon has only two dimensions, while space has three dimensions. But it is true that space itself is stretching out between galaxies like the rubber stretches when a balloon is inflated. This stretching of space, which causes the distance between galaxies to increase, is what astronomers mean by the expansion of the Universe.
+Question: What do astronomers term the stretching of space that causes the distance between galaxies to increase?
+Correct Answer: expanding universe
+Distractors: expanding universe, expanding galaxy, expanding solar system.
+  - expanding universe: Similarity Score: 1.000000
+  - expanding galaxy: Similarity Score: 0.844458
+  - expanding solar system.: Similarity Score: 0.704825
+
+  - expanding universe: Probability Score (good answer): 0.000011
+  - expanding universe: Probability Score: 0.000011
+  - expanding galaxy: Probability Score: 0.000000
+  - expanding solar system.: Probability Score: 0.000006
+
+  - expanding universe: Lexical Score: 1.000000
+  - expanding galaxy: Lexical Score: 0.333333
+  - expanding solar system.: Lexical Score: 0.250000
+
+Context: Invertebrates have one of two types of digestive system. They are called incomplete and complete digestive systems. Both are shown in Figure below . An incomplete digestive system consists of a digestive cavity with one opening. The single opening serves as both mouth and anus. A complete digestive system consists of a digestive tract with two openings. One opening is the mouth. The other is the anus.
+Question: What are the two types of digestive systems invertebrates may have?
+Correct Answer: complete and incomplete
+Distractors: complete and incomplete, complete and incomplete, incomplete and complete.
+  - complete and incomplete: Similarity Score: 1.000000
+  - complete and incomplete: Similarity Score: 1.000000
+  - incomplete and complete.: Similarity Score: 0.573793
+
+  - complete and incomplete: Probability Score (good answer): 0.150145
+  - complete and incomplete: Probability Score: 0.150145
+  - complete and incomplete: Probability Score: 0.150145
+  - incomplete and complete.: Probability Score: 0.011536
+
+  - complete and incomplete: Lexical Score: 1.000000
+  - complete and incomplete: Lexical Score: 1.000000
+  - incomplete and complete.: Lexical Score: 0.500000
+
+Context: Isotopes can be very useful in scans to locate cancer cells. This patient has multiple tumors that have spread (metastasized) from the main tumor. A radioisotope has been attached to antibodies that bind to specific cancer cells. The very dark spots in the armpits, neck, and groin represent areas where tumor cells exist.
+Question: What term is used to describe a cancer that has spread?
+Correct Answer: metastasized
+Distractors: metastasized, metastasis, metastasized cancer cells are spread through the body of the patient.
+  - metastasized: Similarity Score: 1.000000
+  - metastasis: Similarity Score: 0.693991
+  - metastasized cancer cells are spread through the body of the patient.: Similarity Score: 0.402174
+
+  - metastasized: Probability Score (good answer): 0.028921
+  - metastasized: Probability Score: 0.028921
+  - metastasis: Probability Score: 0.071818
+  - metastasized cancer cells are spread through the body of the patient.: Probability Score: 0.433510
+
+  - metastasized: Lexical Score: 1.000000
+  - metastasis: Lexical Score: 0.000000
+  - metastasized cancer cells are spread through the body of the patient.: Lexical Score: 0.100000
+
+Context: Elements are represented by chemical symbols. Examples are H for hydrogen and O for oxygen. Compounds are represented by chemical formulas . You’ve already seen the chemical formula for water. It’s H 2 O. The subscript 2 after the H shows that there are two atoms of hydrogen in a molecule of water. The O for oxygen has no subscript. When there is just one atom of an element in a molecule, no subscript is used. Table below shows some other examples of compounds and their chemical formulas.
+Question: While elements are represented by chemical symbols, chemical formulas represent what?
+Correct Answer: compounds
+Distractors: compounds, elements, atoms and molecules.
+  - compounds: Similarity Score: 1.000000
+  - elements: Similarity Score: 0.289392
+  - atoms and molecules.: Similarity Score: 0.317173
+
+  - compounds: Probability Score (good answer): 0.000000
+  - compounds: Probability Score: 0.000000
+  - elements: Probability Score: 0.000000
+  - atoms and molecules.: Probability Score: 0.018784
+
+  - compounds: Lexical Score: 1.000000
+  - elements: Lexical Score: 0.000000
+  - atoms and molecules.: Lexical Score: 0.000000
+
+Context: Compact bone tissue is made of cylindrical osteons that are aligned such that they travel the length of the bone. Haversian canals contain blood vessels only. Haversian canals contain blood vessels and nerve fibers. Spongy tissue is found on the interior of the bone, and compact bone tissue is found on the exterior. Figure 38.37 Which of the following statements about muscle contraction is true?.
+Question: Haversian canals contain blood vessels and what else?
+Correct Answer: nerve fibers
+Distractors: nerve fibers, nerve endings, nerve fibers and blood vessels.
+  - nerve fibers: Similarity Score: 1.000000
+  - nerve endings: Similarity Score: 0.761787
+  - nerve fibers and blood vessels.: Similarity Score: 0.693540
+
+  - nerve fibers: Probability Score (good answer): 0.000002
+  - nerve fibers: Probability Score: 0.000002
+  - nerve endings: Probability Score: 0.000000
+  - nerve fibers and blood vessels.: Probability Score: 0.084947
+
+  - nerve fibers: Lexical Score: 1.000000
+  - nerve endings: Lexical Score: 0.333333
+  - nerve fibers and blood vessels.: Lexical Score: 0.400000
+
+Context: Reproduction is the process by which organisms give rise to offspring. It is one of the defining characteristics of living things. There are two basic types of reproduction: asexual reproduction and sexual reproduction.
+Question: What is the process by which organisms give rise to offspring?
+Correct Answer: reproduction
+Distractors: reproduction, production, reproduction and production.
+  - reproduction: Similarity Score: 1.000000
+  - production: Similarity Score: 0.469858
+  - reproduction and production.: Similarity Score: 0.870763
+
+  - reproduction: Probability Score (good answer): 0.345655
+  - reproduction: Probability Score: 0.345655
+  - production: Probability Score: 0.033083
+  - reproduction and production.: Probability Score: 0.062164
+
+  - reproduction: Lexical Score: 1.000000
+  - production: Lexical Score: 0.000000
+  - reproduction and production.: Lexical Score: 0.333333
+
+Context: A combustion engine is a complex machine that burns fuel to produce thermal energy and then uses the thermal energy to do work. Combustion engines may by external or internal combustion engines, depending on where the fuel is burned.
+Question: What is a complex machine that burns fuel to produce thermal energy and then uses the thermal energy to do work?
+Correct Answer: combustion engine
+Distractors: internal combustion engine, engine, internal combustion engine and internal combustion engine.
+  - internal combustion engine: Similarity Score: 0.753061
+  - engine: Similarity Score: 0.651610
+  - internal combustion engine and internal combustion engine.: Similarity Score: 0.714835
+
+  - combustion engine: Probability Score (good answer): 0.706715
+  - internal combustion engine: Probability Score: 0.694342
+  - engine: Probability Score: 0.151047
+  - internal combustion engine and internal combustion engine.: Probability Score: 0.215653
+
+  - internal combustion engine: Lexical Score: 0.666667
+  - engine: Lexical Score: 0.500000
+  - internal combustion engine and internal combustion engine.: Lexical Score: 0.400000
+
+Context: can continue indefinitely. In contrast, the expansion of a gas into a vacuum (Pext = 0) is irreversible because the external pressure is measurably less than the internal pressure of the gas. No equilibrium states exist, and the gas expands irreversibly. When gas escapes from a microscopic hole in a balloon into a vacuum, for example, the process is irreversible; the direction of airflow cannot change. Because work done during the expansion of a gas depends on the opposing external pressure (w = PextΔV), work done in a reversible process is always equal to or greater than work done in a corresponding irreversible process: wrev ≥ wirrev. Whether a process is reversible or irreversible, ΔE = q + w. Because E is a state function, the magnitude of ΔE does not depend on reversibility and is independent of the path taken. So Equation 18.14.
+Question: Expansion of a gas into a vacuum is irreversible because the external pressure is measurably less than the internal pressure of the gas, and no states of what exist?
+Correct Answer: equilibrium
+Distractors: equilibrium, condensation, mixture equilibrium
+  - equilibrium: Similarity Score: 1.000000
+  - condensation: Similarity Score: 0.438222
+  - mixture equilibrium: Similarity Score: 0.662939
+
+  - equilibrium: Probability Score (good answer): 0.000000
+  - equilibrium: Probability Score: 0.000000
+  - condensation: Probability Score: 0.000000
+  - mixture equilibrium: Probability Score: 0.000000
+
+  - equilibrium: Lexical Score: 1.000000
+  - condensation: Lexical Score: 0.000000
+  - mixture equilibrium: Lexical Score: 0.500000
+
+Context: One important phenomenon related to the relative strength of cohesive and adhesive forces is capillary action—the tendency of a fluid to be raised or suppressed in a narrow tube, or capillary tube. This action causes blood to be drawn into a small-diameter tube when the tube touches a drop. Capillary Action The tendency of a fluid to be raised or suppressed in a narrow tube, or capillary tube, is called capillary action. If a capillary tube is placed vertically into a liquid, as shown in Figure 11.34, capillary action will raise or suppress the liquid inside the tube depending on the combination of substances. The actual effect depends on the relative strength of the cohesive and adhesive forces and, thus, the contact angle θ given in the table. If θ is less than 90º , then the fluid will be raised; if θ is greater than 90º , it will be suppressed. Mercury, for example, has a very large surface tension and a large contact angle with glass. When placed in a tube, the surface of a column of mercury curves downward, somewhat like a drop. The curved surface of a fluid in a tube is called a meniscus. The tendency of surface tension is always to reduce the surface area. Surface tension thus flattens the curved liquid surface in a capillary tube. This results in a downward force in mercury and an upward force in water, as seen in Figure 11.34.
+Question: One important phenomenon related to the relative strength of cohesive and adhesive forces is capillary action—the tendency of a fluid to be raised or suppressed in a narrow tube, or called this?
+Correct Answer: capillary tube
+Distractors: capillary tube, capillary force, capillary action force
+  - capillary tube: Similarity Score: 1.000000
+  - capillary force: Similarity Score: 0.663232
+  - capillary action force: Similarity Score: 0.627836
+
+  - capillary tube: Probability Score (good answer): 0.003477
+  - capillary tube: Probability Score: 0.003477
+  - capillary force: Probability Score: 0.006466
+  - capillary action force: Probability Score: 0.004754
+
+  - capillary tube: Lexical Score: 1.000000
+  - capillary force: Lexical Score: 0.333333
+  - capillary action force: Lexical Score: 0.250000
+
+Context: All solutions have two parts: the solute and the solvent. The solute is the substance that dissolves, and the solvent is the substance that dissolves the solute. Particles of solvent pull apart particles of solute, and the solute particles spread throughout the solvent. Salt water, such as the ocean water in the Figure below , is an example of a solution. In a saltwater solution, salt is the solute and water is the solvent.
+Question: What are the two components of all solutions?
+Correct Answer: solute and solvent
+Distractors: solvent and air, solvent and particles, solvent and liquid air.
+  - solvent and air: Similarity Score: 0.392364
+  - solvent and particles: Similarity Score: 0.393221
+  - solvent and liquid air.: Similarity Score: 0.376830
+
+  - solute and solvent: Probability Score (good answer): 0.678022
+  - solvent and air: Probability Score: 0.409053
+  - solvent and particles: Probability Score: 0.320316
+  - solvent and liquid air.: Probability Score: 0.619355
+
+  - solvent and air: Lexical Score: 0.500000
+  - solvent and particles: Lexical Score: 0.500000
+  - solvent and liquid air.: Lexical Score: 0.400000
+
+Context: The pineal gland is a tiny gland located at the base of the brain. It secretes the hormone melatonin . This hormone controls sleep-wake cycles and several other processes.
+Question: What hormone secreted by the pineal gland controls sleep-wake cycles and several other processes?
+Correct Answer: melatonin
+Distractors: oxytocin, cortisol, epinephrine.
+  - oxytocin: Similarity Score: 0.076782
+  - cortisol: Similarity Score: 0.250409
+  - epinephrine.: Similarity Score: 0.052416
+
+  - melatonin: Probability Score (good answer): 0.838112
+  - oxytocin: Probability Score: 0.235313
+  - cortisol: Probability Score: 0.482131
+  - epinephrine.: Probability Score: 0.775008
+
+  - oxytocin: Lexical Score: 0.000000
+  - cortisol: Lexical Score: 0.000000
+  - epinephrine.: Lexical Score: 0.000000
+
+Context: Structure of the Lactating Breast Mammary glands are modified sweat glands. The non-pregnant and non-lactating female breast is composed primarily of adipose and collagenous tissue, with mammary glands making up a very minor proportion of breast volume. The mammary gland is composed of milk-transporting lactiferous ducts, which expand and branch extensively during pregnancy in response to estrogen, growth hormone, cortisol, and prolactin. Moreover, in response to progesterone, clusters of breast alveoli bud from the ducts and expand outward toward the chest wall. Breast alveoli are balloon-like structures lined with milk-secreting cuboidal cells, or lactocytes, that are surrounded by a net of contractile myoepithelial cells. Milk is secreted from the lactocytes, fills the alveoli, and is squeezed into the ducts. Clusters of alveoli that drain to a common duct are called lobules; the lactating female has 12–20 lobules organized radially around the nipple. Milk drains from lactiferous ducts into lactiferous sinuses that meet at 4 to 18 perforations in the nipple, called nipple pores. The small bumps of the areola (the darkened skin around the nipple) are called Montgomery glands. They secrete oil to cleanse the nipple opening and prevent chapping and cracking of the nipple during breastfeeding.
+Question: What two types of tissue compose most of the non-pregnant and non-lactating female breast?
+Correct Answer: adipose and collagenous
+Distractors: adipose and collagenous, collagenous and adipose, adipose and connective tissue.
+  - adipose and collagenous: Similarity Score: 1.000000
+  - collagenous and adipose: Similarity Score: 0.588199
+  - adipose and connective tissue.: Similarity Score: 0.559419
+
+  - adipose and collagenous: Probability Score (good answer): 0.069826
+  - adipose and collagenous: Probability Score: 0.069826
+  - collagenous and adipose: Probability Score: 0.218078
+  - adipose and connective tissue.: Probability Score: 0.435032
+
+  - adipose and collagenous: Lexical Score: 1.000000
+  - collagenous and adipose: Lexical Score: 1.000000
+  - adipose and connective tissue.: Lexical Score: 0.400000
+
+Context: Now look at the ship’s hull in the Figure above . Its shape causes the ship to displace much more water than the ball. In fact, the weight of the displaced water is greater than the weight of the ship. As a result, the buoyant force is greater than the force of gravity acting on the ship, so the ship floats.
+Question: If the buoyant force is greater than the force of gravity acting on a ship, what will happen to the ship?
+Correct Answer: it will float
+Distractors: it will sink, it will tilt, it will flip over.
+  - it will sink: Similarity Score: 0.571683
+  - it will tilt: Similarity Score: 0.426202
+  - it will flip over.: Similarity Score: 0.447830
+
+  - it will float: Probability Score (good answer): 0.406695
+  - it will sink: Probability Score: 0.466664
+  - it will tilt: Probability Score: 0.516189
+  - it will flip over.: Probability Score: 0.434990
+
+  - it will sink: Lexical Score: 0.500000
+  - it will tilt: Lexical Score: 0.500000
+  - it will flip over.: Lexical Score: 0.400000
+
+Context: 
+Question: What do seeds have that spores do not?
+Correct Answer: a supply of stored food
+Distractors: a supply of stored water, a supply of stored oxygen, a supply of stored nitrogen.
+  - a supply of stored water: Similarity Score: 0.631576
+  - a supply of stored oxygen: Similarity Score: 0.497005
+  - a supply of stored nitrogen.: Similarity Score: 0.651808
+
+  - a supply of stored food: Probability Score (good answer): 0.000002
+  - a supply of stored water: Probability Score: 0.000002
+  - a supply of stored oxygen: Probability Score: 0.000062
+  - a supply of stored nitrogen.: Probability Score: 0.000342
+
+  - a supply of stored water: Lexical Score: 0.666667
+  - a supply of stored oxygen: Lexical Score: 0.666667
+  - a supply of stored nitrogen.: Lexical Score: 0.666667
+
+Context: For a long time, many people believed that a rocket wouldn’t work in space. There would be nothing for the rocket to push against. But they do work! Fuel is ignited in a chamber. The gases in the chamber explode. The explosion creates pressure that forces the gases out of one side of the rocket. The rocket moves in the opposite direction ( Figure below ). The force pushing the rocket is called thrust .
+Question: When explosion of gases creates pressure resulting in motion of a rocket, the force pushing the rocket is called what?
+Correct Answer: thrust
+Distractors: force, friction, energy.
+  - force: Similarity Score: 0.437755
+  - friction: Similarity Score: 0.373013
+  - energy.: Similarity Score: 0.250208
+
+  - thrust: Probability Score (good answer): 0.787112
+  - force: Probability Score: 0.291846
+  - friction: Probability Score: 0.607874
+  - energy.: Probability Score: 0.339007
+
+  - force: Lexical Score: 0.000000
+  - friction: Lexical Score: 0.000000
+  - energy.: Lexical Score: 0.000000
+
+Context: Like water and carbon, nitrogen is also repeatedly recycled through the biosphere. This process is called the nitrogen cycle . Nitrogen is one of the most common elements in living organisms. It is important for creating both proteins and nucleic acids, like DNA. The air that we breathe is mostly nitrogen gas (N 2 ), but, unfortunately, animals and plants cannot use the nitrogen when it is a gas. In fact, plants often die from a lack of nitrogen even through they are surrounded by plenty of nitrogen gas. Nitrogen gas (N 2 ) has two nitrogen atoms connected by a very strong triple bond. Most plants and animals cannot use the nitrogen in nitrogen gas because they cannot break that triple bond.
+Question: What is the process called where nitrogen is repeatedly recycled through the biosphere?
+Correct Answer: nitrogen cycle
+Distractors: nitrogen cycle, nitrogen cycle, nitrogen cycle is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a
+  - nitrogen cycle: Similarity Score: 1.000000
+  - nitrogen cycle: Similarity Score: 1.000000
+  - nitrogen cycle is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a: Similarity Score: 0.804557
+
+  - nitrogen cycle: Probability Score (good answer): 0.107715
+  - nitrogen cycle: Probability Score: 0.107715
+  - nitrogen cycle: Probability Score: 0.107715
+  - nitrogen cycle is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a: Probability Score: 0.005005
+
+  - nitrogen cycle: Lexical Score: 1.000000
+  - nitrogen cycle: Lexical Score: 1.000000
+  - nitrogen cycle is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a cycle of nitrogen that is a: Lexical Score: 0.333333
+
+Context: Each wave function is associated with a particular energy. As in Bohr’s model, the energy of an electron in an atom is quantized; it can have only certain allowed values. The major difference between Bohr’s model and Schrödinger’s approach is that Bohr had to impose the idea of quantization arbitrarily, whereas in Schrödinger’s approach, quantization is a natural consequence of describing an electron as a standing wave. Quantum Numbers Schrödinger’s approach uses three quantum numbers (n, l, and ml) to specify any wave function. The quantum numbers provide information about the spatial distribution of an electron. Although n can be any positive integer, only certain values of l and ml are allowed for a given value of n. The Principal Quantum Number The principal quantum number (n) tells the average relative distance of an electron from the nucleus:.
+Question: Schrödinger’s approach uses three quantum numbers (n, l, and ml) to specify any of what type of function, associated with a particular energy?
+Correct Answer: wave function
+Distractors: atom function, vector function, wave function
+  - atom function: Similarity Score: 0.337814
+  - vector function: Similarity Score: 0.550078
+  - wave function: Similarity Score: 1.000000
+
+  - wave function: Probability Score (good answer): 0.095144
+  - atom function: Probability Score: 0.035936
+  - vector function: Probability Score: 0.085736
+  - wave function: Probability Score: 0.095144
+
+  - atom function: Lexical Score: 0.333333
+  - vector function: Lexical Score: 0.333333
+  - wave function: Lexical Score: 1.000000
+
+Context: Angiosperms, or flowering seed plants, form seeds in ovaries. As the seeds develop, the ovaries may develop into fruits. Flowers attract pollinators, and fruits encourage animals to disperse the seeds.
+Question: Where do angiosperms form seeds?
+Correct Answer: ovaries
+Distractors: ovaries, seeds, ovaries and seeds.
+  - ovaries: Similarity Score: 1.000000
+  - seeds: Similarity Score: 0.169120
+  - ovaries and seeds.: Similarity Score: 0.724783
+
+  - ovaries: Probability Score (good answer): 0.000000
+  - ovaries: Probability Score: 0.000000
+  - seeds: Probability Score: 0.000000
+  - ovaries and seeds.: Probability Score: 0.000011
+
+  - ovaries: Lexical Score: 1.000000
+  - seeds: Lexical Score: 0.000000
+  - ovaries and seeds.: Lexical Score: 0.333333
+
+Context: Opposites attract when it comes to charged molecules. In the case of water, the positive (hydrogen) end of one water molecule is attracted to the negative (oxygen) end of a nearby water molecule. Because of this attraction, weak bonds form between adjacent water molecules, as shown in Figure below . The type of bond that forms between molecules is called a hydrogen bond . Bonds between molecules are not as strong as bonds within molecules, but in water they are strong enough to hold together nearby molecules.
+Question: The type of bond that forms between molecules is called what?
+Correct Answer: hydrogen bond
+Distractors: ionic bond, hydrogen bond, covalent bond.
+  - ionic bond: Similarity Score: 0.506950
+  - hydrogen bond: Similarity Score: 1.000000
+  - covalent bond.: Similarity Score: 0.260161
+
+  - hydrogen bond: Probability Score (good answer): 0.478815
+  - ionic bond: Probability Score: 0.546381
+  - hydrogen bond: Probability Score: 0.478815
+  - covalent bond.: Probability Score: 0.480752
+
+  - ionic bond: Lexical Score: 0.333333
+  - hydrogen bond: Lexical Score: 1.000000
+  - covalent bond.: Lexical Score: 0.000000
+
+Context: 
+Question: What evolutionary process has adapted protonephridia to different tasks in different environments?
+Correct Answer: natural selection
+Distractors: genetic mutation, evolution, artificial selection
+  - genetic mutation: Similarity Score: 0.520030
+  - evolution: Similarity Score: 0.340403
+  - artificial selection: Similarity Score: 0.370256
+
+  - natural selection: Probability Score (good answer): 0.828395
+  - genetic mutation: Probability Score: 0.522402
+  - evolution: Probability Score: 0.325234
+  - artificial selection: Probability Score: 0.489523
+
+  - genetic mutation: Lexical Score: 0.000000
+  - evolution: Lexical Score: 0.000000
+  - artificial selection: Lexical Score: 0.333333
+
+Context: A cold front forms when a cold air mass runs into a warm air mass ( Figure below ). The cold air mass moves faster than the warm air mass. So the cold air mass lifts the warm air mass out of its way. As the warm air rises, its water vapor condenses. Clouds form, and precipitation falls. If the warm air is very humid, precipitation can be heavy. Temperature and pressure differences between the two air masses cause winds. Winds may be very strong along a cold front.
+Question: A cold front is formed when a cold air mass runs into what?
+Correct Answer: warm air mass
+Distractors: warm air mass, dry air mass, warm air mass and cold air mass.
+  - warm air mass: Similarity Score: 1.000000
+  - dry air mass: Similarity Score: 0.427306
+  - warm air mass and cold air mass.: Similarity Score: 0.510154
+
+  - warm air mass: Probability Score (good answer): 0.001393
+  - warm air mass: Probability Score: 0.001393
+  - dry air mass: Probability Score: 0.042831
+  - warm air mass and cold air mass.: Probability Score: 0.002017
+
+  - warm air mass: Lexical Score: 1.000000
+  - dry air mass: Lexical Score: 0.500000
+  - warm air mass and cold air mass.: Lexical Score: 0.500000
+
+Context: As the telencephalon enlarges and grows into the cranial cavity, it is limited by the space within the skull. The telencephalon is the most anterior region of what was the neural tube, but cannot grow past the limit of the frontal bone of the skull. Because the cerebrum fits into this space, it takes on a C-shaped formation, through the frontal, parietal, occipital, and finally temporal regions. The space within the telencephalon is stretched into this same C-shape. The two ventricles are in the left and right sides, and were at one time referred to as the first and second ventricles. The interventricular foramina connect the frontal region of the lateral ventricles with the third ventricle. The third ventricle is the space bounded by the medial walls of the hypothalamus and thalamus. The two thalami touch in the center in most brains as the massa intermedia, which is surrounded by the third ventricle. The cerebral aqueduct opens just inferior to the epithalamus and passes through the midbrain. The tectum and tegmentum of the midbrain are the roof and floor of the cerebral aqueduct, respectively. The aqueduct opens up into the fourth ventricle. The floor of the fourth ventricle is the dorsal surface of the pons and upper medulla (that gray matter making a continuation of the tegmentum of the midbrain). The fourth ventricle then narrows into the central canal of the spinal cord. The ventricular system opens up to the subarachnoid space from the fourth ventricle. The single median aperture and the pair of lateral apertures connect to the subarachnoid space so that CSF can flow through the ventricles and around the outside of the CNS. Cerebrospinal fluid is produced within the ventricles by a type of specialized membrane called a choroid plexus. Ependymal cells (one of the types of glial cells described in the introduction to the nervous system) surround blood capillaries and filter the blood to make CSF. The fluid is a clear solution with a limited amount of the constituents of blood. It is essentially water, small molecules, and electrolytes. Oxygen and carbon dioxide are dissolved into the CSF, as they are in blood, and can diffuse between the fluid and the nervous tissue.
+Question: As the telencephalon enlarges and grows into the cranial cavity, it is limited by the space within what bone structure?
+Correct Answer: skull
+Distractors: skull, spine, rib cage
+  - skull: Similarity Score: 1.000000
+  - spine: Similarity Score: 0.295223
+  - rib cage: Similarity Score: 0.246744
+
+  - skull: Probability Score (good answer): 0.014017
+  - skull: Probability Score: 0.014017
+  - spine: Probability Score: 0.071225
+  - rib cage: Probability Score: 0.058382
+
+  - skull: Lexical Score: 1.000000
+  - spine: Lexical Score: 0.000000
+  - rib cage: Lexical Score: 0.000000
+
+Context: Repair and Replacement Damaged cardiac muscle cells have extremely limited abilities to repair themselves or to replace dead cells via mitosis. Recent evidence indicates that at least some stem cells remain within the heart that continue to divide and at least potentially replace these dead cells. However, newly formed or repaired cells are rarely as functional as the original cells, and cardiac function is reduced. In the event of a heart attack or MI, dead cells are often replaced by patches of scar tissue. Autopsies performed on individuals who had successfully received heart transplants show some proliferation of original cells. If researchers can unlock the mechanism that generates new cells and restore full mitotic capabilities to heart muscle, the prognosis for heart attack survivors will be greatly enhanced. To date, myocardial cells produced within the patient (in situ) by cardiac stem cells seem to be nonfunctional, although those grown in Petri dishes (in vitro) do beat. Perhaps soon this mystery will be solved, and new advances in treatment will be commonplace.
+Question: Recent evidence indicates some of what type of cells remain within the heart, continuing to divide and potentially replace dead cells?
+Correct Answer: stem cells
+Distractors: primitive cells, progenitor cells, basal cells.
+  - primitive cells: Similarity Score: 0.368279
+  - progenitor cells: Similarity Score: 0.505630
+  - basal cells.: Similarity Score: 0.304839
+
+  - stem cells: Probability Score (good answer): 0.771376
+  - primitive cells: Probability Score: 0.569439
+  - progenitor cells: Probability Score: 0.656837
+  - basal cells.: Probability Score: 0.731440
+
+  - primitive cells: Lexical Score: 0.333333
+  - progenitor cells: Lexical Score: 0.333333
+  - basal cells.: Lexical Score: 0.000000
+
+Context: Many arthropods have extremely important roles in ecosystems. Arthropods are of ecological importance because of their sheer numbers and extreme diversity. As mentioned above, bees, wasps, ants, butterflies, moths, flies and beetles are invaluable agents of pollination. Pollens and grains became accidentally attached to their chests and legs and are transferred to other agricultural crops as these animals move about, either by walking or flying. Most plants actually produce scents to send signals to insects that food (in the form of nectar) is available.
+Question: Bees, wasps, ants, butterflies, moths, flies and beetles belong to what animal phylum?
+Correct Answer: arthropods
+Distractors: vertebrates, mollusks, crustaceans.
+  - vertebrates: Similarity Score: 0.461310
+  - mollusks: Similarity Score: 0.298083
+  - crustaceans.: Similarity Score: 0.341203
+
+  - arthropods: Probability Score (good answer): 0.427054
+  - vertebrates: Probability Score: 0.505742
+  - mollusks: Probability Score: 0.066087
+  - crustaceans.: Probability Score: 0.231342
+
+  - vertebrates: Lexical Score: 0.000000
+  - mollusks: Lexical Score: 0.000000
+  - crustaceans.: Lexical Score: 0.000000
+
+Context: Like plants, all living things have the capacity for growth. The ducklings in Figure below have a lot of growing to do to catch up in size to their mother. Multicellular organisms like ducks grow by increasing the size and number of their cells. Single-celled organisms just grow in size.
+Question: How do multicellular organisms grow in size?
+Correct Answer: increase size and number of cells
+Distractors: increase number of cells, increase size of cells, increase number of cells and size of cells.
+  - increase number of cells: Similarity Score: 0.965828
+  - increase size of cells: Similarity Score: 0.942357
+  - increase number of cells and size of cells.: Similarity Score: 0.952698
+
+  - increase size and number of cells: Probability Score (good answer): 0.001195
+  - increase number of cells: Probability Score: 0.002695
+  - increase size of cells: Probability Score: 0.000712
+  - increase number of cells and size of cells.: Probability Score: 0.009374
+
+  - increase number of cells: Lexical Score: 0.666667
+  - increase size of cells: Lexical Score: 0.666667
+  - increase number of cells and size of cells.: Lexical Score: 0.857143
+
+Context: The cell membrane consists of two layers of phospholipids. Transport proteins are embedded in the layers. The movement of substances across the cell membrane may be by passive or active transport.
+Question: The cell membrane consists of two layers of what?
+Correct Answer: phospholipids
+Distractors: proteins, lipids, fats and oils.
+  - proteins: Similarity Score: 0.251211
+  - lipids: Similarity Score: 0.444010
+  - fats and oils.: Similarity Score: 0.254330
+
+  - phospholipids: Probability Score (good answer): 0.451448
+  - proteins: Probability Score: 0.347479
+  - lipids: Probability Score: 0.428541
+  - fats and oils.: Probability Score: 0.642581
+
+  - proteins: Lexical Score: 0.000000
+  - lipids: Lexical Score: 0.000000
+  - fats and oils.: Lexical Score: 0.000000
+
+Context: In a downhill ski race, surprisingly, little advantage is gained by getting a running start. (This is because the initial kinetic energy is small compared with the gain in gravitational potential energy on even small hills. ) To demonstrate this, find the final speed and the time taken for a skier who skies 70.0 m along a 30º slope neglecting friction: (a) Starting from rest. (b) Starting with an initial speed of 2.50 m/s. (c) Does the answer surprise you? Discuss why it is still advantageous to get a running start in very competitive events.
+Question: Downhill skiiers gain little advantage from a running start because the initial kinetic energy is small compared with the gain in what other energy form?
+Correct Answer: gravitational potential energy
+Distractors: kinetic energy, magnetic potential energy, gravitational potential energy
+  - kinetic energy: Similarity Score: 0.492685
+  - magnetic potential energy: Similarity Score: 0.765174
+  - gravitational potential energy: Similarity Score: 1.000000
+
+  - gravitational potential energy: Probability Score (good answer): 0.006507
+  - kinetic energy: Probability Score: 0.003322
+  - magnetic potential energy: Probability Score: 0.012212
+  - gravitational potential energy: Probability Score: 0.006507
+
+  - kinetic energy: Lexical Score: 0.250000
+  - magnetic potential energy: Lexical Score: 0.500000
+  - gravitational potential energy: Lexical Score: 1.000000
+
+Context: The retina is a membrane lining the back of the eye. The retina has nerve cells called rods and cones that change images to electrical signals. Rods are good at sensing dim light but can’t distinguish different colors of light. Cones can sense colors but not in dim light. There are three different types of cones. Each type senses one of the three primary colors of light.
+Question: What is the membrane lining the back of the eye called?
+Correct Answer: retina
+Distractors: retina, cornea, lens of the eye.
+  - retina: Similarity Score: 1.000000
+  - cornea: Similarity Score: 0.115668
+  - lens of the eye.: Similarity Score: 0.306725
+
+  - retina: Probability Score (good answer): 0.007262
+  - retina: Probability Score: 0.007262
+  - cornea: Probability Score: 0.056003
+  - lens of the eye.: Probability Score: 0.000009
+
+  - retina: Lexical Score: 1.000000
+  - cornea: Lexical Score: 0.000000
+  - lens of the eye.: Lexical Score: 0.000000
+
+Context: 
+Question: Animals breath in air in order to obtain what element?
+Correct Answer: oxygen
+Distractors: nitrogen, hydrogen, carbon dioxide.
+  - nitrogen: Similarity Score: 0.391618
+  - hydrogen: Similarity Score: 0.419061
+  - carbon dioxide.: Similarity Score: 0.494076
+
+  - oxygen: Probability Score (good answer): 0.451848
+  - nitrogen: Probability Score: 0.418264
+  - hydrogen: Probability Score: 0.476740
+  - carbon dioxide.: Probability Score: 0.690987
+
+  - nitrogen: Lexical Score: 0.000000
+  - hydrogen: Lexical Score: 0.000000
+  - carbon dioxide.: Lexical Score: 0.000000
+
+Context: A lipid is a member of a class of water-insoluble compounds that includes oils, fats, and waxes. Oils and fats are based on the same general structure, but fats are solids at room temperature, while oils are liquids. Butter is an example of a fat and is derived from animals. Some oils include olive oil and canola oil, which are obtained from plants. Lipids are an essential part of a healthy diet, though excess dietary fat can be harmful. Lipids store energy in the body and are also needed to keep cell membranes healthy.
+Question: What is the difference between oils and fats at room temperature?
+Correct Answer: liquid and solid states
+Distractors: solid and liquid states, liquid and solid states, solid and liquid states are the same at room temperature.
+  - solid and liquid states: Similarity Score: 0.919045
+  - liquid and solid states: Similarity Score: 1.000000
+  - solid and liquid states are the same at room temperature.: Similarity Score: 0.678658
+
+  - liquid and solid states: Probability Score (good answer): 0.000000
+  - solid and liquid states: Probability Score: 0.000001
+  - liquid and solid states: Probability Score: 0.000000
+  - solid and liquid states are the same at room temperature.: Probability Score: 0.003607
+
+  - solid and liquid states: Lexical Score: 1.000000
+  - liquid and solid states: Lexical Score: 1.000000
+  - solid and liquid states are the same at room temperature.: Lexical Score: 0.400000
+
+Context: The green scum in this canal consists of billions of single-celled green algae. Algae are plant-like microorganisms that produce food by photosynthesis.
+Question: Algae produce food using what process?
+Correct Answer: photosynthesis
+Distractors: chlorophyll, photosynthesis, respiration.
+  - chlorophyll: Similarity Score: 0.295909
+  - photosynthesis: Similarity Score: 1.000000
+  - respiration.: Similarity Score: 0.346168
+
+  - photosynthesis: Probability Score (good answer): 0.610235
+  - chlorophyll: Probability Score: 0.000239
+  - photosynthesis: Probability Score: 0.610235
+  - respiration.: Probability Score: 0.011826
+
+  - chlorophyll: Lexical Score: 0.000000
+  - photosynthesis: Lexical Score: 1.000000
+  - respiration.: Lexical Score: 0.000000
+
+Context: Problems can occur with red blood cells, white blood cells, platelets, and other parts of the blood. Many blood disorders are genetic, meaning they are inherited from a parent. Some blood diseases are caused by not getting enough of a certain nutrient, while others are cancers of the blood.
+Question: What kind of diffusion do small hydrophobic molecules squeeze through lipid molecules?
+Correct Answer: simple
+Distractors: simple, complex, slow diffusion.
+  - simple: Similarity Score: 1.000000
+  - complex: Similarity Score: 0.205757
+  - slow diffusion.: Similarity Score: 0.294285
+
+  - simple: Probability Score (good answer): 0.000150
+  - simple: Probability Score: 0.000150
+  - complex: Probability Score: 0.000000
+  - slow diffusion.: Probability Score: 0.004102
+
+  - simple: Lexical Score: 1.000000
+  - complex: Lexical Score: 0.000000
+  - slow diffusion.: Lexical Score: 0.000000
+
+Context: The general name for a group of atoms derived from an alkane is an alkyl group. The name of an alkyl group is derived from the name of the alkane by adding the suffix -yl. Thus the – CH3 fragment is a methyl group, the –CH2CH3 fragment is an ethyl group, and so forth, where the dash represents a single bond to some other atom or group. Similarly, groups of atoms derived from aromatic hydrocarbons are aryl groups, which sometimes have unexpected names. For example, the –C6H5 fragment is derived from benzene, but it is called a phenyl group. In general formulas and structures, alkyl and aryl groups are often abbreviated as R.
+Question: What is the general name for a group of atoms derived from an alkane?
+Correct Answer: alkyl group
+Distractors: alkyl group, alkyl chain, alkyl chain group
+  - alkyl group: Similarity Score: 1.000000
+  - alkyl chain: Similarity Score: 0.824077
+  - alkyl chain group: Similarity Score: 0.853275
+
+  - alkyl group: Probability Score (good answer): 0.510634
+  - alkyl group: Probability Score: 0.510634
+  - alkyl chain: Probability Score: 0.264712
+  - alkyl chain group: Probability Score: 0.538732
+
+  - alkyl group: Lexical Score: 1.000000
+  - alkyl chain: Lexical Score: 0.333333
+  - alkyl chain group: Lexical Score: 0.666667
+
+Context: The actual removal of wastes from the blood occurs in tiny units inside the kidneys called nephrons. Nephrons are the structural and functional units of the kidneys. A single kidney may have more than a million nephrons! This is further discussed in the Urinary System concept.
+Question: What are the structural and functional units of the kidneys?
+Correct Answer: nephrons
+Distractors: cells, blood vessels, organs.
+  - cells: Similarity Score: 0.101579
+  - blood vessels: Similarity Score: 0.133617
+  - organs.: Similarity Score: 0.247672
+
+  - nephrons: Probability Score (good answer): 0.305276
+  - cells: Probability Score: 0.063331
+  - blood vessels: Probability Score: 0.556181
+  - organs.: Probability Score: 0.216532
+
+  - cells: Lexical Score: 0.000000
+  - blood vessels: Lexical Score: 0.000000
+  - organs.: Lexical Score: 0.000000
+
+Context: The other type of curved mirror, a convex mirror, is shaped like the outside of a bowl. Because of its shape, it can gather and reflect light from a wide area. As you can see in the Figure below , a convex mirror forms only virtual images that are right-side up and smaller than the actual object. You can see how a convex mirror forms an image in the animation at this URL: http://physics. slss. ie/resources/convex%20mirror. swf.
+Question: What type of mirror is shaped like the outside of a bowl?
+Correct Answer: convex
+Distractors: convex, concave, concave mirror
+  - convex: Similarity Score: 1.000000
+  - concave: Similarity Score: 0.277381
+  - concave mirror: Similarity Score: 0.353799
+
+  - convex: Probability Score (good answer): 0.000000
+  - convex: Probability Score: 0.000000
+  - concave: Probability Score: 0.000054
+  - concave mirror: Probability Score: 0.067439
+
+  - convex: Lexical Score: 1.000000
+  - concave: Lexical Score: 0.000000
+  - concave mirror: Lexical Score: 0.000000
+
+Context: If a sperm does not enter an egg, the lining of the uterus breaks down. Blood and other tissues from the lining break off from the uterus. They pass through the vagina and out of the body. This is called menstruation . Menstruation is also called a menstrual period. It lasts about 4 days, on average. When the menstrual period ends, the cycle repeats. Some women feel discomfort during this process.
+Question: What cycle occurs in women of reproductive age, as a long as a sperm does not enter an egg?
+Correct Answer: menstrual cycle
+Distractors: menstrual cycle, menstrual cycle, ovulation cycle.
+  - menstrual cycle: Similarity Score: 1.000000
+  - menstrual cycle: Similarity Score: 1.000000
+  - ovulation cycle.: Similarity Score: 0.269907
+
+  - menstrual cycle: Probability Score (good answer): 0.238915
+  - menstrual cycle: Probability Score: 0.238915
+  - menstrual cycle: Probability Score: 0.238915
+  - ovulation cycle.: Probability Score: 0.102634
+
+  - menstrual cycle: Lexical Score: 1.000000
+  - menstrual cycle: Lexical Score: 1.000000
+  - ovulation cycle.: Lexical Score: 0.000000
+
+Context: Alpine tundra climates occur at high altitudes at any latitude. They are also called highland climates. These regions are very cold because they are so far above sea level. The alpine tundra climate is very similar to the polar tundra climate.
+Question: What causes the alpine tundra to be so cold?
+Correct Answer: high altitude above sea level
+Distractors: high altitude below sea level, high altitude above sea level, high altitude below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea
+  - high altitude below sea level: Similarity Score: 0.656737
+  - high altitude above sea level: Similarity Score: 1.000000
+  - high altitude below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea: Similarity Score: 0.711047
+
+  - high altitude above sea level: Probability Score (good answer): 0.000000
+  - high altitude below sea level: Probability Score: 0.000000
+  - high altitude above sea level: Probability Score: 0.000000
+  - high altitude below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea: Probability Score: 0.000001
+
+  - high altitude below sea level: Lexical Score: 0.666667
+  - high altitude above sea level: Lexical Score: 1.000000
+  - high altitude below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea level below sea: Lexical Score: 0.666667
+
+Context: 
+Question: Chewing insects mechanically damage plants and lessen the surface area of leaves for what?
+Correct Answer: photosynthesis
+Distractors: photosynthesis, pollination, respiration.
+  - photosynthesis: Similarity Score: 1.000000
+  - pollination: Similarity Score: 0.455572
+  - respiration.: Similarity Score: 0.346168
+
+  - photosynthesis: Probability Score (good answer): 0.000129
+  - photosynthesis: Probability Score: 0.000129
+  - pollination: Probability Score: 0.001430
+  - respiration.: Probability Score: 0.064930
+
+  - photosynthesis: Lexical Score: 1.000000
+  - pollination: Lexical Score: 0.000000
+  - respiration.: Lexical Score: 0.000000
+
+Context: Many chemists are currently working in the field of superconductivity. Superconductors are materials that are able to conduct electricity with 100% efficiency, meaning that no energy is lost during the electrical transmission, as happens with conventional conducting materials like copper cable. The challenge is to design materials that can act as superconductors at normal temperatures, as opposed to only being able to superconduct at very low temperatures.
+Question: What do you call materials able to conduct electricity with 100% efficiency, meaning that no energy is lost during the electrical transmission?
+Correct Answer: superconductors
+Distractors: insulators, conductors, semiconductors.
+  - insulators: Similarity Score: 0.397796
+  - conductors: Similarity Score: 0.831876
+  - semiconductors.: Similarity Score: 0.637832
+
+  - superconductors: Probability Score (good answer): 0.730578
+  - insulators: Probability Score: 0.687423
+  - conductors: Probability Score: 0.831992
+  - semiconductors.: Probability Score: 0.847597
+
+  - insulators: Lexical Score: 0.000000
+  - conductors: Lexical Score: 0.000000
+  - semiconductors.: Lexical Score: 0.000000
+
+Context: Mammalian lungs have millions of tiny air sacs called alveoli . They provide a very large surface area for gas exchange.
+Question: What are alveoli?
+Correct Answer: tiny air sacs in the lungs
+Distractors: tiny air sacs in the skin, tiny air sacs in the brain, tiny air sacs in the bone marrow.
+  - tiny air sacs in the skin: Similarity Score: 0.748868
+  - tiny air sacs in the brain: Similarity Score: 0.742705
+  - tiny air sacs in the bone marrow.: Similarity Score: 0.703090
+
+  - tiny air sacs in the lungs: Probability Score (good answer): 0.017182
+  - tiny air sacs in the skin: Probability Score: 0.001674
+  - tiny air sacs in the brain: Probability Score: 0.002846
+  - tiny air sacs in the bone marrow.: Probability Score: 0.026911
+
+  - tiny air sacs in the skin: Lexical Score: 0.714286
+  - tiny air sacs in the brain: Lexical Score: 0.714286
+  - tiny air sacs in the bone marrow.: Lexical Score: 0.625000
+
+Context: 43.5 Human Pregnancy and Birth Human pregnancy begins with fertilization of an egg and proceeds through the three trimesters of gestation. The labor process has three stages (contractions, delivery of the fetus, expulsion of the placenta), each propelled by hormones. The first trimester lays down the basic structures of the body, including the limb buds, heart, eyes, and the liver. The second trimester continues the development of all of the organs and systems. The third trimester exhibits the greatest growth of the fetus and culminates in labor and delivery. Prevention of a pregnancy can be accomplished through a variety of methods including barriers, hormones, or other means. Assisted reproductive technologies may help individuals who have infertility problems.
+Question: During a human pregnancy, which trimester exhibits the greatest growth of the fetus and culminates in labor and delivery?
+Correct Answer: third trimester
+Distractors: first trimester, second trimester, fourth trimester
+  - first trimester: Similarity Score: 0.718848
+  - second trimester: Similarity Score: 0.524063
+  - fourth trimester: Similarity Score: 0.705876
+
+  - third trimester: Probability Score (good answer): 0.471384
+  - first trimester: Probability Score: 0.667138
+  - second trimester: Probability Score: 0.566633
+  - fourth trimester: Probability Score: 0.473151
+
+  - first trimester: Lexical Score: 0.333333
+  - second trimester: Lexical Score: 0.333333
+  - fourth trimester: Lexical Score: 0.333333
+
+Context: Mineral Storage, Energy Storage, and Hematopoiesis On a metabolic level, bone tissue performs several critical functions. For one, the bone matrix acts as a reservoir for a number of minerals important to the functioning of the body, especially calcium, and phosphorus. These minerals, incorporated into bone tissue, can be released back into the bloodstream to maintain levels needed to support physiological processes. Calcium ions, for example, are essential for muscle contractions and controlling the flow of other ions involved in the transmission of nerve impulses. Bone also serves as a site for fat storage and blood cell production. The softer connective tissue that fills the interior of most bone is referred to as bone marrow (Figure 6.5). There are two types of bone marrow: yellow marrow and red marrow. Yellow marrow contains adipose tissue; the triglycerides stored in the adipocytes of the tissue can serve as a source of.
+Question: The softer connective tissue that fills the interior of most bone is referred to as what?
+Correct Answer: bone marrow
+Distractors: muscle marrow, marrow marrow, bone marrow marrow.
+  - muscle marrow: Similarity Score: 0.819840
+  - marrow marrow: Similarity Score: 0.726775
+  - bone marrow marrow.: Similarity Score: 0.967653
+
+  - bone marrow: Probability Score (good answer): 0.597804
+  - muscle marrow: Probability Score: 0.481381
+  - marrow marrow: Probability Score: 0.730826
+  - bone marrow marrow.: Probability Score: 0.633449
+
+  - muscle marrow: Lexical Score: 0.333333
+  - marrow marrow: Lexical Score: 0.500000
+  - bone marrow marrow.: Lexical Score: 0.666667
+
+Context: Cardiac muscle is found only in the walls of the heart. When cardiac muscle contracts, the heart beats and pumps blood. Cardiac muscle contains a great many mitochondria, which produce ATP for energy. This helps the heart resist fatigue. Contractions of cardiac muscle are involuntary, like those of smooth muscle. Cardiac muscle, like skeletal muscle, is arranged in bundles, so it appears striated , or striped.
+Question: Cardiac muscle is found only in which part of the heart?
+Correct Answer: the walls
+Distractors: the walls, the sides, the bottom of the heart.
+  - the walls: Similarity Score: 1.000000
+  - the sides: Similarity Score: 0.298866
+  - the bottom of the heart.: Similarity Score: 0.249022
+
+  - the walls: Probability Score (good answer): 0.001861
+  - the walls: Probability Score: 0.001861
+  - the sides: Probability Score: 0.013419
+  - the bottom of the heart.: Probability Score: 0.292004
+
+  - the walls: Lexical Score: 1.000000
+  - the sides: Lexical Score: 0.333333
+  - the bottom of the heart.: Lexical Score: 0.200000
+
+Context: Mediterranean climates are found on the western coasts of continents. The latitudes are between 30° and 45°. The coast of California has a Mediterranean climate. Temperatures are mild and rainfall is moderate. Most of the rain falls in the winter, and summers are dry. To make it through the dry summers, short woody plants are common.
+Question: What type of climate does the coast of california have?
+Correct Answer: mediterranean
+Distractors: polar, tropical, desert climate.
+  - polar: Similarity Score: 0.127130
+  - tropical: Similarity Score: 0.303585
+  - desert climate.: Similarity Score: 0.256571
+
+  - mediterranean: Probability Score (good answer): 0.325855
+  - polar: Probability Score: 0.006263
+  - tropical: Probability Score: 0.504379
+  - desert climate.: Probability Score: 0.392029
+
+  - polar: Lexical Score: 0.000000
+  - tropical: Lexical Score: 0.000000
+  - desert climate.: Lexical Score: 0.000000
+
+Context: No charge is actually created or destroyed when charges are separated as we have been discussing. Rather, existing charges are moved about. In fact, in all situations the total amount of charge is always constant. This universally obeyed law of nature is called the law of conservation of charge. Law of Conservation of Charge Total charge is constant in any process.
+Question: No charge is actually created or destroyed when charges are separated as we have been discussing. rather, existing charges are moved about. in fact, in all situations the total amount of charge is always this?
+Correct Answer: constant
+Distractors: constant, dependent, variable.
+  - constant: Similarity Score: 1.000000
+  - dependent: Similarity Score: 0.458148
+  - variable.: Similarity Score: 0.253813
+
+  - constant: Probability Score (good answer): 0.000000
+  - constant: Probability Score: 0.000000
+  - dependent: Probability Score: 0.000000
+  - variable.: Probability Score: 0.000001
+
+  - constant: Lexical Score: 1.000000
+  - dependent: Lexical Score: 0.000000
+  - variable.: Lexical Score: 0.000000
+
+Context: Water pollution comes from many sources. One of the biggest sources is runoff. Runoff picks up chemicals such as fertilizer from agricultural fields, lawns, and golf courses. It carries the chemicals to bodies of water. The added nutrients from fertilizer often cause excessive growth of algae, creating algal blooms (see Figure below ). The algae use up oxygen in the water so that other aquatic organisms cannot survive. This has occurred over large areas of the ocean, creating dead zones , where low oxygen levels have killed all ocean life. A very large dead zone exists in the Gulf of Mexico. Measures that can help prevent these problems include cutting down on fertilizer use. Preserving wetlands also helps because wetlands filter runoff water.
+Question: The added nutrients from fertilizer often cause excessive growth of what organism?
+Correct Answer: algae
+Distractors: bacteria, fungi, plants and animals.
+  - bacteria: Similarity Score: 0.180363
+  - fungi: Similarity Score: 0.362689
+  - plants and animals.: Similarity Score: 0.250429
+
+  - algae: Probability Score (good answer): 0.091023
+  - bacteria: Probability Score: 0.432011
+  - fungi: Probability Score: 0.498473
+  - plants and animals.: Probability Score: 0.411317
+
+  - bacteria: Lexical Score: 0.000000
+  - fungi: Lexical Score: 0.000000
+  - plants and animals.: Lexical Score: 0.000000
+
+Context: Two plates may slide past each other in opposite directions. This is called a transform plate boundary . The plates meet at a transform fault . As you might imagine, plates do not slide past each other easily. These plate boundaries experience massive earthquakes. The world’s best known transform fault is the San Andreas Fault in California ( Figure below ). At this fault, the Pacific and North American plates grind past each other. Transform plate boundaries are common as offsets along mid-ocean ridges. They are very small compared to transform faults on land.
+Question: What is it called when two plates slide past each other in opposite directions?
+Correct Answer: transform plate boundary
+Distractors: plate collision, transform fault, transform plate boundary collision.
+  - plate collision: Similarity Score: 0.568218
+  - transform fault: Similarity Score: 0.496489
+  - transform plate boundary collision.: Similarity Score: 0.839556
+
+  - transform plate boundary: Probability Score (good answer): 0.000367
+  - plate collision: Probability Score: 0.005639
+  - transform fault: Probability Score: 0.003506
+  - transform plate boundary collision.: Probability Score: 0.000881
+
+  - plate collision: Lexical Score: 0.250000
+  - transform fault: Lexical Score: 0.250000
+  - transform plate boundary collision.: Lexical Score: 0.750000
+
+Context: Water’s Solvent Properties Since water is a polar molecule with slightly positive and slightly negative charges, ions and polar molecules can readily dissolve in it. Therefore, water is referred to as a solvent, a substance capable of dissolving other polar molecules and ionic compounds. The charges associated with these molecules will form hydrogen bonds with water, surrounding the particle with water molecules. This is referred to as a sphere of hydration, or a hydration shell, as illustrated in Figure 2.15 and serves to keep the particles separated or dispersed in the water. When ionic compounds are added to water, the individual ions react with the polar regions of the water molecules and their ionic bonds are disrupted in the process of dissociation. Dissociation occurs when atoms or groups of atoms break off from molecules and form ions. Consider table salt (NaCl, or sodium chloride): when NaCl crystals are added to water, the molecules of NaCl dissociate into Na+ and Cl– ions, and spheres of hydration form around the ions, illustrated in Figure 2.15. The positively charged sodium ion is surrounded by the partially negative charge of the water molecule’s oxygen. The negatively charged chloride ion is surrounded by the partially positive charge of the hydrogen on the water molecule.
+Question: Water is considered a what since it is a polar molecule with slightly positive and slightly negative charges, so ions and polar molecules can readily dissolve in it?
+Correct Answer: solvent
+Distractors: solvent, gas, liquid.
+  - solvent: Similarity Score: 1.000000
+  - gas: Similarity Score: 0.177079
+  - liquid.: Similarity Score: 0.442841
+
+  - solvent: Probability Score (good answer): 0.000021
+  - solvent: Probability Score: 0.000021
+  - gas: Probability Score: 0.000002
+  - liquid.: Probability Score: 0.000001
+
+  - solvent: Lexical Score: 1.000000
+  - gas: Lexical Score: 0.000000
+  - liquid.: Lexical Score: 0.000000
+
+Context: Some seed plants evolved another major adaptation. This was the formation of seeds in flowers. Flowers are plant structures that contain male and/or female reproductive organs.
+Question: What are plant structures that contain male and/or female reproductive organs?
+Correct Answer: flowers
+Distractors: leaves, fruits, stems.
+  - leaves: Similarity Score: 0.271566
+  - fruits: Similarity Score: 0.286604
+  - stems.: Similarity Score: 0.185029
+
+  - flowers: Probability Score (good answer): 0.494157
+  - leaves: Probability Score: 0.163964
+  - fruits: Probability Score: 0.188783
+  - stems.: Probability Score: 0.716483
+
+  - leaves: Lexical Score: 0.000000
+  - fruits: Lexical Score: 0.000000
+  - stems.: Lexical Score: 0.000000
+
+Context: It literally jumps by way of a chemical transmitter. Notice the two cells are not connected, but separated by a small gap. The synapse. The space between a neuron and the next cell.
+Question: What is the space between a neuron and the next cell?
+Correct Answer: the synapse
+Distractors: the synapse, the neuron, the nucleus of the neuron.
+  - the synapse: Similarity Score: 1.000000
+  - the neuron: Similarity Score: 0.416866
+  - the nucleus of the neuron.: Similarity Score: 0.383366
+
+  - the synapse: Probability Score (good answer): 0.064190
+  - the synapse: Probability Score: 0.064190
+  - the neuron: Probability Score: 0.000002
+  - the nucleus of the neuron.: Probability Score: 0.033353
+
+  - the synapse: Lexical Score: 1.000000
+  - the neuron: Lexical Score: 0.333333
+  - the nucleus of the neuron.: Lexical Score: 0.200000
+
+Context: Macronutrients are nutrients the body needs in relatively large amounts. They include carbohydrates, proteins, lipids, and water.
+Question: What do you call nutrients that your body needs in fairly large amounts?
+Correct Answer: macronutrients
+Distractors: minerals, vitamins, proteins and carbohydrates only are macronutrients.
+  - minerals: Similarity Score: 0.329082
+  - vitamins: Similarity Score: 0.276175
+  - proteins and carbohydrates only are macronutrients.: Similarity Score: 0.543971
+
+  - macronutrients: Probability Score (good answer): 0.826366
+  - minerals: Probability Score: 0.547298
+  - vitamins: Probability Score: 0.682461
+  - proteins and carbohydrates only are macronutrients.: Probability Score: 0.499147
+
+  - minerals: Lexical Score: 0.000000
+  - vitamins: Lexical Score: 0.000000
+  - proteins and carbohydrates only are macronutrients.: Lexical Score: 0.000000
+
+Context: Multiple Voltage Sources There are two voltage sources when a battery charger is used. Voltage sources connected in series are relatively simple. When voltage sources are in series, their internal resistances add and their emfs add algebraically. (See Figure 21.15. ) Series connections of voltage sources are common—for example, in flashlights, toys, and other appliances. Usually, the cells are in series in order to produce a larger total emf. But if the cells oppose one another, such as when one is put into an appliance backward, the total emf is less, since it is the algebraic sum of the individual emfs. A battery is a multiple connection of voltaic cells, as shown in Figure 21.16. The disadvantage of series connections of cells is that their internal resistances add. One of the authors once owned a 1957 MGA that had two 6-V batteries in series, rather than a single 12-V battery. This arrangement produced a large internal resistance that caused him many problems in starting the engine.
+Question: A battery is a multiple connection of what kind of cells?
+Correct Answer: voltaic cells
+Distractors: voltaic cells, voltaic plates, voltaic coils
+  - voltaic cells: Similarity Score: 1.000000
+  - voltaic plates: Similarity Score: 0.882851
+  - voltaic coils: Similarity Score: 0.946549
+
+  - voltaic cells: Probability Score (good answer): 0.060041
+  - voltaic cells: Probability Score: 0.060041
+  - voltaic plates: Probability Score: 0.000269
+  - voltaic coils: Probability Score: 0.000156
+
+  - voltaic cells: Lexical Score: 1.000000
+  - voltaic plates: Lexical Score: 0.333333
+  - voltaic coils: Lexical Score: 0.333333
+
+Context: 
+Question: What form of reproduction creates offspring that are genetically identical to the parent?
+Correct Answer: asexual
+Distractors: asexual, sexual, mitosis and meiosis
+  - asexual: Similarity Score: 1.000000
+  - sexual: Similarity Score: 0.762091
+  - mitosis and meiosis: Similarity Score: 0.067795
+
+  - asexual: Probability Score (good answer): 0.076880
+  - asexual: Probability Score: 0.076880
+  - sexual: Probability Score: 0.008289
+  - mitosis and meiosis: Probability Score: 0.022886
+
+  - asexual: Lexical Score: 1.000000
+  - sexual: Lexical Score: 0.000000
+  - mitosis and meiosis: Lexical Score: 0.000000
+
+Context: Primary Motor Cortex The primary motor cortex is located in the precentral gyrus of the frontal lobe. A neurosurgeon, Walter Penfield, described much of the basic understanding of the primary motor cortex by electrically stimulating the surface of the cerebrum. Penfield would probe the surface of the cortex while the patient was only under local anesthesia so that he could observe responses to the stimulation. This led to the belief that the precentral gyrus directly stimulated muscle movement. We now know that the primary motor cortex receives input from several areas that aid in planning movement, and its principle output stimulates spinal cord neurons to stimulate skeletal muscle contraction. The primary motor cortex is arranged in a similar fashion to the primary somatosensory cortex, in that it has a topographical map of the body, creating a motor homunculus (see Figure 14.23). The neurons responsible for musculature in the feet and lower legs are in the medial wall of the precentral gyrus, with the thighs, trunk, and shoulder at the crest of the longitudinal fissure. The hand and face are in the lateral face of the gyrus. Also, the relative space allotted for the different regions is exaggerated in muscles that have greater enervation. The greatest amount of cortical space is given to muscles that perform fine, agile movements, such as the muscles of the fingers and the lower face. The “power muscles” that perform coarser movements, such as the buttock and back muscles, occupy much less space on the motor cortex.
+Question: The primary motor cortex is located in which lobe of the brain?
+Correct Answer: frontal
+Distractors: parietal, temporal, occipital.
+  - parietal: Similarity Score: 0.150872
+  - temporal: Similarity Score: 0.219800
+  - occipital.: Similarity Score: 0.181686
+
+  - frontal: Probability Score (good answer): 0.718212
+  - parietal: Probability Score: 0.642341
+  - temporal: Probability Score: 0.559078
+  - occipital.: Probability Score: 0.275375
+
+  - parietal: Lexical Score: 0.000000
+  - temporal: Lexical Score: 0.000000
+  - occipital.: Lexical Score: 0.000000
+
+Context: The scales of reptiles prevent them from absorbing oxygen through their skin, as amphibians can. Instead, reptiles breathe air only through their lungs. However, their lungs are more efficient than the lungs of amphibians, with more surface area for gas exchange. This is another important reptile adaptation for life on land.
+Question: What are reptiles unable to absorb through their skin because of scales?
+Correct Answer: oxygen
+Distractors: oxygen, nitrogen, carbon dioxide.
+  - oxygen: Similarity Score: 1.000000
+  - nitrogen: Similarity Score: 0.391618
+  - carbon dioxide.: Similarity Score: 0.494076
+
+  - oxygen: Probability Score (good answer): 0.000028
+  - oxygen: Probability Score: 0.000028
+  - nitrogen: Probability Score: 0.000185
+  - carbon dioxide.: Probability Score: 0.006917
+
+  - oxygen: Lexical Score: 1.000000
+  - nitrogen: Lexical Score: 0.000000
+  - carbon dioxide.: Lexical Score: 0.000000
+
+Context: 
+Question: What 3 things do animals need to live and survive?
+Correct Answer: air, water, and food
+Distractors: oxygen, water, and food, carbon, water, and food, oxygen, water, and energy.
+  - oxygen, water, and food: Similarity Score: 0.573237
+  - carbon, water, and food: Similarity Score: 0.718999
+  - oxygen, water, and energy.: Similarity Score: 0.347493
+
+  - air, water, and food: Probability Score (good answer): 0.773623
+  - oxygen, water, and food: Probability Score: 0.818333
+  - carbon, water, and food: Probability Score: 0.734735
+  - oxygen, water, and energy.: Probability Score: 0.772024
+
+  - oxygen, water, and food: Lexical Score: 0.600000
+  - carbon, water, and food: Lexical Score: 0.600000
+  - oxygen, water, and energy.: Lexical Score: 0.333333
+
+Context: One of the most important series of endothermic reactions is photosynthesis. In photosynthesis, plants make the simple sugar glucose (C 6 H 12 O 6 ) from carbon dioxide (CO 2 ) and water (H 2 O). They also release oxygen (O 2 ) in the process. The reactions of photosynthesis are summed up by this chemical equation:.
+Question: What is the process by which plants make the simple sugar glucose from carbon dioxide and water is called?
+Correct Answer: photosynthesis
+Distractors: respiration, oxidation, transpiration.
+  - respiration: Similarity Score: 0.333364
+  - oxidation: Similarity Score: 0.312468
+  - transpiration.: Similarity Score: 0.404846
+
+  - photosynthesis: Probability Score (good answer): 0.885675
+  - respiration: Probability Score: 0.663562
+  - oxidation: Probability Score: 0.833069
+  - transpiration.: Probability Score: 0.714733
+
+  - respiration: Lexical Score: 0.000000
+  - oxidation: Lexical Score: 0.000000
+  - transpiration.: Lexical Score: 0.000000
+
+Context: Protists get food through ingestion, absorption, or photosynthesis.
+Question: Besides ingesting and photosynthesis how can protists get their food?
+Correct Answer: absorption
+Distractors: absorption, absorption, reproduction.
+  - absorption: Similarity Score: 1.000000
+  - absorption: Similarity Score: 1.000000
+  - reproduction.: Similarity Score: 0.411148
+
+  - absorption: Probability Score (good answer): 0.014555
+  - absorption: Probability Score: 0.014555
+  - absorption: Probability Score: 0.014555
+  - reproduction.: Probability Score: 0.168934
+
+  - absorption: Lexical Score: 1.000000
+  - absorption: Lexical Score: 1.000000
+  - reproduction.: Lexical Score: 0.000000
+
+Context: The branchial arches , a series of arches that support the gills of aquatic amphibians and fishes. They lie close to the body's surface.
+Question: A series of arches that support the gills of aquatic amphibians and fish are known as what?
+Correct Answer: branchial arches
+Distractors: dorsal arches, cervical arches, pelvic arches.
+  - dorsal arches: Similarity Score: 0.616598
+  - cervical arches: Similarity Score: 0.589882
+  - pelvic arches.: Similarity Score: 0.466396
+
+  - branchial arches: Probability Score (good answer): 0.563483
+  - dorsal arches: Probability Score: 0.491056
+  - cervical arches: Probability Score: 0.149923
+  - pelvic arches.: Probability Score: 0.659016
+
+  - dorsal arches: Lexical Score: 0.333333
+  - cervical arches: Lexical Score: 0.333333
+  - pelvic arches.: Lexical Score: 0.000000
+
+Context: Birds are thought to have evolved from a group of bipedal dinosaurs called theropods . The ancestor of birds was probably similar to the theropod called Deinonychus, which is represented by the sketch in Figure below . Fossils of Deinonychus were first identified in the 1960s. This was an extremely important discovery. It finally convinced most scientists that birds had descended from dinosaurs, which had been debated for almost a century.
+Question: Birds are thought to have evolved from a group of bipedal dinosaurs called what?
+Correct Answer: therapods
+Distractors: pterosaurs, dinosaurs, amphibians.
+  - pterosaurs: Similarity Score: 0.538808
+  - dinosaurs: Similarity Score: 0.377250
+  - amphibians.: Similarity Score: 0.341453
+
+  - therapods: Probability Score (good answer): 0.514878
+  - pterosaurs: Probability Score: 0.677767
+  - dinosaurs: Probability Score: 0.139478
+  - amphibians.: Probability Score: 0.357593
+
+  - pterosaurs: Lexical Score: 0.000000
+  - dinosaurs: Lexical Score: 0.000000
+  - amphibians.: Lexical Score: 0.000000
+
+Context: Each of the thousands of naturally occurring proteins has its own characteristic amino acid composition and sequence that result in a unique three-dimensional shape. Since the 1950s, scientists have determined the amino acid sequences and three-dimensional conformation of numerous proteins and thus obtained important clues on how each protein performs its specific function in the body. Proteins are compounds of high molar mass consisting largely or entirely of chains of amino acids. Because of their great complexity, protein molecules cannot be classified on the basis of specific structural similarities, as carbohydrates and lipids are categorized. The two major structural classifications of proteins are based on far more general qualities: whether the protein is (1) fiberlike and insoluble or (2) globular and soluble. Some proteins, such as those that compose hair, skin, muscles, and connective tissue, are fiberlike. These fibrous proteins are insoluble in water and usually serve structural, connective, and protective functions. Examples of fibrous proteins are keratins, collagens, myosins, and elastins. Hair and the outer layer of skin are composed of keratin. Connective tissues contain collagen. Myosins are muscle proteins and are capable of contraction and extension. Elastins are found in ligaments and the elastic tissue of artery walls. Globular proteins, the other major class, are soluble in aqueous media. In these proteins, the chains are folded so that the molecule as a whole is roughly spherical. Familiar examples include egg albumin from egg whites and serum albumin in blood. Serum albumin plays a major role in transporting fatty acids and maintaining a proper balance of osmotic pressures in the body. Hemoglobin and myoglobin, which are important for binding oxygen, are also globular proteins.
+Question: Proteins are categorized according to shape and what property, which correlates with it?
+Correct Answer: solubility
+Distractors: solubility, viscosity, density.
+  - solubility: Similarity Score: 1.000000
+  - viscosity: Similarity Score: 0.138964
+  - density.: Similarity Score: 0.151007
+
+  - solubility: Probability Score (good answer): 0.607519
+  - solubility: Probability Score: 0.607519
+  - viscosity: Probability Score: 0.412824
+  - density.: Probability Score: 0.748545
+
+  - solubility: Lexical Score: 1.000000
+  - viscosity: Lexical Score: 0.000000
+  - density.: Lexical Score: 0.000000
+
+Context: The percent yield is determined by calculating the ratio of actual yield/theoretical yield.
+Question: The percent yield is determined by calculating the ratio of actual yield by what?
+Correct Answer: theoretical yield
+Distractors: theoretical yield, maximum yield, theoretical volume yield.
+  - theoretical yield: Similarity Score: 1.000000
+  - maximum yield: Similarity Score: 0.641294
+  - theoretical volume yield.: Similarity Score: 0.818981
+
+  - theoretical yield: Probability Score (good answer): 0.000240
+  - theoretical yield: Probability Score: 0.000240
+  - maximum yield: Probability Score: 0.000335
+  - theoretical volume yield.: Probability Score: 0.120240
+
+  - theoretical yield: Lexical Score: 1.000000
+  - maximum yield: Lexical Score: 0.333333
+  - theoretical volume yield.: Lexical Score: 0.250000
+
+Context: Sensory neurons carry nerve impulses from sense organs and internal organs to the central nervous system.
+Question: What neurons carry nerve impulses from sense organs and internal organs to the central nervous system?
+Correct Answer: sensory
+Distractors: sensory neurons, nerve cells, motor neurons.
+  - sensory neurons: Similarity Score: 0.854617
+  - nerve cells: Similarity Score: 0.353793
+  - motor neurons.: Similarity Score: 0.537514
+
+  - sensory: Probability Score (good answer): 0.001835
+  - sensory neurons: Probability Score: 0.506948
+  - nerve cells: Probability Score: 0.338954
+  - motor neurons.: Probability Score: 0.717913
+
+  - sensory neurons: Lexical Score: 0.500000
+  - nerve cells: Lexical Score: 0.000000
+  - motor neurons.: Lexical Score: 0.000000
+
+Context: Sebaceous Glands A sebaceous gland is a type of oil gland that is found all over the body and helps to lubricate and waterproof the skin and hair. Most sebaceous glands are associated with hair follicles. They generate and excrete sebum, a mixture of lipids, onto the skin surface, thereby naturally lubricating the dry and dead layer of keratinized cells of the stratum corneum, keeping it pliable. The fatty acids of sebum also have antibacterial properties, and prevent water loss from the skin in low-humidity environments. The secretion of sebum is stimulated by hormones, many of which do not become active until puberty. Thus, sebaceous glands are relatively inactive during childhood.
+Question: Associated with hair follicles, what type of oil gland is found all over the body and helps to lubricate and waterproof the skin and hair?
+Correct Answer: sebaceous gland
+Distractors: sweat gland, salivary gland, sebaceous gland
+  - sweat gland: Similarity Score: 0.358830
+  - salivary gland: Similarity Score: 0.446112
+  - sebaceous gland: Similarity Score: 1.000000
+
+  - sebaceous gland: Probability Score (good answer): 0.572444
+  - sweat gland: Probability Score: 0.266248
+  - salivary gland: Probability Score: 0.572571
+  - sebaceous gland: Probability Score: 0.572444
+
+  - sweat gland: Lexical Score: 0.333333
+  - salivary gland: Lexical Score: 0.333333
+  - sebaceous gland: Lexical Score: 1.000000
+
+Context: Scientific skepticism questions claims based on their scientific verifiability rather than accepting claims based on faith or anecdotes. Scientific skepticism uses critical thinking to analyze such claims and opposes claims which lack scientific evidence.
+Question: Questioning claims based on their scientific verifiability rather than accepting claims based on faith or anecdotes is called what?
+Correct Answer: scientific skepticism
+Distractors: scientific skepticism, scientific doubt, scientific uncertainty.
+  - scientific skepticism: Similarity Score: 1.000000
+  - scientific doubt: Similarity Score: 0.915878
+  - scientific uncertainty.: Similarity Score: 0.811681
+
+  - scientific skepticism: Probability Score (good answer): 0.741792
+  - scientific skepticism: Probability Score: 0.741792
+  - scientific doubt: Probability Score: 0.755085
+  - scientific uncertainty.: Probability Score: 0.263885
+
+  - scientific skepticism: Lexical Score: 1.000000
+  - scientific doubt: Lexical Score: 0.333333
+  - scientific uncertainty.: Lexical Score: 0.333333
+
+Context: Like the animals pictured above, all animals have behaviors that help them achieve these basic ends. Behaviors that help animals reproduce or survive increase their fitness. Animals with greater fitness have a better chance of passing their genes to the next generation. If genes control behaviors that increase fitness, the behaviors become more common in the species. In other words, they evolve by natural selection.
+Question: Animals with better fitness have a better chance of passing their genes onto the next generation, this process is known as?
+Correct Answer: natural selection
+Distractors: genetic drift, mutation, evolution of the species.
+  - genetic drift: Similarity Score: 0.456782
+  - mutation: Similarity Score: 0.239629
+  - evolution of the species.: Similarity Score: 0.363429
+
+  - natural selection: Probability Score (good answer): 0.781038
+  - genetic drift: Probability Score: 0.831395
+  - mutation: Probability Score: 0.781490
+  - evolution of the species.: Probability Score: 0.686247
+
+  - genetic drift: Lexical Score: 0.000000
+  - mutation: Lexical Score: 0.000000
+  - evolution of the species.: Lexical Score: 0.000000
+
+Context: Earth's axis is an imaginary line passing through the North and South Poles. Earth's rotation is its spins on its axis. Rotation is what a top does around its spindle. As Earth spins on its axis, it also orbits around the Sun. This is called Earth's revolution . These motions lead to the cycles we see. Day and night, seasons, and the tides are caused by Earth's motions.
+Question: Earth's axis is an imaginary line passing through which poles?
+Correct Answer: north and south
+Distractors: south and north, north and east, south and west.
+  - south and north: Similarity Score: 0.954821
+  - north and east: Similarity Score: 0.351682
+  - south and west.: Similarity Score: 0.496765
+
+  - north and south: Probability Score (good answer): 0.010749
+  - south and north: Probability Score: 0.022972
+  - north and east: Probability Score: 0.013034
+  - south and west.: Probability Score: 0.039752
+
+  - south and north: Lexical Score: 1.000000
+  - north and east: Lexical Score: 0.500000
+  - south and west.: Lexical Score: 0.500000
+
+Context: Above the meristem, the rest of the root is covered with a single layer of epidermal cells. These cells may have root hairs that increase the surface area for the absorption of water and minerals from the soil. Beneath the epidermis is ground tissue, which may be filled with stored starch. Bundles of vascular tissues form the center of the root. Waxy layers waterproof the vascular tissues so they don’t leak, making them more efficient at carrying fluids. Secondary meristem is located within and around the vascular tissues. This is where growth in thickness occurs.
+Question: Above the meristem, the rest of the root is covered with a single layer of what type of cells, which may have root hairs?
+Correct Answer: epidermal
+Distractors: epidermal, fibroblast, endothelial cells.
+  - epidermal: Similarity Score: 1.000000
+  - fibroblast: Similarity Score: 0.186902
+  - endothelial cells.: Similarity Score: 0.455484
+
+  - epidermal: Probability Score (good answer): 0.003273
+  - epidermal: Probability Score: 0.003273
+  - fibroblast: Probability Score: 0.020176
+  - endothelial cells.: Probability Score: 0.098323
+
+  - epidermal: Lexical Score: 1.000000
+  - fibroblast: Lexical Score: 0.000000
+  - endothelial cells.: Lexical Score: 0.000000
+
+Context: Decomposers break down dead organisms and other organic wastes and release inorganic molecules back to the environment.
+Question: What break down dead organisms and other organic waste and release inorganic molecules back to the environment called?
+Correct Answer: decomposers
+Distractors: decomposers, degraders, decomposers and degraders.
+  - decomposers: Similarity Score: 1.000000
+  - degraders: Similarity Score: 0.352200
+  - decomposers and degraders.: Similarity Score: 0.921070
+
+  - decomposers: Probability Score (good answer): 0.060515
+  - decomposers: Probability Score: 0.060515
+  - degraders: Probability Score: 0.026710
+  - decomposers and degraders.: Probability Score: 0.015462
+
+  - decomposers: Lexical Score: 1.000000
+  - degraders: Lexical Score: 0.000000
+  - decomposers and degraders.: Lexical Score: 0.333333
+
+Context: The variety of cell shapes seen in prokaryotes and eukaryotes reflects the functions that each cell has, confirming the structure-function relationship seen throughout biology. Each cell type has evolved a shape that is best related to its function. For example, the neuron in Figure below has long, thin extensions ( axons and dendritres ) that reach out to other nerve cells. The extensions help the neuron pass chemical and electrical messages quickly through the body. The shape of the red blood cells ( erythrocytes ) enable these cells to easily move through capillaries . The spikes on the pollen grain help it stick to a pollinating insect or animal so that it can be transferred to and pollinate another flower. The long whip-like flagella (tails) of the algae Chlamydomonas help it swim in water.
+Question: The variety of cell shapes seen in prokaryotes and eukaryotes reflects the functions that each what has?
+Correct Answer: cell
+Distractors: cell, nucleus, membrane
+  - cell: Similarity Score: 1.000000
+  - nucleus: Similarity Score: 0.340758
+  - membrane: Similarity Score: 0.336868
+
+  - cell: Probability Score (good answer): 0.000008
+  - cell: Probability Score: 0.000008
+  - nucleus: Probability Score: 0.002854
+  - membrane: Probability Score: 0.003861
+
+  - cell: Lexical Score: 1.000000
+  - nucleus: Lexical Score: 0.000000
+  - membrane: Lexical Score: 0.000000
+
+Context: Many lands are marginal for farming. When rainfall is normal or high, the lands can produce. When rainfall is low, no crops grow. Drought makes marginal lands unsuitable for farming. Drought can also make good lands more difficult to farm. These changes will increase as temperatures warm.
+Question: What makes marginal lands unsuitable for farming?
+Correct Answer: drought
+Distractors: pollution, flooding, drought and flooding both make marginal lands unsuitable for farming.
+  - pollution: Similarity Score: 0.191089
+  - flooding: Similarity Score: 0.335118
+  - drought and flooding both make marginal lands unsuitable for farming.: Similarity Score: 0.619782
+
+  - drought: Probability Score (good answer): 0.003909
+  - pollution: Probability Score: 0.002220
+  - flooding: Probability Score: 0.000019
+  - drought and flooding both make marginal lands unsuitable for farming.: Probability Score: 0.940612
+
+  - pollution: Lexical Score: 0.000000
+  - flooding: Lexical Score: 0.000000
+  - drought and flooding both make marginal lands unsuitable for farming.: Lexical Score: 0.100000
+
+Context: Atoms of a given element are identical in size, mass, and other properties. Atoms of different elements differ in size, mass, and other properties.
+Question: Atoms of a given _______ are identical in size, mass, and other properties.
+Correct Answer: element
+Distractors: element, element, element and mass
+  - element: Similarity Score: 1.000000
+  - element: Similarity Score: 1.000000
+  - element and mass: Similarity Score: 0.734719
+
+  - element: Probability Score (good answer): 0.000007
+  - element: Probability Score: 0.000007
+  - element: Probability Score: 0.000007
+  - element and mass: Probability Score: 0.000055
+
+  - element: Lexical Score: 1.000000
+  - element: Lexical Score: 1.000000
+  - element and mass: Lexical Score: 0.333333
+
+Context: Animals are a kingdom of multicellular eukaryotes. They cannot make their own food. Instead, they get nutrients by eating other living things. Therefore, animals are heterotrophs.
+Question: Animals are heterotrophs, which means that they cannot make their own what?
+Correct Answer: food
+Distractors: water, air, oxygen 1) animals are heterotrophs, which means that they cannot make their own food. Instead, they get nutrients by eating other living things. Therefore, animals are heterotrophs. 
+  - water: Similarity Score: 0.037971
+  - air: Similarity Score: 0.171718
+  - oxygen 1) animals are heterotrophs, which means that they cannot make their own food. Instead, they get nutrients by eating other living things. Therefore, animals are heterotrophs. : Similarity Score: 0.127086
+
+  - food: Probability Score (good answer): 0.000318
+  - water: Probability Score: 0.000268
+  - air: Probability Score: 0.000000
+  - oxygen 1) animals are heterotrophs, which means that they cannot make their own food. Instead, they get nutrients by eating other living things. Therefore, animals are heterotrophs. : Probability Score: 0.988957
+
+  - water: Lexical Score: 0.000000
+  - air: Lexical Score: 0.000000
+  - oxygen 1) animals are heterotrophs, which means that they cannot make their own food. Instead, they get nutrients by eating other living things. Therefore, animals are heterotrophs. : Lexical Score: 0.000000
+
+Context: When a nerve impulse reaches the end of an axon, the axon releases chemicals called neurotransmitters .
+Question: When a nerve impulse reaches the end of an axon, what are the chemicals released by the axon called?
+Correct Answer: neurotransmitters
+Distractors: hormones, enzymes, steroids.
+  - hormones: Similarity Score: 0.298298
+  - enzymes: Similarity Score: 0.375444
+  - steroids.: Similarity Score: 0.404596
+
+  - neurotransmitters: Probability Score (good answer): 0.136153
+  - hormones: Probability Score: 0.627105
+  - enzymes: Probability Score: 0.112422
+  - steroids.: Probability Score: 0.728478
+
+  - hormones: Lexical Score: 0.000000
+  - enzymes: Lexical Score: 0.000000
+  - steroids.: Lexical Score: 0.000000
+
+Context: All rocks on Earth change, but these changes usually happen very slowly. Some changes happen below Earth’s surface. Some changes happen above ground. These changes are all part of the rock cycle. The rock cycle describes each of the main types of rocks, how they form and how they change. Figure below shows how the three main rock types are related to each other. The arrows within the circle show how one type of rock may change to rock of another type. For example, igneous rock may break down into small pieces of sediment and become sedimentary rock. Igneous rock may be buried within the Earth and become metamorphic rock. Igneous rock may also change back to molten material and re-cool into a new igneous rock.
+Question: Do changes to rocks happen quickly or slowly?
+Correct Answer: slowly
+Distractors: quickly, quickly, slowly
+  - quickly: Similarity Score: 0.120585
+  - quickly: Similarity Score: 0.120585
+  - slowly: Similarity Score: 1.000000
+
+  - slowly: Probability Score (good answer): 0.688390
+  - quickly: Probability Score: 0.612173
+  - quickly: Probability Score: 0.612173
+  - slowly: Probability Score: 0.688390
+
+  - quickly: Lexical Score: 0.000000
+  - quickly: Lexical Score: 0.000000
+  - slowly: Lexical Score: 1.000000
+
+Context: To move blood through the heart, the cardiac muscle needs to contract in an organized way. Blood first enters the atria ( Figure below ). When the atria contract, blood is pushed into the ventricles. After the ventricles fill with blood, they contract, and blood is pushed out of the heart. The heart is mainly composed of cardiac muscle. These muscle cells contract in unison, causing the heart itself to contract and generating enough force to push the blood out.
+Question: What kind of muscle is the heart mainly composed of?
+Correct Answer: cardiac muscle
+Distractors: smooth muscle, skeletal muscle, skeletal muscle fibers are larger than cardiac muscle fibers.
+  - smooth muscle: Similarity Score: 0.399552
+  - skeletal muscle: Similarity Score: 0.533717
+  - skeletal muscle fibers are larger than cardiac muscle fibers.: Similarity Score: 0.489254
+
+  - cardiac muscle: Probability Score (good answer): 0.440901
+  - smooth muscle: Probability Score: 0.495605
+  - skeletal muscle: Probability Score: 0.396809
+  - skeletal muscle fibers are larger than cardiac muscle fibers.: Probability Score: 0.051164
+
+  - smooth muscle: Lexical Score: 0.333333
+  - skeletal muscle: Lexical Score: 0.333333
+  - skeletal muscle fibers are larger than cardiac muscle fibers.: Lexical Score: 0.250000
+
+Context: Physical science explains much of what you observe and do in your daily life. In fact, you depend on physical science for almost everything that makes modern life possible. You couldn’t drive a car, text message, or send a tweet without decades of advances in chemistry and physics. You wouldn’t even be able to turn on a light. Figure below shows some other examples of common activities that depend on advances in physical science. You’ll learn the "hows" and "whys" about them as you read the rest of this book.
+Question: What branch of science explains much of what you observe and do in your daily life?
+Correct Answer: physical science
+Distractors: natural science, biological science, biological engineering science.
+  - natural science: Similarity Score: 0.555964
+  - biological science: Similarity Score: 0.425205
+  - biological engineering science.: Similarity Score: 0.361762
+
+  - physical science: Probability Score (good answer): 0.441954
+  - natural science: Probability Score: 0.480172
+  - biological science: Probability Score: 0.520563
+  - biological engineering science.: Probability Score: 0.613612
+
+  - natural science: Lexical Score: 0.333333
+  - biological science: Lexical Score: 0.333333
+  - biological engineering science.: Lexical Score: 0.000000
+
+Context: 
+Question: In multicellular organisms, essential biological functions are carried out by what?
+Correct Answer: organs
+Distractors: cells, hormones, tissues.
+  - cells: Similarity Score: 0.299215
+  - hormones: Similarity Score: 0.299862
+  - tissues.: Similarity Score: 0.228126
+
+  - organs: Probability Score (good answer): 0.023133
+  - cells: Probability Score: 0.061429
+  - hormones: Probability Score: 0.573152
+  - tissues.: Probability Score: 0.354012
+
+  - cells: Lexical Score: 0.000000
+  - hormones: Lexical Score: 0.000000
+  - tissues.: Lexical Score: 0.000000
+
+Context: Many plants respond to the days growing shorter in the fall by going dormant. They suspend growth and development in order to survive the extreme coldness and dryness of winter. Part of this response causes the leaves of many trees to change color and then fall off (see Figure below ). Dormancy ensures that plants will grow and produce seeds only when conditions are favorable.
+Question: Many plants respond to the days growing shorter in the fall by doing what?
+Correct Answer: going dormant
+Distractors: going dormant, going dormant, going dormant and flowering at the same time.
+  - going dormant: Similarity Score: 1.000000
+  - going dormant: Similarity Score: 1.000000
+  - going dormant and flowering at the same time.: Similarity Score: 0.602173
+
+  - going dormant: Probability Score (good answer): 0.644866
+  - going dormant: Probability Score: 0.644866
+  - going dormant: Probability Score: 0.644866
+  - going dormant and flowering at the same time.: Probability Score: 0.271206
+
+  - going dormant: Lexical Score: 1.000000
+  - going dormant: Lexical Score: 1.000000
+  - going dormant and flowering at the same time.: Lexical Score: 0.250000
+
+Context: Most mercury compounds decompose when heated. Most mercury compounds contain mercury with a 2+-oxidation state. When there is a large excess of mercury, it is possible to form compounds containing the Hg 2 2+ ion. All mercury compounds are toxic, and it is necessary to exercise great care in their synthesis.
+Question: Most mercury compounds decompose when they are?
+Correct Answer: heated
+Distractors: heated, cooled, distilled water only.
+  - heated: Similarity Score: 1.000000
+  - cooled: Similarity Score: 0.098597
+  - distilled water only.: Similarity Score: -0.004632
+
+  - heated: Probability Score (good answer): 0.000249
+  - heated: Probability Score: 0.000249
+  - cooled: Probability Score: 0.000069
+  - distilled water only.: Probability Score: 0.000002
+
+  - heated: Lexical Score: 1.000000
+  - cooled: Lexical Score: 0.000000
+  - distilled water only.: Lexical Score: 0.000000
+
+Context: Hypothalamic-Pituitary Axis The hypothalamus in vertebrates integrates the endocrine and nervous systems. The hypothalamus is an endocrine organ located in the diencephalon of the brain. It receives input from the body and other brain areas and initiates endocrine responses to environmental changes. The hypothalamus acts as an endocrine organ, synthesizing hormones and transporting them along axons to the posterior pituitary gland. It synthesizes and secretes regulatory hormones that control the endocrine cells in the anterior pituitary gland. The hypothalamus contains autonomic centers that control endocrine cells in the adrenal medulla via neuronal control. The pituitary gland, sometimes called the hypophysis or “master gland” is located at the base of the brain in the sella turcica, a groove of the sphenoid bone of the skull, illustrated in Figure 37.15. It is attached to the hypothalamus via a stalk called the pituitary stalk (or infundibulum). The anterior portion of the pituitary gland is regulated by releasing or release-inhibiting hormones produced by the hypothalamus, and the posterior pituitary receives signals via neurosecretory cells to release hormones produced by the hypothalamus. The pituitary has two distinct regions—the anterior pituitary and the posterior pituitary—which between them secrete nine different peptide or protein hormones. The posterior lobe of the pituitary gland contains axons of the hypothalamic neurons.
+Question: The hypothalamus in vertebrates integrates what two systems?
+Correct Answer: endocrine and nervous
+Distractors: nervous and endocrine, digestive and nervous, digestive and endocrine.
+  - nervous and endocrine: Similarity Score: 0.866781
+  - digestive and nervous: Similarity Score: 0.618683
+  - digestive and endocrine.: Similarity Score: 0.472699
+
+  - endocrine and nervous: Probability Score (good answer): 0.586426
+  - nervous and endocrine: Probability Score: 0.180626
+  - digestive and nervous: Probability Score: 0.252880
+  - digestive and endocrine.: Probability Score: 0.527904
+
+  - nervous and endocrine: Lexical Score: 1.000000
+  - digestive and nervous: Lexical Score: 0.500000
+  - digestive and endocrine.: Lexical Score: 0.200000
+
+Context: 
+Question: Only after implantation can an embryo develop into a what?
+Correct Answer: fetus
+Distractors: fetus, embryo, larva.
+  - fetus: Similarity Score: 1.000000
+  - embryo: Similarity Score: 0.399553
+  - larva.: Similarity Score: 0.129501
+
+  - fetus: Probability Score (good answer): 0.023212
+  - fetus: Probability Score: 0.023212
+  - embryo: Probability Score: 0.044467
+  - larva.: Probability Score: 0.039153
+
+  - fetus: Lexical Score: 1.000000
+  - embryo: Lexical Score: 0.000000
+  - larva.: Lexical Score: 0.000000
+
+Total count of outliers: 133

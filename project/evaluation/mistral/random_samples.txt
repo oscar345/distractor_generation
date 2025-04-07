@@ -1,0 +1,341 @@
+Random Samples:
+Context: One of the most important series of endothermic reactions is photosynthesis. The energy needed for photosynthesis comes from light.
+Question: Photosynthesis is an endothermic reaction that gets its energy from what?
+Correct Answer: light
+Distractors: water, heat, None
+  - water: Similarity Score: 0.113199
+  - heat: Similarity Score: 0.357540
+  - None: Similarity Score: 0.296510
+
+  - light: Probability Score (good answer): 0.002966
+  - water: Probability Score: 0.099362
+  - heat: Probability Score: 0.013728
+  - None: Probability Score: 0.000000
+
+  - water: Lexical Score: 0.000000
+  - heat: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Natural selection can change a species or even make a new species. Natural processes favor some traits over others in a population. This causes those traits to be more common in subsequent generations.
+Question: What is the mechanism by which favorable traits become more common in organisms over the course of generations?
+Correct Answer: natural selection
+Distractors: natural variation, natural difference, inheritance selection process .
+  - natural variation: Similarity Score: 0.770566
+  - natural difference: Similarity Score: 0.730216
+  - inheritance selection process .: Similarity Score: 0.248758
+
+  - natural selection: Probability Score (good answer): 0.684854
+  - natural variation: Probability Score: 0.585209
+  - natural difference: Probability Score: 0.215663
+  - inheritance selection process .: Probability Score: 0.057443
+
+  - natural variation: Lexical Score: 0.333333
+  - natural difference: Lexical Score: 0.333333
+  - inheritance selection process .: Lexical Score: 0.200000
+
+Context: Torque is equal to the cross product as stated above. In general, one can simplify by saying that the torque is equal to the force acting on the object multiplied by the perpendicular distance from the application of the force to the rotational axis. Say you had a seesaw. It is easier to exert torque, get the seesaw to move, if you pushed on the board near the end rather than near the middle. It is the rotational version of Force.
+Question: In phyisics, what is considered to be the rotational version of force?
+Correct Answer: torque
+Distractors: gravitation, impulse, pressure.
+  - gravitation: Similarity Score: 0.204328
+  - impulse: Similarity Score: 0.223283
+  - pressure.: Similarity Score: 0.225211
+
+  - torque: Probability Score (good answer): 0.000000
+  - gravitation: Probability Score: 0.000000
+  - impulse: Probability Score: 0.000055
+  - pressure.: Probability Score: 0.000002
+
+  - gravitation: Lexical Score: 0.000000
+  - impulse: Lexical Score: 0.000000
+  - pressure.: Lexical Score: 0.000000
+
+Context: Adult tunicates are barrel-shaped. They have two openings that siphon water into and out of the body. The flow of water provides food for filter feeding. Tunicates reproduce sexually. Each individual produces both male and female gametes. However, they avoid self-fertilization. Tunicates can also reproduce asexually by budding.
+Question: How many openings do adult tunicates have that siphon water in and out of the body?
+Correct Answer: two
+Distractors: one, three, five - seven - eight - one or two - it varies
+  - one: Similarity Score: 0.282031
+  - three: Similarity Score: 0.265161
+  - five - seven - eight - one or two - it varies: Similarity Score: 0.021950
+
+  - two: Probability Score (good answer): 0.029182
+  - one: Probability Score: 0.007460
+  - three: Probability Score: 0.031337
+  - five - seven - eight - one or two - it varies: Probability Score: 0.023634
+
+  - one: Lexical Score: 0.000000
+  - three: Lexical Score: 0.000000
+  - five - seven - eight - one or two - it varies: Lexical Score: 0.111111
+
+Context: The relative scale of atomic masses in amu is also a relative scale of masses in grams. We said before that the mole is officially equal to the number of carbon atoms in exactly 12 g of carbon-12. In other words, one carbon-12 atom has a mass of exactly 12 amu, and one mole of carbon atoms has a mass of exactly 12 grams. This relationship is true for all substances. If one atom of helium has a mass of 4.00 amu, one mole of helium atoms has a mass of 4.00 g. One molecule of water has a mass of 18.0 amu, so one mole of water molecules has a mass of 18.0 grams. Molar mass is defined as the mass of one mole of representative particles of a substance. It is expressed in units of grams per mole (g/mol).
+Question: What unit of measurement is defined to be the number of atoms in 12g of carbon-12?
+Correct Answer: one mole
+Distractors: one calorie, one atom, None
+  - one calorie: Similarity Score: 0.448448
+  - one atom: Similarity Score: 0.429986
+  - None: Similarity Score: 0.377691
+
+  - one mole: Probability Score (good answer): 0.007991
+  - one calorie: Probability Score: 0.000061
+  - one atom: Probability Score: 0.015632
+  - None: Probability Score: 0.000003
+
+  - one calorie: Lexical Score: 0.333333
+  - one atom: Lexical Score: 0.333333
+  - None: Lexical Score: 0.000000
+
+Context: Intraspecific competition occurs between members of the same species. It improves the species’ adaptations.
+Question: Competition that occurs between members of the same species, which improves the species’ adaptations, is called what?
+Correct Answer: intraspecific competition
+Distractors: interspecies competition, interspecies selection, intraspecies selection23945.pdf - 239 Kb
+  - interspecies competition: Similarity Score: 0.594554
+  - interspecies selection: Similarity Score: 0.272126
+  - intraspecies selection23945.pdf - 239 Kb: Similarity Score: 0.231290
+
+  - intraspecific competition: Probability Score (good answer): 0.331541
+  - interspecies competition: Probability Score: 0.401030
+  - interspecies selection: Probability Score: 0.239662
+  - intraspecies selection23945.pdf - 239 Kb: Probability Score: 0.053428
+
+  - interspecies competition: Lexical Score: 0.333333
+  - interspecies selection: Lexical Score: 0.000000
+  - intraspecies selection23945.pdf - 239 Kb: Lexical Score: 0.000000
+
+Context: Breathing involves pressure differences between the inside of the lungs and the air outside. The pressure differences are only a few torr. A normal breath is about 0.50 L. If room temperature is about 22°C, then the air has a temperature of about 295 K. With normal pressure being 1.0 atm, how many moles of air do we take in for every breath? The ideal gas law gives us an answer:.
+Question: Breathing involves differences in what, measured in torr, between the inside of the lungs and the air outside?
+Correct Answer: pressure
+Distractors: mass, height, volume density ratio (VDR) (A measure of the amount of a substance that occupies a set amount of volume. VDR is expressed using SI units and
+  - mass: Similarity Score: 0.393728
+  - height: Similarity Score: 0.450719
+  - volume density ratio (VDR) (A measure of the amount of a substance that occupies a set amount of volume. VDR is expressed using SI units and: Similarity Score: 0.214647
+
+  - pressure: Probability Score (good answer): 0.000773
+  - mass: Probability Score: 0.000033
+  - height: Probability Score: 0.001273
+  - volume density ratio (VDR) (A measure of the amount of a substance that occupies a set amount of volume. VDR is expressed using SI units and: Probability Score: 0.002049
+
+  - mass: Lexical Score: 0.000000
+  - height: Lexical Score: 0.000000
+  - volume density ratio (VDR) (A measure of the amount of a substance that occupies a set amount of volume. VDR is expressed using SI units and: Lexical Score: 0.000000
+
+Context: Like you, scientists also group together similar organisms. The science of classifying living things is called taxonomy. Scientists classify living things in order to organize and make sense of the incredible diversity of life. Modern scientists base their classifications mainly on molecular similarities. They group together organisms that have similar proteins and DNA. Molecular similarities show that organisms are related. In other words, they are descendants of a common ancestor in the past.
+Question: What is the science of classifying living things called?
+Correct Answer: taxonomy
+Distractors: pale, None, None
+  - pale: Similarity Score: 0.076929
+  - None: Similarity Score: 0.190421
+  - None: Similarity Score: 0.190421
+
+  - taxonomy: Probability Score (good answer): 0.005305
+  - pale: Probability Score: 0.002772
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - pale: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: The nucleus is at the center of the atom. It contains positive protons and neutral neutrons. Negative electrons constantly move about the nucleus.
+Question: What contains positive protons and neutral neutrons?
+Correct Answer: nucleus
+Distractors: chromosomes, cell wall, cytoplasmic layer (C
+  - chromosomes: Similarity Score: 0.460822
+  - cell wall: Similarity Score: 0.360558
+  - cytoplasmic layer (C: Similarity Score: 0.543515
+
+  - nucleus: Probability Score (good answer): 0.000046
+  - chromosomes: Probability Score: 0.000017
+  - cell wall: Probability Score: 0.000003
+  - cytoplasmic layer (C: Probability Score: 0.000017
+
+  - chromosomes: Lexical Score: 0.000000
+  - cell wall: Lexical Score: 0.000000
+  - cytoplasmic layer (C: Lexical Score: 0.000000
+
+Context: Temperature and precipitation determine what types of plants can grow in an area. Animals and other living things depend on plants. So each climate is associated with certain types of living things. A major type of climate and its living things make up a biome . As you read about the major climate types below, find them on the map above ( Figure above ).
+Question: Temperature and precipitation determine the types of what that can grow in an area, in turn affecting the animals that live there?
+Correct Answer: plants
+Distractors: animals, soil, tectonic plates activity level: biomass and energy in living systems. These plates slide over each other, or past each other , as they do so.
+  - animals: Similarity Score: 0.087596
+  - soil: Similarity Score: 0.499745
+  - tectonic plates activity level: biomass and energy in living systems. These plates slide over each other, or past each other , as they do so.: Similarity Score: 0.195904
+
+  - plants: Probability Score (good answer): 0.060234
+  - animals: Probability Score: 0.000303
+  - soil: Probability Score: 0.000037
+  - tectonic plates activity level: biomass and energy in living systems. These plates slide over each other, or past each other , as they do so.: Probability Score: 0.000820
+
+  - animals: Lexical Score: 0.000000
+  - soil: Lexical Score: 0.000000
+  - tectonic plates activity level: biomass and energy in living systems. These plates slide over each other, or past each other , as they do so.: Lexical Score: 0.000000
+
+Context: Psychrophiles grow and reproduce in cold temperatures. The optimal growth temperature of some psychrophiles is 15°C or lower; they cannot grow in temperatures above 20°C. The environments that psychrophiles inhabit are found all over Earth. Psychrophiles live in such places as permafrost soils, deep-ocean waters, Arctic and Antarctic glaciers and snowfields.
+Question: What kind of weather do psychrophiles need to grow and reproduce?
+Correct Answer: cold temperatures
+Distractors: None, None, None
+  - None: Similarity Score: 0.054604
+  - None: Similarity Score: 0.054604
+  - None: Similarity Score: 0.054604
+
+  - cold temperatures: Probability Score (good answer): 0.045158
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Electromagnetic waves carry energy through matter or space as vibrating electric and magnetic fields. Electromagnetic waves have a wide range of wavelengths and frequencies. The complete range is called the electromagnetic spectrum. The Figure below shows all the waves of the spectrum. The waves used in radar guns are microwaves.
+Question: What kind of waves are used in radar guns?
+Correct Answer: microwaves
+Distractors: radio waves, sound waves, x rays waves.
+  - radio waves: Similarity Score: 0.465095
+  - sound waves: Similarity Score: 0.432851
+  - x rays waves.: Similarity Score: 0.436044
+
+  - microwaves: Probability Score (good answer): 0.011393
+  - radio waves: Probability Score: 0.000008
+  - sound waves: Probability Score: 0.006892
+  - x rays waves.: Probability Score: 0.093931
+
+  - radio waves: Lexical Score: 0.000000
+  - sound waves: Lexical Score: 0.000000
+  - x rays waves.: Lexical Score: 0.000000
+
+Context: Isotopes are named for their number of protons plus neutrons. If a carbon atom had seven neutrons, what would it be named?.
+Question: Isotopes are named for their number of protons plus what?
+Correct Answer: neutrons
+Distractors: electrons, sub-neutrons, quark units · +4 protons , −2 electrons = +6 · = He(g) O(l) + Na(
+  - electrons: Similarity Score: 0.216797
+  - sub-neutrons: Similarity Score: 0.901846
+  - quark units · +4 protons , −2 electrons = +6 · = He(g) O(l) + Na(: Similarity Score: 0.435678
+
+  - neutrons: Probability Score (good answer): 0.000050
+  - electrons: Probability Score: 0.001221
+  - sub-neutrons: Probability Score: 0.000035
+  - quark units · +4 protons , −2 electrons = +6 · = He(g) O(l) + Na(: Probability Score: 0.338777
+
+  - electrons: Lexical Score: 0.000000
+  - sub-neutrons: Lexical Score: 0.000000
+  - quark units · +4 protons , −2 electrons = +6 · = He(g) O(l) + Na(: Lexical Score: 0.000000
+
+Context: The nucleus of many cells also contains an organelle called a nucleolus , shown in Figure below . The nucleolus is mainly involved in the assembly of ribosomes. Ribosomes are organelles made of protein and ribosomal RNA (rRNA), and they build cellular proteins in the cytoplasm. The function of the rRNA is to provide a way of decoding the genetic messages within another type of RNA, called mRNA for messenger RNA, into amino acids. After being made in the nucleolus, ribosomes are exported to the cytoplasm where they direct protein synthesis.
+Question: Which organelles, made of protein and ribosomal rna, build cellular proteins in the cytoplasm?
+Correct Answer: ribosomes
+Distractors: amino acids, vesicles, vacuoles , chloroplasts and cell walls organelles , such as lipid storage.
+  - amino acids: Similarity Score: 0.141714
+  - vesicles: Similarity Score: 0.298071
+  - vacuoles , chloroplasts and cell walls organelles , such as lipid storage.: Similarity Score: 0.168051
+
+  - ribosomes: Probability Score (good answer): 0.002403
+  - amino acids: Probability Score: 0.000280
+  - vesicles: Probability Score: 0.000669
+  - vacuoles , chloroplasts and cell walls organelles , such as lipid storage.: Probability Score: 0.055222
+
+  - amino acids: Lexical Score: 0.000000
+  - vesicles: Lexical Score: 0.000000
+  - vacuoles , chloroplasts and cell walls organelles , such as lipid storage.: Lexical Score: 0.000000
+
+Context: 33.19. The large structure with a central nucleus is the cell body of the neuron. Projections from the cell body are either dendrites specialized in receiving input or a single axon specialized in transmitting impulses. Some glial cells are also shown. Astrocytes regulate the chemical environment of the nerve cell, and oligodendrocytes insulate the axon so the electrical nerve impulse is transferred more efficiently. Other glial cells that are not shown support the nutritional and waste requirements of the neuron. Some of the glial cells are phagocytic and remove debris or damaged cells from the tissue. A nerve consists of neurons and glial cells.
+Question: What part of the neuron is a large structure with a central nucleus?
+Correct Answer: cell body
+Distractors: mycelium, organelle, mitochondria , in which A
+  - mycelium: Similarity Score: 0.476880
+  - organelle: Similarity Score: 0.263239
+  - mitochondria , in which A: Similarity Score: 0.371819
+
+  - cell body: Probability Score (good answer): 0.000207
+  - mycelium: Probability Score: 0.000001
+  - organelle: Probability Score: 0.000040
+  - mitochondria , in which A: Probability Score: 0.001981
+
+  - mycelium: Lexical Score: 0.000000
+  - organelle: Lexical Score: 0.000000
+  - mitochondria , in which A: Lexical Score: 0.000000
+
+Context: species that benefits and harms a host in a parasitic relationship.
+Question: A species that benefits and harms the host organism is called a what?
+Correct Answer: parasite
+Distractors: None, None, None
+  - None: Similarity Score: 0.028891
+  - None: Similarity Score: 0.028891
+  - None: Similarity Score: 0.028891
+
+  - parasite: Probability Score (good answer): 0.068544
+  - None: Probability Score: 0.001565
+  - None: Probability Score: 0.001565
+  - None: Probability Score: 0.001565
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: What is the term for the force that brings objects toward the earth?
+Correct Answer: gravity
+Distractors: None, None, None
+  - None: Similarity Score: 0.278430
+  - None: Similarity Score: 0.278430
+  - None: Similarity Score: 0.278430
+
+  - gravity: Probability Score (good answer): 0.001001
+  - None: Probability Score: 0.000009
+  - None: Probability Score: 0.000009
+  - None: Probability Score: 0.000009
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: Malonate plays what negative role on the enzyme succinate dehydrogenase?
+Correct Answer: inhibitor
+Distractors: inducer, nutrient, antidote 4: positive role.
+  - inducer: Similarity Score: 0.049854
+  - nutrient: Similarity Score: 0.086163
+  - antidote 4: positive role.: Similarity Score: 0.171942
+
+  - inhibitor: Probability Score (good answer): 0.000011
+  - inducer: Probability Score: 0.000000
+  - nutrient: Probability Score: 0.000000
+  - antidote 4: positive role.: Probability Score: 0.000000
+
+  - inducer: Lexical Score: 0.000000
+  - nutrient: Lexical Score: 0.000000
+  - antidote 4: positive role.: Lexical Score: 0.000000
+
+Context: Weather is very difficult to predict. That’s because it’s very complex and many factors are involved. Slight changes in even one factor can cause a big change in the weather. Still, certain “rules of thumb” generally apply. These “rules” help meteorologists forecast the weather. For example, low pressure is likely to bring stormy weather. So if a center of low pressure is moving your way, you can expect a storm.
+Question: What kind of weather can you expect if a center of low pressure is moving your way?
+Correct Answer: stormy
+Distractors: None, None, None
+  - None: Similarity Score: 0.074307
+  - None: Similarity Score: 0.074307
+  - None: Similarity Score: 0.074307
+
+  - stormy: Probability Score (good answer): 0.156528
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: The ladybug and the frog both start as eggs and go through what process?
+Correct Answer: metamorphosis
+Distractors: osmosis, mutation, evolutionary change with prokaryotic species such as bacteria (or asexual reproduction ) is known collectively. The first of the bacteria
+  - osmosis: Similarity Score: 0.520670
+  - mutation: Similarity Score: 0.506354
+  - evolutionary change with prokaryotic species such as bacteria (or asexual reproduction ) is known collectively. The first of the bacteria: Similarity Score: 0.396397
+
+  - metamorphosis: Probability Score (good answer): 0.658858
+  - osmosis: Probability Score: 0.000000
+  - mutation: Probability Score: 0.005396
+  - evolutionary change with prokaryotic species such as bacteria (or asexual reproduction ) is known collectively. The first of the bacteria: Probability Score: 0.001210
+
+  - osmosis: Lexical Score: 0.000000
+  - mutation: Lexical Score: 0.000000
+  - evolutionary change with prokaryotic species such as bacteria (or asexual reproduction ) is known collectively. The first of the bacteria: Lexical Score: 0.000000
+

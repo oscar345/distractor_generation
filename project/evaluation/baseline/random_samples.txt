@@ -1,0 +1,341 @@
+Random Samples:
+Context: Summary Covalent inorganic compounds are named by a procedure similar to that used for ionic compounds, using prefixes to indicate the numbers of atoms in the molecular formula. The simplest organic compounds are the hydrocarbons, which containonly carbon and hydrogen. Alkanes contain only carbon–hydrogen and carbon–carbon single bonds, alkenes contain at least one carbon–carbon double bond, and alkynes contain one or more carbon–carbon triple bonds. Hydrocarbons can also be cyclic, with the.
+Question: What are the simplest organic compounds?
+Correct Answer: hydrocarbons
+Distractors: None, None, None
+  - None: Similarity Score: -0.011812
+  - None: Similarity Score: -0.011812
+  - None: Similarity Score: -0.011812
+
+  - hydrocarbons: Probability Score (good answer): 0.002651
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Approximately 20% of the atmosphere is oxygen. This gas is essential for life. In environments where oxygen is in low supply, it can be provided from a tank. Since gases are very compressible, a large amount of oxygen can be stored in a relatively small container. When it is released, the volume expands and the pressure decreases. The gas is then available for breathing under normal pressure.
+Question: Approximately 20% of the atmosphere is made of which element?
+Correct Answer: oxygen
+Distractors: None, None, None
+  - None: Similarity Score: 0.153649
+  - None: Similarity Score: 0.153649
+  - None: Similarity Score: 0.153649
+
+  - oxygen: Probability Score (good answer): 0.000204
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: Solute potential is also called osmotic potential because solutes affect the direction of what?
+Correct Answer: osmosis
+Distractors: None, None, None
+  - None: Similarity Score: 0.087070
+  - None: Similarity Score: 0.087070
+  - None: Similarity Score: 0.087070
+
+  - osmosis: Probability Score (good answer): 0.000002
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Most mercury compounds decompose when heated. Most mercury compounds contain mercury with a 2+-oxidation state. When there is a large excess of mercury, it is possible to form compounds containing the Hg 2 2+ ion. All mercury compounds are toxic, and it is necessary to exercise great care in their synthesis.
+Question: Most mercury compounds decompose when they are?
+Correct Answer: heated
+Distractors: None, None, None
+  - None: Similarity Score: 0.204734
+  - None: Similarity Score: 0.204734
+  - None: Similarity Score: 0.204734
+
+  - heated: Probability Score (good answer): 0.000249
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: The combined forces acting on an object are called the net force. When forces act in opposite directions, they are subtracted to yield the net force. When they act in the same direction, they are added to yield the net force.
+Question: What is the term for the combined forces acting on an object?
+Correct Answer: net force
+Distractors: None, None, None
+  - None: Similarity Score: 0.215284
+  - None: Similarity Score: 0.215284
+  - None: Similarity Score: 0.215284
+
+  - net force: Probability Score (good answer): 0.016044
+  - None: Probability Score: 0.000508
+  - None: Probability Score: 0.000508
+  - None: Probability Score: 0.000508
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: What is the term for the force that brings objects toward the earth?
+Correct Answer: gravity
+Distractors: None, None, None
+  - None: Similarity Score: 0.278430
+  - None: Similarity Score: 0.278430
+  - None: Similarity Score: 0.278430
+
+  - gravity: Probability Score (good answer): 0.001001
+  - None: Probability Score: 0.000009
+  - None: Probability Score: 0.000009
+  - None: Probability Score: 0.000009
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Birds live and breed in most terrestrial habitats on all seven continents. They occupy a wide range of ecological positions. Raptors are carnivores; aquatic birds eat fish or water plants; and perching birds may eat insects, fruit, honey, or nectar. Some birds are pollinators that co-evolved with plants. Human actions have caused the extinction of hundreds of species of birds, and some 1,200 species are threatened with extinction today.
+Question: On how many of the continents do birds live and breed?
+Correct Answer: seven
+Distractors: None, None, None
+  - None: Similarity Score: 0.374640
+  - None: Similarity Score: 0.374640
+  - None: Similarity Score: 0.374640
+
+  - seven: Probability Score (good answer): 0.263226
+  - None: Probability Score: 0.000001
+  - None: Probability Score: 0.000001
+  - None: Probability Score: 0.000001
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Population Growth The two simplest models of population growth use deterministic equations (equations that do not account for random events) to describe the rate of change in the size of a population over time. The first of these models, exponential growth, describes theoretical populations that increase in numbers without any limits to their growth. The second model, logistic growth, introduces limits to reproductive growth that become more intense as the population size increases. Neither model adequately describes natural populations, but they provide points of comparison. Exponential Growth Charles Darwin, in developing his theory of natural selection, was influenced by the English clergyman Thomas Malthus. Malthus published his book in 1798 stating that populations with abundant natural resources grow very rapidly; however, they limit further growth by depleting their resources. The early pattern of accelerating population size is called exponential growth. The best example of exponential growth in organisms is seen in bacteria. Bacteria are prokaryotes that reproduce largely by binary fission. This division takes about an hour for many bacterial species. If 1000 bacteria are placed in a large flask with an abundant supply of nutrients (so the nutrients will not become quickly depleted), the number of bacteria will have doubled from 1000 to 2000 after just an hour. In another hour, each of the 2000 bacteria will divide, producing 4000 bacteria. After the third hour, there should be 8000 bacteria in the flask. The important concept of exponential growth is that the growth rate—the number of organisms added in each reproductive generation—is itself increasing; that is, the.
+Question: The two simplest models of population growth use what to describe the rate of change in the size of a population over time?
+Correct Answer: deterministic equations
+Distractors: None, None, None
+  - None: Similarity Score: 0.155853
+  - None: Similarity Score: 0.155853
+  - None: Similarity Score: 0.155853
+
+  - deterministic equations: Probability Score (good answer): 0.220490
+  - None: Probability Score: 0.002399
+  - None: Probability Score: 0.002399
+  - None: Probability Score: 0.002399
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 
+Question: The beginning of what season experiences the shortest period of daylight hours?
+Correct Answer: winter
+Distractors: spring, fall, summer
+  - spring: Similarity Score: -0.026397
+  - fall: Similarity Score: 0.207977
+  - summer: Similarity Score: -0.181682
+
+  - winter: Probability Score (good answer): 0.015857
+  - spring: Probability Score: 0.008846
+  - fall: Probability Score: 0.002347
+  - summer: Probability Score: 0.027067
+
+  - spring: Lexical Score: 0.000000
+  - fall: Lexical Score: 0.000000
+  - summer: Lexical Score: 0.000000
+
+Context: Technological design is the development of new technology. The design process is based on evidence and logic.
+Question: What term is used to describe the development of new technology?
+Correct Answer: technological design
+Distractors: None, None, None
+  - None: Similarity Score: 0.129115
+  - None: Similarity Score: 0.129115
+  - None: Similarity Score: 0.129115
+
+  - technological design: Probability Score (good answer): 0.053809
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Cnidarians have a simple nervous system. It consists of a net of nerves that can sense touch. You can see a sketch of the nerve net in a hydra in Figure below . Some cnidarians also have other sensory structures. For example, jellyfish have light-sensing structures and gravity-sensing structures.
+Question: Cnidarians are an example of organisms that possess a simple type of what system, used for sensing touch?
+Correct Answer: nervous system
+Distractors: None, None, None
+  - None: Similarity Score: 0.121472
+  - None: Similarity Score: 0.121472
+  - None: Similarity Score: 0.121472
+
+  - nervous system: Probability Score (good answer): 0.185363
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Metals represent approximately 25% of the elemental makeup of the Earth's crust. The bulk of these metals, primarily aluminum, iron, calcium, sodium, potassium, and magnesium, are typically found in combined form. The most abundant metal is aluminum, which occurs almost exclusively as the ionic mineral bauxite. The other most common metals, including iron, sodium, potassium, magnesium, and calcium, are also found primarily as the cationic portion of an ionic compound. Very few metals actually occur naturally as pure substances. The ones that do are often referred to as precious or semi-precious metals.
+Question: What is the most abundant metal of the earth's crust?
+Correct Answer: aluminum
+Distractors: None, None, None
+  - None: Similarity Score: 0.197375
+  - None: Similarity Score: 0.197375
+  - None: Similarity Score: 0.197375
+
+  - aluminum: Probability Score (good answer): 0.028875
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Can you guess what this picture shows? The purple and blue "flames" are matter in a particular state. You’re probably familiar with the states of matter most common on Earth — solids, liquids, and gases. But these "flames" are a state of matter called plasma. This plasma ball was made by humans. Plasma also occurs in nature. In fact, plasma makes up most of the matter in the universe.
+Question: What type of matter makes up most of the universe?
+Correct Answer: plasma
+Distractors: None, None, None
+  - None: Similarity Score: 0.223865
+  - None: Similarity Score: 0.223865
+  - None: Similarity Score: 0.223865
+
+  - plasma: Probability Score (good answer): 0.000013
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: 27.2 | Anatomy and Physiology of the Female Reproductive System By the end of this section, you will be able to: • Describe the structure and function of the organs of the female reproductive system • List the steps of oogenesis • Describe the hormonal changes that occur during the ovarian and menstrual cycles • Trace the path of an oocyte from ovary to fertilization The female reproductive system functions to produce gametes and reproductive hormones, just like the male reproductive system; however, it also has the additional task of supporting the developing fetus and delivering it to the outside world. Unlike its male counterpart, the female reproductive system is located primarily inside the pelvic cavity (Figure 27.9). Recall that the ovaries are the female gonads. The gamete they produce is called an oocyte. We’ll discuss the production of oocytes in detail shortly. First, let’s look at some of the structures of the female reproductive system.
+Question: What organs are considered the female gonads?
+Correct Answer: ovaries
+Distractors: None, None, None
+  - None: Similarity Score: 0.054096
+  - None: Similarity Score: 0.054096
+  - None: Similarity Score: 0.054096
+
+  - ovaries: Probability Score (good answer): 0.000043
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Adding energy to matter gives its atoms or molecules the ability to resist some of the forces holding them together. For example, heating ice to its melting point (0°C) gives its molecules enough energy to move. The ice melts and becomes liquid water. Similarly, heating liquid water to its boiling point (100°C) gives its molecules enough energy to pull apart from one another so they no longer have contact. The liquid water vaporizes and becomes water vapor.
+Question: Heating ice to its melting point (0°c) gives its molecules enough energy to do what?
+Correct Answer: move
+Distractors: None, None, None
+  - None: Similarity Score: 0.244725
+  - None: Similarity Score: 0.244725
+  - None: Similarity Score: 0.244725
+
+  - move: Probability Score (good answer): 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Communities are not usually static. The numbers and types of species that live in them generally change over time. This is called ecological succession . Important cases of succession are primary and secondary succession.
+Question: Ecological succession refers to the change in the numbers and types of species that live in what groups?
+Correct Answer: communities
+Distractors: Primary succession, Secondary succession, Community
+  - Primary succession: Similarity Score: 0.204282
+  - Secondary succession: Similarity Score: 0.154067
+  - Community: Similarity Score: 0.889248
+
+  - communities: Probability Score (good answer): 0.001464
+  - Primary succession: Probability Score: 0.000024
+  - Secondary succession: Probability Score: 0.000003
+  - Community: Probability Score: 0.000000
+
+  - Primary succession: Lexical Score: 0.000000
+  - Secondary succession: Lexical Score: 0.000000
+  - Community: Lexical Score: 0.000000
+
+Context: Earth and many other bodies—including asteroids, comets, and the other planets—move around the sun in curved paths called orbits. Generally, the orbits are elliptical, or oval, in shape. You can see the shape of Earth’s orbit in the Figure below . Because of the sun’s relatively strong gravity, Earth and the other bodies constantly fall toward the sun, but they stay far enough away from the sun because of their forward velocity to fall around the sun instead of into it. As a result, they keep orbiting the sun and never crash to its surface. The motion of Earth and the other bodies around the sun is called orbital motion . Orbital motion occurs whenever an object is moving forward and at the same time is pulled by gravity toward another object. You can explore orbital motion and gravity in depth with the animation at this URL:.
+Question: Asteroids, comets, and planets move around the sun in curved paths called what?
+Correct Answer: orbits
+Distractors: None, None, None
+  - None: Similarity Score: 0.264528
+  - None: Similarity Score: 0.264528
+  - None: Similarity Score: 0.264528
+
+  - orbits: Probability Score (good answer): 0.002104
+  - None: Probability Score: 0.000001
+  - None: Probability Score: 0.000001
+  - None: Probability Score: 0.000001
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: The photic zone extends to a maximum depth of 200 meters (656 feet) below the surface of the water. This is where enough sunlight penetrates for photosynthesis to occur. Algae and other photosynthetic organisms can make food and support food webs.
+Question: How many meters deep does the photic zone extend?
+Correct Answer: 200
+Distractors: None, None, None
+  - None: Similarity Score: 0.147277
+  - None: Similarity Score: 0.147277
+  - None: Similarity Score: 0.147277
+
+  - 200: Probability Score (good answer): 0.000381
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: Star clusters are groups of stars smaller than a galaxy. There are two main types, open clusters and globular clusters. Open clusters are groups of up to a few thousand stars held together by gravity. The Jewel Box, shown in Figure below , is an open cluster. Open clusters tend to be blue in color, and often contain glowing gas and dust. The stars in an open cluster are young stars that all formed from the same nebula.
+Question: What are groups of stars called that are smaller than a galaxy?
+Correct Answer: star clusters
+Distractors: None, None, None
+  - None: Similarity Score: 0.179380
+  - None: Similarity Score: 0.179380
+  - None: Similarity Score: 0.179380
+
+  - star clusters: Probability Score (good answer): 0.269893
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+  - None: Probability Score: 0.000000
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
+Context: When the pH of a solution is known, the concentration of the hydrogen ion can be calculated. The inverse of the logarithm (or antilog) is the 10 x key on a calculator.
+Question: The concentration of the hydrogen ion in a solution can be calculated when what is known?
+Correct Answer: ph
+Distractors: None, None, None
+  - None: Similarity Score: 0.121336
+  - None: Similarity Score: 0.121336
+  - None: Similarity Score: 0.121336
+
+  - ph: Probability Score (good answer): 0.000000
+  - None: Probability Score: 0.000003
+  - None: Probability Score: 0.000003
+  - None: Probability Score: 0.000003
+
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+  - None: Lexical Score: 0.000000
+
