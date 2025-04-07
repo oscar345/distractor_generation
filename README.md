@@ -20,7 +20,10 @@ With that setup, we can focus on the Python dependencies. To only have the corre
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+pip install bitsandbytes==0.45.4
 ```
+
+The `bitsandbytes` package is installed seperately, since it is not available on all devices. This package is needed for the train and predict actions for some of the models. So the preprocessing and evaluation (if you have the predictions already) tasks for all models can be run without the `bitsandbytes` package.
 
 To get access to the Llama and Mistral models, you will have to request access on the [Huggingface](https://huggingface.co/) website. Then to use them on your machine use the `huggingface-cli` command to login. You can follow the instruction given by the command.
 
