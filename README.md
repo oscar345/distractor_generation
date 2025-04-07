@@ -1,4 +1,10 @@
-# <TITLE FOR PROJECT>
+# Wrong Answers Only: Comparing Language Models for Science Quiz Distractor Generation
+
+## Members
+- Collin Krooneman
+- Michiel Pronk
+- Dennis van Thulden
+- Oscar Zwagers
 
 ## Installation
 For the code to be run on your machine you will need to have the following:
